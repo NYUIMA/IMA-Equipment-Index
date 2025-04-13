@@ -4,7 +4,7 @@ sidebar_position: 1
 tags:
     - "Audio Equipment"
 image: "/img/audio/akai_professional_midimix.png"
-description: "Brand: AKAI, Model: test"
+description: "Brand: AKAI, Model: None"
 ---
 # AKAI Professional MIDIMIX
 
@@ -13,8 +13,6 @@ description: "Brand: AKAI, Model: test"
 ## Basic information
 
 **Brand**: AKAI
-
-**Model**: test
 
 **Product page**: [https://www.amazon.com/Akai-Professional-High-Performan...](https://www.amazon.com/Akai-Professional-High-Performance-Portable-Controller/dp/B00XJE3W7C)
 
