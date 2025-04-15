@@ -1,5 +1,6 @@
 import requests
 
+# List of characters that are not allowed in filenames
 illegal_char_filename = [
     "\\",
     "/",
@@ -27,6 +28,7 @@ illegal_char_filename = [
     "®",
 ]
 
+# List of characters that need to be escaped in Markdown content
 illegal_char_markdown = [
     "\\",
     "`",
@@ -51,11 +53,13 @@ illegal_char_markdown = [
 
 class Item:
     def __init__(self, idx: int, category: str, data: tuple):
+        # Helper function to verify and sanitize string values
         def verify(val: str | None) -> str | None:
             if not val:
                 return None
             return str(val).strip()
 
+        # Helper function to truncate long URLs for display
         def wrap_URL(url: str):
             if not url:
                 return False
@@ -64,6 +68,7 @@ class Item:
             else:
                 return url
 
+        # Helper function to parse and format URLs into Markdown links
         def parse_url(url: str | None) -> str | None:
             if not url:
                 return None
@@ -80,6 +85,7 @@ class Item:
                 return "\n\n" + "\n\n".join(url)
             return url[0]
 
+        # Helper function to sanitize filenames by replacing illegal characters
         def sanitize_filename(filename: str) -> str:
             sanitized = []
             for char in filename.lower():
@@ -91,6 +97,7 @@ class Item:
                     sanitized.append(char)
             return "".join(sanitized)
 
+        # Helper function to sanitize Markdown content by escaping special characters
         def sanitize_description(content: str) -> str:
             if type(content) != str or content == "#REF!":
                 return ""
@@ -104,6 +111,7 @@ class Item:
                     sanitized.append(char)
             return "".join(sanitized)
 
+        # Initialize the Item object with sanitized and parsed data
         self.category: str = category
         self.idx: int = idx + 1
         self.name: str = data[1].value
@@ -121,9 +129,11 @@ class Item:
         self.accessories: str = sanitize_description(data[10].value)
 
     def __str__(self):
+        # String representation of the Item object
         return f"{self.idx}: {self.name} ({self.safe_name})\nDescription:\n{self.description}"
 
 
+# Function to download an image from a URL and save it to a specified file directory
 def image_downloader(url: str, filedir: str) -> None:
     response = requests.get(url)
     if response.status_code != 200:
@@ -134,6 +144,7 @@ def image_downloader(url: str, filedir: str) -> None:
         file.write(response.content)
 
 
+# Function to generate a Markdown header for a page
 def header_parser(title: str) -> str:
     return f"""\
 ---
@@ -148,6 +159,7 @@ pagination_next: null
 """
 
 
+# Function to parse a worksheet and create a list of Item objects
 def sheet_parser(ws) -> list[Item]:
     items = []
     category = ws.title
@@ -157,12 +169,14 @@ def sheet_parser(ws) -> list[Item]:
     return items
 
 
+# Function to generate a Markdown table row for an item
 def items_list_parser(item: Item) -> str:
     return f"""\
 | [{item.name}](./{item.safe_name}) | ![{item.safe_name}]({item.imageURL}) |
 """
 
 
+# Function to generate detailed information about an item in Markdown format
 def information_parser(item: Item) -> str:
     info = []
     basic_info = ["## Basic information"]
@@ -187,6 +201,7 @@ def information_parser(item: Item) -> str:
     return ""
 
 
+# Function to generate a Markdown page for an item
 def item_parser(item: Item) -> str:
     return f"""\
 ---
