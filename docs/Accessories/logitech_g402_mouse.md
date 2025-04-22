@@ -92,7 +92,3 @@ Extreme responsiveness gives you the edge
 
 Distinct left and right buttons offer extreme responsiveness\. With high\-speed clicking, you can push your skills even further while enjoying the edge in intense firefights\. Faster, more comfortable clicking makes all the difference with Hyperion Fury\.
 
-
-
-
-

@@ -22,8 +22,6 @@ description: "Brand: DSD Tech, Model: HC-05 gomcu"
 
 ## Description
 
- 
-
 Your Arduino connected with this module is able to establish a wireless bluetooth connection with your pc or smartphone with built in bluetooth\.
 
  

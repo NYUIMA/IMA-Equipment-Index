@@ -82,5 +82,3 @@ Jumper Wires 9" F/F \(10 Pack\)（ FIT0030） x1
 
 Magnet Micro USB Cable 1\.2m \( FIT0351\-OE\) x1
 
-
-

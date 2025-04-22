@@ -22,5 +22,3 @@ description: "Brand: Grove, Model: None"
 
 It is consist one coin type motor which is a Permanent Magnet coreless DC motor\. It vibrates when the input is logic HIGH\. It is very easy to drive and Grove compatible\. Can be used in toys and cell phone modules\.
 
-
-

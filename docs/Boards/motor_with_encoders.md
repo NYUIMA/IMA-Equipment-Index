@@ -30,7 +30,3 @@ GA12\-N20 Motor\*1
 
 ZH1\.5 6P 15cm  6\-pin wire connector\*1
 
-
-
-
-

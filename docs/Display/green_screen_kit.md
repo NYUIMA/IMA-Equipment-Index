@@ -18,8 +18,6 @@ description: "Brand: None, Model: None"
 
 ## Description
 
-
-
 Stands\*2
 
 Green Screen\*1

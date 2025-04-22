@@ -16,8 +16,6 @@ description: "Brand: None, Model: None"
 
 ## Description
 
-
-
 Power supply: AC110/220V 50\-60HZ
 
 

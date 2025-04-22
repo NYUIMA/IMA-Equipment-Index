@@ -20,5 +20,3 @@ description: "Brand: Moshi, Model: None"
 
 Connect your Mac to any HDMI TV or Monitor using this Mini DisplayPort to HDMI Adapter\. Supports both Full HD \(1080P\) and Ultra HD \(4K\) displays\.
 
-
-

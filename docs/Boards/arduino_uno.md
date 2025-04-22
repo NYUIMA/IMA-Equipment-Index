@@ -44,7 +44,3 @@ These colors match our sensor cables\. This makes it really easy to figure out w
 
 The Arduino Uno is a microcontroller board based on the ATmega328\. It has 14 digital input/output pins \(of which 6 can be used as PWM outputs\), 6 analog inputs, a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button\. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC\-to\-DC adapter or battery to get started\.
 
-
-
-
-

@@ -52,5 +52,3 @@ WIFI Bee
 
 Xbee Series communication mode
 
-
-

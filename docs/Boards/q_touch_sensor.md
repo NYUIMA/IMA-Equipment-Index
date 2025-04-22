@@ -42,5 +42,3 @@ Communicating Protocol: I2C
 
 I2C Address: 0x1B
 
-
-

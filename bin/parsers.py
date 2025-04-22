@@ -50,9 +50,23 @@ illegal_char_markdown = [
     "|",
 ]
 
+default_headers = [
+    "No.",
+    "Name",
+    "Category",
+    "Brand",
+    "Model",
+    "SKU/ID",
+    "Description",
+    "Production Link",
+    "Documentation Link",
+    "Accessories List",
+    "Picture",
+]
+
 
 class Item:
-    def __init__(self, idx: int, category: str, data: tuple):
+    def __init__(self, idx: int, category: str, data: tuple, header: dict):
         # Helper function to verify and sanitize string values
         def verify(val: str | None) -> str | None:
             if not val:
@@ -109,24 +123,36 @@ class Item:
                     sanitized.append("\n\n")
                 else:
                     sanitized.append(char)
-            return "".join(sanitized)
+            return "".join(sanitized).strip()
 
         # Initialize the Item object with sanitized and parsed data
         self.category: str = category
         self.idx: int = idx + 1
-        self.name: str = data[1].value
+        self.name: str = data[header["Name"]].value
         self.safe_name: str = sanitize_filename(self.name)
         self.imageRemoteURL: str = (
-            str(data[2].value).split('"')[1] if data[2].value else None
+            str(data[header["Picture"]].value).split('"')[1]
+            if data[header["Picture"]].value
+            else None
         )
         self.imageURL: str = f"/img/{self.category.lower()}/{self.safe_name}.png"
-        self.tag: str = data[3].value
-        self.brand: str = verify(data[4].value)
-        self.model: str = verify(data[5].value)
-        self.description: str = sanitize_description(data[7].value)
-        self.productURL: str = parse_url(data[8].value)
-        self.docURL: str = parse_url(data[9].value)
-        self.accessories: str = sanitize_description(data[10].value)
+        self.tag: str = data[header["Category"]].value
+        self.brand: str = verify(data[header["Brand"]].value)
+        self.model: str = verify(data[header["Model"]].value)
+        self.description: str = sanitize_description(data[header["Description"]].value)
+        self.productURL: str = parse_url(data[header["Production Link"]].value)
+        self.docURL: str = parse_url(data[header["Documentation Link"]].value)
+        self.accessories: str = sanitize_description(
+            data[header["Accessories List"]].value
+        )
+        self.additional_info = []
+        for e in header.keys():
+            if e not in default_headers:
+                content = sanitize_description(data[header[e]].value)
+                if content:
+                    self.additional_info.append(
+                        f"**{e}**: {"\n\n" if len(content.split("\n"))>1 else ""}{content}"
+                    )
 
     def __str__(self):
         # String representation of the Item object
@@ -135,13 +161,17 @@ class Item:
 
 # Function to download an image from a URL and save it to a specified file directory
 def image_downloader(url: str, filedir: str) -> None:
-    response = requests.get(url)
-    if response.status_code != 200:
-        raise Exception(
-            f"Error: {response.status_code} while fetching {url} to save as {filedir}"
-        )
-    with open(filedir, "wb") as file:
-        file.write(response.content)
+    try:
+        open(filedir)
+        return
+    except FileNotFoundError:
+        response = requests.get(url)
+        if response.status_code != 200:
+            raise Exception(
+                f"Error: {response.status_code} while fetching {url} to save as {filedir}"
+            )
+        with open(filedir, "wb") as file:
+            file.write(response.content)
 
 
 # Function to generate a Markdown header for a page
@@ -163,9 +193,14 @@ pagination_next: null
 def sheet_parser(ws) -> list[Item]:
     items = []
     category = ws.title
+    header: list[str] = [e.value for e in tuple(ws.rows)[0]]
+    header_map = {}
+    for t in enumerate(header):
+        if t[1] is not None:
+            header_map[t[1].strip()] = t[0]
     for idx, row in enumerate(tuple(ws.rows)[1:]):
         if row[1].value:
-            items.append(Item(idx, category, row))
+            items.append(Item(idx, category, row, header_map))
     return items
 
 
@@ -196,6 +231,10 @@ def information_parser(item: Item) -> str:
     if item.description:
         info.append("## Description")
         info.append(item.description)
+    if len(item.additional_info):
+        info.append("## Additional information")
+        for e in item.additional_info:
+            info.append(e)
     if len(info):
         return "\n\n".join(info)
     return ""

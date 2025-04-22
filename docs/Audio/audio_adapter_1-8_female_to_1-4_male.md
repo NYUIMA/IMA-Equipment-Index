@@ -18,7 +18,5 @@ description: "Brand: TriLink, Model: None"
 
 ## Description
 
-
-
 Usage: 6\.35mm to 3\.5mm stereo audio adapter allows you to connect your headphones or microphones with 1/8 inch plugs to audio devices such as home audio, amplifiers, guitar and piano with 1/4 inch stereo jack\.
 

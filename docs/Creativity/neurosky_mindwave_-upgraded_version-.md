@@ -30,5 +30,5 @@ MindWave Mobile 2 EEG headsets are the culmination of decades of EEG biosensor t
 
 
 
-MindWave Mobile 2 works with \*all your MindWave Mobile apps and features several design improvements for your comfort\. Flexible rubber sensor arms and rounded forehead sensor tip, T\-shaped headband, and wider ear clip contacts make MindWave Mobile 2 our most comfortable EEG headset yet\. 
+MindWave Mobile 2 works with \*all your MindWave Mobile apps and features several design improvements for your comfort\. Flexible rubber sensor arms and rounded forehead sensor tip, T\-shaped headband, and wider ear clip contacts make MindWave Mobile 2 our most comfortable EEG headset yet\.
 

@@ -22,5 +22,3 @@ description: "Brand: Apple, Model: None"
 
 MacBook Pro elevates the notebook to a whole new level of performance and portability\. Wherever your ideas take you, you’ll get there faster than ever with high‑performance processors and memory, advanced graphics, blazing‑fast storage, and more\.
 
-
-

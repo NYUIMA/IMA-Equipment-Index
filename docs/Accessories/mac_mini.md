@@ -28,7 +28,5 @@ description: "Brand: Apple, Model: MD387LL/A"
 
 ## Description
 
-
-
 Mac mini is an affordable powerhouse that packs the entire Mac experience into a 19\.7 centimeter\-square frame\. Just connect your own display, keyboard, and mouse, and you’re ready to make big things happen\.
 

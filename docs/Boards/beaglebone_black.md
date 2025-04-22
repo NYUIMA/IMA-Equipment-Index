@@ -34,9 +34,5 @@ description: "Brand: BeagleBone, Model: None"
 
 ## Description
 
-
-
 BeagleBone Black Rev\.C is a development kit based on an AM335x processor which integrates an ARM Cortex™\-A8 core operating at up to 1GHz and has abundant peripheral devices\. BB Black provides lots of expansion interfaces such as Ethernet, USB host and OTG, TF card, serial, JTAG \(no connector by default\), HDMI D type, Emmc, ADC, I2C, SPI, PWM and LCD\. Embest BeagleBone Black Rev\.C is designed to satisfy the different requirements of various fields including game devices, home and industrial automation, consumer medical devices, printers, intelligent tolling systems, weighing systems of intelligent vending machine, educational terminals and high\-end toys\.
-
-
 

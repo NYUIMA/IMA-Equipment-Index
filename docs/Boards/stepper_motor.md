@@ -46,5 +46,3 @@ Max\. radial force        28N \(20mm from the flange\)
 
 Max\. axial force        10N
 
-
-

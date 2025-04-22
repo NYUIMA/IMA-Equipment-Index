@@ -22,9 +22,5 @@ description: "Brand: Interlink Electronics, Model: 400 short"
 
 ## Description
 
-
-
 The model 400 short tail FSR is a single\-zone Force Sensing Resistor optimized for use in human touch control of electronic devices such as automotive electronics, medical systems, and in industrial and robotics applications\. FSRs are two\-wire devices\. They are robust polymer thick film \(PTF\) sensors that exhibit a decrease in resistance with increase in force applied to the surface of the sensor\. This device has a 5\.6 mm diameter active area and is available in 4 connection options\. Interlink Electronics FSR 400 series is part of the single zone Force Sensing Resistor family\.
-
-
 

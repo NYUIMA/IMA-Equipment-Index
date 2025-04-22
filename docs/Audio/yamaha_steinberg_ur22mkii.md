@@ -28,8 +28,6 @@ description: "Brand: Yamaha, Model: UR22mkII"
 
 ## Description
 
-
-
 UR22mkII — leading in its class
 
 2 x 2 USB 2\.0 audio interface with 2 x D\-PRE and 192 kHz support

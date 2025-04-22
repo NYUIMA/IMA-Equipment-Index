@@ -38,5 +38,3 @@ description: "Brand: None, Model: None"
 
 In the snow and open money\. Another important purpose is the protection of optical telephoto lenses\. \(Lens kit\) \- The telephoto lens kit works with a tripod and a remote shutter to ensure stability during shooting\. The carrying case is easy to carry, the individual packaging design and professional lens cap prevent friction and the internal lens guide gives you detailed instructions\."
 
-
-

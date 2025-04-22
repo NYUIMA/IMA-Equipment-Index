@@ -36,8 +36,6 @@ description: "Brand: HANDIC, Model: 10000M"
 
 ## Description
 
-
-
 1,2,6:
 
 Type:Emergency / Portable
@@ -69,6 +67,4 @@ year manufacture warranty\. Package includes external battery charger, Micro USB
 7\-12:
 
 2600mah Aluminium Magnesium Body High Efficiency Portable charger
-
-
 
