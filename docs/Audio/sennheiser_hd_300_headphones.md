@@ -18,6 +18,8 @@ description: "Brand: sennheiser, Model: HD300"
 
 **Product page**: [https://www.sennheiser.com/en-fi/catalog/products/headp...](https://www.sennheiser.com/en-fi/catalog/products/headphones/hd-300-pro/hd-300-pro-508288)
 
+**Documentation**: [https://www.sennheiser.com/globalassets/digizuite/40746...](https://www.sennheiser.com/globalassets/digizuite/40746-en-earpads_hd_hmd_300_pro_quick_guide_06_2019.pdf)
+
 ## Description
 
 ""Blockout irritating background noise and enjoy your music in peace \- with these headband style headphones that actively cancel background noise by up to 85%\. Ideal for use in airplanes and trains\.

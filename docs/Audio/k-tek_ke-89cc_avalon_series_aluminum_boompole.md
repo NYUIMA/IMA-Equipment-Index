@@ -18,7 +18,7 @@ description: "Brand: K-Tek, Model: KE-89CC"
 
 **Product page**: [https://www.bhphotovideo.com/c/product/319988-REG/K_Tek...](https://www.bhphotovideo.com/c/product/319988-REG/K_Tek_KE_89CC_KE_89CC_Avalon_Series_Aluminum.html)
 
-**Documentation**: [https://on-stage.com/products/view/12567](https://on-stage.com/products/view/12567)
+**Documentation**: [https://ktekpro.com/product/ke89cc-avalon-graphite/#des...](https://ktekpro.com/product/ke89cc-avalon-graphite/#description)
 
 ## Description
 

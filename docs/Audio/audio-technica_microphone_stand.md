@@ -16,7 +16,7 @@ description: "Brand: Audio-Technica, Model: MSA7040TB"
 
 **Model**: MSA7040TB
 
-**Product page**: [https://on-stage.com/products/view/12567](https://on-stage.com/products/view/12567)
+**Product page**: [https://www.amazon.com/Stage-MSA7040TB-Telescoping-Micr...](https://www.amazon.com/Stage-MSA7040TB-Telescoping-Microphone-PYLE-PRO/dp/B0CBLLBKR4?th=1)
 
 **Documentation**: [https://static.bhphotovideo.com/lit_files/108948.pdf](https://static.bhphotovideo.com/lit_files/108948.pdf)
 

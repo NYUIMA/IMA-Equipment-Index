@@ -16,7 +16,7 @@ description: "Brand: Shure, Model: SM57"
 
 **Model**: SM57
 
-**Product page**: [https://www.amazon.com/Shure-SM57-LC-Cardioid-Dynamic-M...](https://www.amazon.com/Shure-SM57-LC-Cardioid-Dynamic-Microphone/dp/B0000AQRST?th=1)
+**Product page**: [https://www.shure.com/en-US/products/microphones/sm57?v...](https://www.shure.com/en-US/products/microphones/sm57?variant=SM57-LC)
 
 **Documentation**: [http://www.shure.com/americas/products/microphones/sm/s...](http://www.shure.com/americas/products/microphones/sm/sm57-instrument-microphone#support)
 

@@ -18,7 +18,7 @@ description: "Brand: Focusrite, Model: 2i2"
 
 **Product page**: [https://store.focusrite.com/en-gb/product/scarlett-2i2-...](https://store.focusrite.com/en-gb/product/scarlett-2i2-2nd-gen/MOSC0012DM~MOSC0012DM)
 
-**Documentation**: [https://focusrite.com/usb-audio-interface/scarlett/scar...](https://focusrite.com/usb-audio-interface/scarlett/scarlett-2i2)
+**Documentation**: [https://downloads.focusrite.com/focusrite/scarlett-2nd-...](https://downloads.focusrite.com/focusrite/scarlett-2nd-gen/scarlett-2i2-2nd-gen)
 
 ## Accessories List
 

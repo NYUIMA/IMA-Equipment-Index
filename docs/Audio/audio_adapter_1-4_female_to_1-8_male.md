@@ -14,7 +14,7 @@ description: "Brand: NANYI 1, Model: None"
 
 **Brand**: NANYI 1
 
-**Product page**: [https://www.amazon.com/NANYI-Female-Headphone-Adapter-U...](https://www.amazon.com/NANYI-Female-Headphone-Adapter-Upgrade/dp/B07QNFGH61?th=1)
+**Product page**: [https://www.amazon.com/NANYI-Female-Headphone-Adapter-U...](https://www.amazon.com/NANYI-Female-Headphone-Adapter-Upgrade/dp/B07QSQRKF6/ref=sr_1_1_sspa?crid=3PE6R0VDCVA1F&dchild=1&keywords=1%2F4%2Bfemale%2Bto%2B1%2F8%2Bmale%2Badapter&qid=1591241642&sprefix=1%2F4%2Bfemale%2Bto%2B%2Caps%2C378&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWE0xVzI0WU5LQTNYJmVuY3J5cHRlZElkPUEwMTA3MzUzMTI2UlJFS01ON0tTMSZlbmNyeXB0ZWRBZElkPUEwNTU4MDc5UVEzTVIyWUY5UDNCJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
 
 ## Description
 

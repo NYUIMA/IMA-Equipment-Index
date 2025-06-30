@@ -18,6 +18,8 @@ description: "Brand: Yamaha, Model: MG102C"
 
 **Product page**: [https://www.amazon.com/Yamaha-MG102C-Input-Stereo-Mixer...](https://www.amazon.com/Yamaha-MG102C-Input-Stereo-Mixer/dp/B000Z7C9T8/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
+**Documentation**: [https://usa.yamaha.com/files/download/other_assets/4/33...](https://usa.yamaha.com/files/download/other_assets/4/334554/mg82cx_en_om.pdf)
+
 ## Accessories List
 
 1\. 1 x Mixer

@@ -16,7 +16,7 @@ description: "Brand: SHURE, Model: Standard Diversity Receiver: ULXS4; Bodypack 
 
 **Model**: Standard Diversity Receiver: ULXS4; Bodypack Transmitter: ULX1
 
-**Product page**: [http://www.shure.com/americas/products/wireless-systems...](http://www.shure.com/americas/products/wireless-systems/ulx-systems/ulx-systems-ulx1-bodypack-transmitter)
+**Product page**: [https://www.shure.com/en-US/products/wireless-systems/u...](https://www.shure.com/en-US/products/wireless-systems/ulx-d_digital_wireless)
 
 **Documentation**: [https://pubs.shure.com/guide/ULX/en-US?_ga=2.19624955.2...](https://pubs.shure.com/guide/ULX/en-US?_ga=2.19624955.2115842574.1533783329-1995832495.1533783329)
 

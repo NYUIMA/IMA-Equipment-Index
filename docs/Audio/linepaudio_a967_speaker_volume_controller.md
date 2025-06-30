@@ -18,6 +18,8 @@ description: "Brand: LINEPAUDIO, Model: A967"
 
 **Product page**: [https://www.ebay.com.au/itm/235736843614?srsltid=AfmBOo...](https://www.ebay.com.au/itm/235736843614?srsltid=AfmBOop3u9UpySSdYejzm_6azxAJUjgBi4hsloR-MC0TiU1jmvrn8MWM)
 
+**Documentation**: [https://www.sunsky-online.com/p/CMS1737B/LINEPAUDIO-A96...](https://www.sunsky-online.com/p/CMS1737B/LINEPAUDIO-A967-Full-balanced-Passive-PreAmp-Active-Speaker-Two-channel-Volume-Controller-Black-.htm)
+
 ## Description
 
 The amplifier has clear, responsive buttons for mode control\.

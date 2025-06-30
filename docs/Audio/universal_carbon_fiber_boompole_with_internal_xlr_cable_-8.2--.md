@@ -12,7 +12,9 @@ description: "Brand: None, Model: None"
 
 ## Basic information
 
-**Product page**: [https://www.amazon.com/Saramonic-3-Section-Boompole-Int...](https://www.amazon.com/Saramonic-3-Section-Boompole-Internal-Adjustable/dp/B0CVMYKVDQ)
+**Product page**: [https://www.bhphotovideo.com/c/product/1443687-REG/boya...](https://www.bhphotovideo.com/c/product/1443687-REG/boya_by_pb25_universal_carbon_fiber.html)
+
+**Documentation**: [https://static.bhphoto.com/lit_files/275639.pdf](https://static.bhphoto.com/lit_files/275639.pdf)
 
 ## Description
 

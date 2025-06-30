@@ -18,15 +18,9 @@ description: "Brand: HANDIC, Model: 10000M"
 
 **Product page**: 
 
-[https://shopee.com.my/ORIGINAL-HANDIC-10000mAh-High-Qua...](https://shopee.com.my/ORIGINAL-HANDIC-10000mAh-High-Quality-Power-Bank-i.603695.3814790061)
-
-
-
 [https://nis-store.com/power-banks/xiaomi-mi-power-bank-...](https://nis-store.com/power-banks/xiaomi-mi-power-bank-16000mah-silver/)
 
 
-
-[https://www.amazon.in/Technotree-Hame-2600mah-Power-Ban...](https://www.amazon.in/Technotree-Hame-2600mah-Power-Bank/dp/B00GF3SSGE)
 
 ## Accessories List
 

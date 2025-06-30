@@ -16,7 +16,9 @@ description: "Brand: xiaomi, Model: 2s"
 
 **Model**: 2s
 
-**Product page**: [https://www.aliexpress.com/i/3256805007035918.html?gate...](https://www.aliexpress.com/i/3256805007035918.html?gatewayAdapt=4itemAdapt)
+**Product page**: [https://www.aliexpress.com/item/1005007171248593.html](https://www.aliexpress.com/item/1005007171248593.html)
+
+**Documentation**: [https://m.ifengyu.com/resources/en/product.html](https://m.ifengyu.com/resources/en/product.html)
 
 ## Accessories List
 

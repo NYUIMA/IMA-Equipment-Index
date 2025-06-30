@@ -18,6 +18,8 @@ description: "Brand: Microphone Madness, Model: MM-BSM-8"
 
 **Product page**: [http://www.microphonemadness.com/mm-bsm-8-true-natural-...](http://www.microphonemadness.com/mm-bsm-8-true-natural-over-the-ear-in-ear-binaural-stereo-microphones.html)
 
+**Documentation**: [https://www.bhphotovideo.com/c/product/337638-REG/Micro...](https://www.bhphotovideo.com/c/product/337638-REG/Microphone_Madness_MMBSM8_BSM_8_Stereo_Binaural_In_Ear.html)
+
 ## Description
 
 The \(MM\-BSM\-8\) True & Natural over the ear on in\-ear stereo microphones that will give you the "most" realistic and accurate binaural stereo recordings\!

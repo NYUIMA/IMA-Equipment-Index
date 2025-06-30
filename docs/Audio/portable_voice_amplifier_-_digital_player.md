@@ -16,7 +16,7 @@ description: "Brand: Soaiy, Model: S-318"
 
 **Model**: S-318
 
-**Product page**: [https://item.jd.com/1197787.html](https://item.jd.com/1197787.html)
+**Product page**: [https://www.amazon.ca/Portable-Rechargeable-Amplifier-M...](https://www.amazon.ca/Portable-Rechargeable-Amplifier-Microphone-Waistband/dp/B0CR6F28MR?th=1)
 
 **Documentation**: [https://www.soaiy.com/en/DownLoad/53648.html](https://www.soaiy.com/en/DownLoad/53648.html)
 

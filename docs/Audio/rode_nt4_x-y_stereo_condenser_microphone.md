@@ -16,7 +16,7 @@ description: "Brand: Rode, Model: NT4"
 
 **Model**: NT4
 
-**Product page**: [https://www.sweetwater.com/store/detail/NT4--rode-nt4-x...](https://www.sweetwater.com/store/detail/NT4--rode-nt4-x-y-stereo-condenser-microphone)
+**Product page**: [https://www.amazon.com/Rode-NT4-Stereo-Condenser-Microp...](https://www.amazon.com/Rode-NT4-Stereo-Condenser-Microphone/dp/B0002DUVZY)
 
 **Documentation**: [http://cdn1.rode.com/nt4_product_manual.pdf](http://cdn1.rode.com/nt4_product_manual.pdf)
 

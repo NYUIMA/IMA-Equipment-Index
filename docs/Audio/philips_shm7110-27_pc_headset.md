@@ -16,7 +16,7 @@ description: "Brand: Philips, Model: SHM7110/27"
 
 **Model**: SHM7110/27
 
-**Product page**: [https://www.philips.com.ph/c-p/X3_00/fidelio-x3-wired-o...](https://www.philips.com.ph/c-p/X3_00/fidelio-x3-wired-over-ear-open-back-headphones/support)
+**Product page**: [https://www.amazon.sg/Philips-Audio-Headset-Conference-...](https://www.amazon.sg/Philips-Audio-Headset-Conference-SHM7110U/dp/B08TB6VVNR)
 
 **Documentation**: [https://www.download.p4c.philips.com/files/s/shm7110u_2...](https://www.download.p4c.philips.com/files/s/shm7110u_27/shm7110u_27_pss_aenus.pdf)
 

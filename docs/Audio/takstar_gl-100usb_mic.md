@@ -16,7 +16,7 @@ description: "Brand: Takstar, Model: GL-100"
 
 **Model**: GL-100
 
-**Product page**: [https://en.takstar.com/product/type/3526.html](https://en.takstar.com/product/type/3526.html)
+**Product page**: [https://www.ebay.com/itm/364887984579](https://www.ebay.com/itm/364887984579)
 
 **Documentation**: [https://en.takstar.com/product/type/198.html](https://en.takstar.com/product/type/198.html)
 

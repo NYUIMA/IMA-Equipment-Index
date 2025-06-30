@@ -18,7 +18,7 @@ description: "Brand: GP, Model: Greencell"
 
 **Product page**: [https://www.amazon.com/Greencell-PP3-Zinc-Chloride-Batt...](https://www.amazon.com/Greencell-PP3-Zinc-Chloride-Battery/dp/B000LB3I34)
 
-**Documentation**: [https://www.gpbatteries.com/products/gp-greencell-carbo...](https://www.gpbatteries.com/products/gp-greencell-carbon-zinc-9v)
+**Documentation**: [https://my.gpbatteries.com/products/gp-greencell-extra-...](https://my.gpbatteries.com/products/gp-greencell-extra-heavy-duty-9v-1)
 
 ## Description
 

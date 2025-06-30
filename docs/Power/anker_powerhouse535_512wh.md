@@ -18,7 +18,7 @@ description: "Brand: Anker, Model: PowerHouse535"
 
 **Product page**: [https://www.anker.com/products/a1751?variant=4168635577...](https://www.anker.com/products/a1751?variant=41686355771542)
 
-**Documentation**: [https://support.anker.com/s/product/a085g000004x2AmAAI/...](https://support.anker.com/s/product/a085g000004x2AmAAI/anker-535-portable-power-station-(powerhouse-512wh))
+**Documentation**: [https://nohma.com/content/uploads/2022/12/Anker_535_Por...](https://nohma.com/content/uploads/2022/12/Anker_535_Portable_Power_Station_User_Manual.pdf)
 
 ## Accessories List
 

@@ -18,6 +18,8 @@ description: "Brand: Auray, Model: TT-6110"
 
 **Product page**: [http://www.aurayaudio.com/product/10465/Auray-TT_6110_B...](http://www.aurayaudio.com/product/10465/Auray-TT_6110_BL-Desktop-Microphone-Stand-(Black))
 
+**Documentation**: [https://static.bhphotovideo.com/lit_files/108948.pdf](https://static.bhphotovideo.com/lit_files/108948.pdf)
+
 ## Description
 
 PROFESSIONAL BOOM POLE: 3\-Section Telescoping Boom Pole that extends from 3\.3’ \(1m\) to 8\.2’ feet \(2\.5m\) with Internal Coiled XLR Cable

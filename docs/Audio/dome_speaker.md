@@ -14,6 +14,8 @@ description: "Brand: None, Model: None"
 
 **Product page**: [https://www.crutchfield.com/S-cjIDFoFPppB/p_298FP6020/S...](https://www.crutchfield.com/S-cjIDFoFPppB/p_298FP6020/SoundTube-FP6020-II.html)
 
+**Documentation**: [https://docs.google.com/document/d/1UjxuTgryUZExFRf0HYY...](https://docs.google.com/document/d/1UjxuTgryUZExFRf0HYYsW29su7p8bAsDVnrp-td--Z8/edit?tab=t.0)
+
 ## Accessories List
 
 1\. 1 x Speaker

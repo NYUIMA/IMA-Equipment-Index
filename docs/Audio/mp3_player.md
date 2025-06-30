@@ -12,5 +12,13 @@ description: "Brand: None, Model: None"
 
 ## Basic information
 
-**Product page**: [https://www.aliexpress.us/item/3256805262127169.html?sp...](https://www.aliexpress.us/item/3256805262127169.html?spm=a2g0o.productlist.main.101.287644ec14FKuN&algo_pvid=e590547f-5b5e-49bc-a79a-da7d402fda86&algo_exp_id=e590547f-5b5e-49bc-a79a-da7d402fda86-50&pdp_ext_f=%7B%22order%22%3A%22208%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2162.60%2119.41%21%21%21452.32%21140.22%21%40213fa25c17428054319183864e9eb7%2112000033158261496%21sea%21US%216317513996%21ABX&curPageLogUid=o7tykqEugjFY&utparam-url=scene%3Asearch%7Cquery_from%3A&_gl=1*72u6xc*_gcl_au*MTE5MzU2NDMwOC4xNzQyMTk5MjI1*_ga*MTE3NDU5NzgwNC4xNzQyMTk5MjI1*_ga_VED1YSGNC7*MTc0MjgwNTQzOS4zLjAuMTc0MjgwNTQzOS42MC4wLjA.)
+**Product page**: [https://www.amazon.ae/Player-Speaker-Portable-Lossless-...](https://www.amazon.ae/Player-Speaker-Portable-Lossless-Support/dp/B0C8HC95DD)
+
+## Description
+
+【Long Time Playback】MP3 player allows you enjoy real lossless music up to 10 hours\. Charging for 1 minute, using 1 hour; charging for 1 hour, using 10 hours, only 60\-90 minutes to complete charging\.
+
+【HIFI Lossless Sound Quality】It adopts professional intelligent digital noise reduction chip and superb circuit optimization technology to reduce noise, ensuring high sound sampling rate and providing high quality sound\. Give you the good sound you want\.
+
+【Portable and lightweight】With only measuring 3\.3\*0\.9\*0\.4 in and 15g weight, the slim body and lightweight weight are easy to carry, so you can easily put it into your pocket and backpack to enjoy music anytime, anywhere\.
 

@@ -18,7 +18,7 @@ description: "Brand: Yamaha, Model: STAGEPAS400BT"
 
 **Product page**: [https://www.amazon.com/Yamaha-STAGEPAS-400BT-Portable-B...](https://www.amazon.com/Yamaha-STAGEPAS-400BT-Portable-Bluetooth/dp/B07B679W4K)
 
-**Documentation**: [https://asia-latinamerica-mea.yamaha.com/en/products/pr...](https://asia-latinamerica-mea.yamaha.com/en/products/proaudio/pa_systems/stagepas_400bt_600bt/index.html)
+**Documentation**: [https://uk.yamaha.com/files/download/other_assets/1/114...](https://uk.yamaha.com/files/download/other_assets/1/1142301/VHM5520_STAGEPAS600BT_OM_En_E0_view.pdf)
 
 ## Accessories List
 

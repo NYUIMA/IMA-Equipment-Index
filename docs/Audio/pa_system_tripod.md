@@ -16,9 +16,7 @@ description: "Brand: Yamaha, Model: STAGEPAS 400BT"
 
 **Model**: STAGEPAS 400BT
 
-**Product page**: [https://www.amazon.com/STAGEPAS-Portable-Microphone-Spe...](https://www.amazon.com/STAGEPAS-Portable-Microphone-Speaker-Polishing/dp/B07BZBG454/ref=redir_mobile_desktop?ie=UTF8&aaxitk=MfuSiqg2pHJs-fksyftTOw&hsa_cr_id=5597308390401&ref_=sb_s_sparkle&th=1)
-
-**Documentation**: [https://ktekpro.com/product/ke89cc-avalon-graphite/#des...](https://ktekpro.com/product/ke89cc-avalon-graphite/#description)
+**Product page**: [https://www.amazon.com/Yamaha-SS238C-Aluminum-Tripod-Sp...](https://www.amazon.com/Yamaha-SS238C-Aluminum-Tripod-Speaker/dp/B00ISL0KBC?th=1)
 
 ## Description
 
