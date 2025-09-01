@@ -88,18 +88,18 @@ class Item:
         def parse_url(url: str | None) -> str | None:
             if not url:
                 return None
-            url = url.split("\n")
-            for i in range(len(url)):
+            url_list = url.split("\n")
+            for i in range(len(url_list)):
                 res = []
-                for part in url[i].split(" "):
+                for part in url_list[i].split(" "):
                     if part.startswith("http://") or part.startswith("https://"):
                         res.append(f"[{wrap_URL(part)}]({part})")
                     else:
                         res.append(sanitize_description(part))
-                url[i] = " ".join(res)
-            if len(url) > 1:
-                return "\n\n" + "\n\n".join(url)
-            return url[0]
+                url_list[i] = " ".join(res)
+            if len(url_list) > 1:
+                return "\n\n" + "\n\n".join(url_list)
+            return url_list[0]
 
         # Helper function to sanitize filenames by replacing illegal characters
         def sanitize_filename(filename: str) -> str:
@@ -132,18 +132,18 @@ class Item:
         self.idx: int = idx + 1
         self.name: str = data[header["Name"]].value
         self.safe_name: str = sanitize_filename(self.name)
-        self.imageRemoteURL: str = (
+        self.imageRemoteURL: str | None = (
             str(data[header["Picture"]].value).split('"')[1]
             if data[header["Picture"]].value
             else None
         )
         self.imageURL: str = f"/img/{self.category.lower()}/{self.safe_name}.png"
         self.tag: str = data[header["Category"]].value
-        self.brand: str = verify(data[header["Brand"]].value)
-        self.model: str = verify(data[header["Model"]].value)
+        self.brand: str | None = verify(data[header["Brand"]].value)
+        self.model: str | None = verify(data[header["Model"]].value)
         self.description: str = sanitize_description(data[header["Description"]].value)
-        self.productURL: str = parse_url(data[header["Production Link"]].value)
-        self.docURL: str = parse_url(data[header["Documentation Link"]].value)
+        self.productURL: str | None = parse_url(data[header["Production Link"]].value)
+        self.docURL: str | None = parse_url(data[header["Documentation Link"]].value)
         self.accessories: str = sanitize_description(
             data[header["Accessories List"]].value
         )

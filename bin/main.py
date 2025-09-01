@@ -1,6 +1,7 @@
 from openpyxl import load_workbook
 from openpyxl_image_loader import SheetImageLoader
 from os import makedirs
+from shutil import rmtree
 from parsers import (
     item_parser,
     sheet_parser,
@@ -23,9 +24,13 @@ for ws in wb:
     # Initialize the image loader for the worksheet
     image_loader = SheetImageLoader(ws)
 
+    # Delete existing data folders
+    rmtree(f"static/img/{ws.title.lower()}")
+    rmtree(f"docs/{ws.title}")
+
     # Create directories for storing images and documentation
-    makedirs(f"static/img/{ws.title.lower()}", exist_ok=True)
-    makedirs(f"docs/{ws.title}", exist_ok=True)
+    makedirs(f"static/img/{ws.title.lower()}")
+    makedirs(f"docs/{ws.title}")
 
     # Create and write the header for the documentation index file
     with open(f"docs/{ws.title}/index.md", "w") as file:
