@@ -1,6 +1,6 @@
 ---
 title: "Logitech Wireless Touch Keyboard K400 PLUS"
-sidebar_position: 27
+sidebar_position: 26
 tags:
     - "Keyboards"
 image: "/img/accessories/logitech_wireless_touch_keyboard_k400_plus.png"

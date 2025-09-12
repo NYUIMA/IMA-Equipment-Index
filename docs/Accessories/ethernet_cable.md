@@ -1,6 +1,6 @@
 ---
 title: "Ethernet Cable"
-sidebar_position: 35
+sidebar_position: 34
 tags:
     - "Cables"
 image: "/img/accessories/ethernet_cable.png"

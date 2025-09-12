@@ -1,6 +1,6 @@
 ---
 title: "Samsung 2TB SSD with Ugreen Enclosure"
-sidebar_position: 17
+sidebar_position: 16
 tags:
     - "Computer Accessories"
 image: "/img/accessories/samsung_2tb_ssd_with_ugreen_enclosure.png"

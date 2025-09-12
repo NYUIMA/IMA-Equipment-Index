@@ -1,6 +1,6 @@
 ---
 title: "SD Card Reader"
-sidebar_position: 32
+sidebar_position: 31
 tags:
     - "Adapter"
 image: "/img/accessories/sd_card_reader.png"

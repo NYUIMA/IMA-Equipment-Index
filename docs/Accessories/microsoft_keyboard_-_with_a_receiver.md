@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Keyboard - with a receiver"
-sidebar_position: 29
+sidebar_position: 28
 tags:
     - "Keyboards"
 image: "/img/accessories/microsoft_keyboard_-_with_a_receiver.png"

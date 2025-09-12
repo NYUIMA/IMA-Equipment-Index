@@ -1,6 +1,6 @@
 ---
 title: "Dragonframe USB Keypad Controller"
-sidebar_position: 23
+sidebar_position: 22
 tags:
     - "Keyboards"
 image: "/img/accessories/dragonframe_usb_keypad_controller.png"

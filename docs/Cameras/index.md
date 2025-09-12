@@ -69,9 +69,9 @@ pagination_next: null
 | [Sony NP-FZ100 Battery](./sony_np-fz100_battery) | ![sony_np-fz100_battery](/img/cameras/sony_np-fz100_battery.png) |
 | [Converter for Manfrotto 5001b Light Tripod](./converter_for_manfrotto_5001b_light_tripod) | ![converter_for_manfrotto_5001b_light_tripod](/img/cameras/converter_for_manfrotto_5001b_light_tripod.png) |
 | [DJI Ronin-S Battery Adapter](./dji_ronin-s_battery_adapter) | ![dji_ronin-s_battery_adapter](/img/cameras/dji_ronin-s_battery_adapter.png) |
-| [Spotlight](./spotlight) | ![spotlight](/img/cameras/spotlight.png) |
-| [Spotlight](./spotlight) | ![spotlight](/img/cameras/spotlight.png) |
-| [Spotlight](./spotlight) | ![spotlight](/img/cameras/spotlight.png) |
+| [Spotlight - Type 1](./spotlight_-_type_1) | ![spotlight_-_type_1](/img/cameras/spotlight_-_type_1.png) |
+| [Spotlight - Type 2](./spotlight_-_type_2) | ![spotlight_-_type_2](/img/cameras/spotlight_-_type_2.png) |
+| [Spotlight - Type 3](./spotlight_-_type_3) | ![spotlight_-_type_3](/img/cameras/spotlight_-_type_3.png) |
 | [Manfrotto 244 Variable Friction Arm with Super Clamp 035](./manfrotto_244_variable_friction_arm_with_super_clamp_035) | ![manfrotto_244_variable_friction_arm_with_super_clamp_035](/img/cameras/manfrotto_244_variable_friction_arm_with_super_clamp_035.png) |
 | [Manfrotto Super Clamp 035](./manfrotto_super_clamp_035) | ![manfrotto_super_clamp_035](/img/cameras/manfrotto_super_clamp_035.png) |
 | [Panasonic VX980 Video Recorder](./panasonic_vx980_video_recorder) | ![panasonic_vx980_video_recorder](/img/cameras/panasonic_vx980_video_recorder.png) |

@@ -1,6 +1,6 @@
 ---
 title: "Type-c SD Card Reader"
-sidebar_position: 34
+sidebar_position: 33
 tags:
     - "Adapter"
 image: "/img/accessories/type-c_sd_card_reader.png"

@@ -1,6 +1,6 @@
 ---
 title: "USB Video Capture Card"
-sidebar_position: 38
+sidebar_position: 37
 tags:
     - "None"
 image: "/img/accessories/usb_video_capture_card.png"

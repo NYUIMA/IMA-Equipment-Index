@@ -1,6 +1,6 @@
 ---
 title: "iBUFFALO turbopcex Compatible Card Reader/Writer"
-sidebar_position: 33
+sidebar_position: 32
 tags:
     - "Adapter"
 image: "/img/accessories/ibuffalo_turbopcex_compatible_card_reader-writer.png"

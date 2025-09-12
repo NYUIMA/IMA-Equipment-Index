@@ -1,6 +1,6 @@
 ---
 title: "Rapoo Wireless Keyboard + Touchpad"
-sidebar_position: 30
+sidebar_position: 29
 tags:
     - "Keyboards"
 image: "/img/accessories/rapoo_wireless_keyboard_-_touchpad.png"

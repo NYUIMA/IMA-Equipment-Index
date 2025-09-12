@@ -1,6 +1,6 @@
 ---
 title: "Logitect Keyboard Mouse Set"
-sidebar_position: 28
+sidebar_position: 27
 tags:
     - "Keyboards"
 image: "/img/accessories/logitect_keyboard_mouse_set.png"

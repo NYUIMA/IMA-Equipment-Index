@@ -1,6 +1,6 @@
 ---
 title: "iMac Pro"
-sidebar_position: 18
+sidebar_position: 17
 tags:
     - "Computer"
 image: "/img/accessories/imac_pro.png"

@@ -22,7 +22,6 @@ pagination_next: null
 | [WD 2TB Elements Portable Hard Drive](./wd_2tb_elements_portable_hard_drive) | ![wd_2tb_elements_portable_hard_drive](/img/accessories/wd_2tb_elements_portable_hard_drive.png) |
 | [Windows Computer](./windows_computer) | ![windows_computer](/img/accessories/windows_computer.png) |
 | [Wireless Mouse](./wireless_mouse) | ![wireless_mouse](/img/accessories/wireless_mouse.png) |
-| [iPad Pro Stand](./ipad_pro_stand) | ![ipad_pro_stand](/img/accessories/ipad_pro_stand.png) |
 | [Samsung 2TB SSD with Ugreen Enclosure](./samsung_2tb_ssd_with_ugreen_enclosure) | ![samsung_2tb_ssd_with_ugreen_enclosure](/img/accessories/samsung_2tb_ssd_with_ugreen_enclosure.png) |
 | [iMac Pro](./imac_pro) | ![imac_pro](/img/accessories/imac_pro.png) |
 | [Studio Windows PC(White)](./studio_windows_pc-white-) | ![studio_windows_pc-white-](/img/accessories/studio_windows_pc-white-.png) |

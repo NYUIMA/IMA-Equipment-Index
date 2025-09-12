@@ -1,6 +1,6 @@
 ---
 title: "Dell Keyboard KB-216-t"
-sidebar_position: 21
+sidebar_position: 20
 tags:
     - "Keyboards"
 image: "/img/accessories/dell_keyboard_kb-216-t.png"

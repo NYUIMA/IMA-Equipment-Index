@@ -1,6 +1,6 @@
 ---
 title: "Dell Keyboard KB212-B"
-sidebar_position: 22
+sidebar_position: 21
 tags:
     - "Keyboards"
 image: "/img/accessories/dell_keyboard_kb212-b.png"

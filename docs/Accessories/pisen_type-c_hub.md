@@ -1,6 +1,6 @@
 ---
 title: "Pisen Type-c Hub"
-sidebar_position: 37
+sidebar_position: 36
 tags:
     - "Adapter"
 image: "/img/accessories/pisen_type-c_hub.png"

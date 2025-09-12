@@ -1,6 +1,6 @@
 ---
 title: "Logitech Wireless Combo MK240"
-sidebar_position: 26
+sidebar_position: 25
 tags:
     - "Keyboards"
 image: "/img/accessories/logitech_wireless_combo_mk240.png"

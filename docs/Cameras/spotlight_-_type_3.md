@@ -1,14 +1,14 @@
 ---
-title: "Spotlight"
+title: "Spotlight - Type 3"
 sidebar_position: 65
 tags:
     - "Lighting"
-image: "/img/cameras/spotlight.png"
+image: "/img/cameras/spotlight_-_type_3.png"
 description: "Brand: None, Model: DMX512"
 ---
-# Spotlight
+# Spotlight - Type 3
 
-![spotlight](/img/cameras/spotlight.png)
+![spotlight_-_type_3](/img/cameras/spotlight_-_type_3.png)
 
 ## Basic information
 

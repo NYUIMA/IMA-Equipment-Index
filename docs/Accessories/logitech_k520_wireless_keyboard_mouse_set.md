@@ -1,6 +1,6 @@
 ---
 title: "Logitech K520 Wireless Keyboard Mouse Set"
-sidebar_position: 24
+sidebar_position: 23
 tags:
     - "Keyboards"
 image: "/img/accessories/logitech_k520_wireless_keyboard_mouse_set.png"

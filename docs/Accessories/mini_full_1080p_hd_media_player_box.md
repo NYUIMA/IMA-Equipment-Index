@@ -1,6 +1,6 @@
 ---
 title: "Mini Full 1080p HD Media Player Box"
-sidebar_position: 20
+sidebar_position: 19
 tags:
     - "Computer Accessories"
 image: "/img/accessories/mini_full_1080p_hd_media_player_box.png"

@@ -1,6 +1,6 @@
 ---
 title: "Logitech Keyboard K120"
-sidebar_position: 25
+sidebar_position: 24
 tags:
     - "Keyboards"
 image: "/img/accessories/logitech_keyboard_k120.png"

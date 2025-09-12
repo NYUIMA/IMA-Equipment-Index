@@ -1,6 +1,6 @@
 ---
 title: "Studio Windows PC(Black)"
-sidebar_position: 36
+sidebar_position: 35
 tags:
     - "Computer"
 image: "/img/accessories/studio_windows_pc-black-.png"

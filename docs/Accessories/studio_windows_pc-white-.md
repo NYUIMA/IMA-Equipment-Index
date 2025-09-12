@@ -1,6 +1,6 @@
 ---
 title: "Studio Windows PC(White)"
-sidebar_position: 19
+sidebar_position: 18
 tags:
     - "Computer"
 image: "/img/accessories/studio_windows_pc-white-.png"
