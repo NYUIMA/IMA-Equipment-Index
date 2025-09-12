@@ -18,7 +18,7 @@ description: "Brand: Leap Motion, Model: LM-010"
 
 **Product page**: [https://www.amazon.com/Leap-Motion-Controller-Gesture-C...](https://www.amazon.com/Leap-Motion-Controller-Gesture-Control/dp/B00E3CP9UM)
 
-**Documentation**: [https://developer.leapmotion.com/documentation/](https://developer.leapmotion.com/documentation/)
+**Documentation**: [https://docs.ultraleap.com/hand-tracking/getting-starte...](https://docs.ultraleap.com/hand-tracking/getting-started.html)
 
 ## Description
 
@@ -47,4 +47,8 @@ AMD Phenom™ II or Intel® Core™ i3/i5/i7 processor
 USB 2\.0 port
 
 Internet connection
+
+## Additional information
+
+**Code**: D1D001
 

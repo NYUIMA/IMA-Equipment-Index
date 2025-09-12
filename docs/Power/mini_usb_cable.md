@@ -22,3 +22,7 @@ description: "Brand: AmazonBasics, Model: 1.5M"
 
 Connects speed\-critical devices, such as external hard drives and smart phones, and peripherals that require a Mini\-B connection to your computer
 
+## Additional information
+
+**Code**: J1E00001
+

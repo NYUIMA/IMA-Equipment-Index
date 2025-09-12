@@ -32,3 +32,7 @@ Comes with a standard uFL connector on the end\. Perfect for our FONA 808\! Not 
 
 This is the 15mm version \- we also have a smaller 9mm uFL GPS Antenna\.
 
+## Additional information
+
+**Code**: G21401
+

@@ -14,7 +14,7 @@ description: "Brand: DFRobot, Model: None"
 
 **Brand**: DFRobot
 
-**Product page**: [https://www.makerlab-electronics.com/product/analog-ele...](https://www.makerlab-electronics.com/product/analog-electrical-conductivity-sensor-meter/)
+**Product page**: [https://www.dfrobot.com/product-1123.html](https://www.dfrobot.com/product-1123.html)
 
 **Documentation**: [https://www.dfrobot.com/wiki/index.php/Analog_EC_Meter_...](https://www.dfrobot.com/wiki/index.php/Analog_EC_Meter_SKU:DFR0300)
 
@@ -43,4 +43,8 @@ This Analog EC Meter is unique\. It is designed specially for Arduino controller
 
 
 To ease the difficulty of using this sensor,  a Gravity\(https://www\.dfrobot\.com/gravity\) Interface is adapted to allow plug&play\.  The Arduino IO expansion shield\(https://www\.dfrobot\.com/product\-1009\.html\) is the best match for this senor connecting to your Arduino\(https://www\.dfrobot\.com/category\-104\.html\)\. As this sensor can work at 3\.3V which makes it compatible with Raspberry Pi\(https://www\.dfrobot\.com/category\-157\.html\), intel edison\(https://www\.dfrobot\.com/category\-187\.html\), joule and curie\.
+
+## Additional information
+
+**Code**: G35001
 

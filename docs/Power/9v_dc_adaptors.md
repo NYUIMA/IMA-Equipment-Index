@@ -16,3 +16,7 @@ description: "Brand: None, Model: RK-0900850"
 
 **Product page**: [https://www.amazon.com/Keyboard-DanElectro-DigiTech-Ele...](https://www.amazon.com/Keyboard-DanElectro-DigiTech-Electronic-LotFancy/dp/B07234PV7Q/ref=sr_1_3?dchild=1&keywords=9v+power+supply&qid=1590565668&sr=8-3)
 
+## Additional information
+
+**Code**: J1B001
+

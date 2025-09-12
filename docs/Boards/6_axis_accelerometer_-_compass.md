@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 The Grove – 6\-Axis Accelerometer&Compass is a 3 \- axis accelerometer combined with a 3 \- axis magnetic sensor\. It is based on the sensor module LSM303DLH which has a selectable linear acceleration full scale range of ±2g / ±4g / ±8g and a selectable magnetic field full scale range of ±1\.3 /±1\.9 / ±2\.5 / ±4\.0 / ±4\.7 / ±5\.6 / ±8\.1 gauss\. Both the magnetic sensor and the accelerometer parts can be powered down separately to reduce power consumption\. It has an I2C digital interface so that the analog to digital converter is avoided\. The MCU can collect 6D sensor data directly through the I2C interface\. It can dynamically select full–scale \.
 
+## Additional information
+
+**Code**: G31001
+

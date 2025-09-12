@@ -14,9 +14,13 @@ description: "Brand: Microsoft, Model: None"
 
 **Brand**: Microsoft
 
-**Product page**: [https://www.ebay.com/sch/i.html?_nkw=kinect%202.0](https://www.ebay.com/sch/i.html?_nkw=kinect%202.0)
+**Product page**: [https://www.microsoft.com/en-hk/download/details.aspx?i...](https://www.microsoft.com/en-hk/download/details.aspx?id=44561)
 
-**Documentation**: [https://developer.microsoft.com/en-us/windows/kinect/](https://developer.microsoft.com/en-us/windows/kinect/)
+**Documentation**: 
+
+[https://learn.microsoft.com/en-us/previous-versions/win...](https://learn.microsoft.com/en-us/previous-versions/windows/kinect/dn799271(v=ieb.10))
+
+
 
 ## Description
 
@@ -33,4 +37,8 @@ Broadcast gameplay live with picture\-in\-picture
 Be recognised and signed\-in automatically
 
 Dance Central: Spotlight game download card
+
+## Additional information
+
+**Code**: B3A001
 

@@ -36,3 +36,7 @@ About this item
 
  Plug: L\-shaped stereo mini plug 3\.5mm
 
+## Additional information
+
+**Code**: C5M001
+

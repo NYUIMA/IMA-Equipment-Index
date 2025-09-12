@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 Have you ever been bothered for detecting simple collisions with complex algorithm with an acceleration sensor? The collision sensor is here to simplify the process,\. It's also omni directional, stable, and sensitive\.
 
+## Additional information
+
+**Code**: G63001
+

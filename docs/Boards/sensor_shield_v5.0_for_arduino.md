@@ -96,3 +96,7 @@ Package Weight:0\.15kg \(0\.331lb\.\)
 
 Package Size:16cm x 12cm x 10cm \(6\.30in x 4\.72in x 3\.94in\)
 
+## Additional information
+
+**Code**: E16401
+

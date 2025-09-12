@@ -32,3 +32,7 @@ Output Voltage: 24V; Rated Current & Rated Power: 14\.6A, 350W
 
  Full Protections: Short Circuit / Overload / Over Voltage /Over Temperature\.
 
+## Additional information
+
+**Code**: J2J001
+

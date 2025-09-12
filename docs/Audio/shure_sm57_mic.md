@@ -50,3 +50,7 @@ Frequency response: 40 to 15,000 Hz
 
 Replacement cartridge: R57
 
+## Additional information
+
+**Code**: C3D001
+

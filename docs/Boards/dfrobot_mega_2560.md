@@ -26,3 +26,7 @@ description: "Brand: DFRobot, Model: None"
 
 NEW VERSION\! This is the upgraded DFRduino Mega 2560 V3\.0 which is now fully compatible with Arduino Mega 2560 R3\. The Arduino Mega is a microcontroller board based on the ATmega2560\. It has 54 digital input/output pins \(of which 14 can be used as PWM outputs\), 16 analog inputs, 4 UARTs \(hardware serial ports\), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header and a reset button\. It contains everything needed to support the microcontroller; Connect it to a computer with a USB cable or power it with a AC\-to\-DC adapter or battery to get started\. The Mega is compatible with most shields designed for the Arduino Duemilanove, Diecimila or Uno\.
 
+## Additional information
+
+**Code**: E10201
+

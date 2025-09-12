@@ -1,6 +1,6 @@
 ---
 title: "VGA Cable"
-sidebar_position: 41
+sidebar_position: 40
 tags:
     - "Adapter"
 image: "/img/display/vga_cable.png"
@@ -17,4 +17,8 @@ description: "Brand: None, Model: None"
 ## Description
 
 he compact\-designed portable Moread HDMI to VGA adapter connects a computer, desktop, laptop, or other devices with HDMI port to a monitor, projector, HDTV, or other devices with VGA port; Tuck this lightweight gadget into your bag or pocket to do a business presentation with your laptop and projector, or extend your desktop screen to a monitor or TV; A VGA cable is required \(sold separately\)
+
+## Additional information
+
+**Code**: D2A00001
 

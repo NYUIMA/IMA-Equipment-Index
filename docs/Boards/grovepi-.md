@@ -26,3 +26,7 @@ GrovePi\+ is a system with 15 Grove 4\-pin interfaces that brings Grove sensors 
 
 GrovePi\+ is an easy\-to\-use and modular system for hardware hacking with the Raspberry Pi, no need for soldering or breadboards: plug in your Grove sensors and start programming directly\. Grove is an easy to use collection of more than 100 inexpensive plug\-and\-play modules that sense and control the physical world\. By connecting Grove Sensors to the Raspberry Pi, it empowers your Pi in the physical world\. With hundreds of sensors to choose from Grove families, the possibilities for interaction are endless\.
 
+## Additional information
+
+**Code**: E82001
+

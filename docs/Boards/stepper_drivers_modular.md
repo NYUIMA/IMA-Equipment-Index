@@ -14,7 +14,7 @@ description: "Brand: None, Model: None"
 
 **Product page**: [https://www.diymore.cc/products/42-ch-stepper-motor-dri...](https://www.diymore.cc/products/42-ch-stepper-motor-driver-expansion-board-stepper-drivers-module-modular-drv8825-a4988-for-uno-r3-3d-printer)
 
-**Documentation**: \(forum\) [https://forum.arduino.cc/t/resolved-how-to-use-this-dri...](https://forum.arduino.cc/t/resolved-how-to-use-this-driver-stepper-module-for-drv-8825/659137/13)
+**Documentation**: [https://forum.arduino.cc/t/resolved-how-to-use-this-dri...](https://forum.arduino.cc/t/resolved-how-to-use-this-driver-stepper-module-for-drv-8825/659137/13)
 
 ## Description
 
@@ -27,4 +27,8 @@ On\-board DIP switch, you can easily adjust the drive segments
  Compatible with 12 / 24V drive scheme
 
  Suitable for 42 stepper motor drive, for 3D printers and DIY
+
+## Additional information
+
+**Code**: E17201
 

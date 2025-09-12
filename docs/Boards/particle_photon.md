@@ -50,3 +50,7 @@ Soft AP setup
 
 FCC, CE and IC certified
 
+## Additional information
+
+**Code**: E13101
+

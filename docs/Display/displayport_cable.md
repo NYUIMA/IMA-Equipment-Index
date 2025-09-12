@@ -1,6 +1,6 @@
 ---
 title: "Displayport Cable"
-sidebar_position: 47
+sidebar_position: 46
 tags:
     - "Cables"
 image: "/img/display/displayport_cable.png"
@@ -17,4 +17,8 @@ description: "Brand: None, Model: None"
 ## Description
 
 Easily connect a DisplayPort\-equipped desktop or laptop to an HD monitor or projector with DisplayPort input using this cable\.
+
+## Additional information
+
+**Code**: D2B00001
 

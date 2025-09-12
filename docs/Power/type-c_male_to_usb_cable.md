@@ -20,3 +20,7 @@ description: "Brand: AmazonBasics, Model: None"
 
 Connect USB Type\-C enabled devices \(MacBook, Chromebook Pixel, Galaxy Note 7, etc\.\) with standard USB Type\-A enabled devices \(laptops, hard drives, power banks, wall/car chargers, etc\.\)
 
+## Additional information
+
+**Code**: J2F00001
+

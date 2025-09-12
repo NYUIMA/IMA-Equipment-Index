@@ -26,3 +26,7 @@ The temperature sensor uses a thermistor which returns the ambient temperature i
 
 For all Grove users \(especially beginners\), we provide you guidance PDF documents\. Please download and read through Preface \- Getting Started\(http://www\.seeedstudio\.com/document/pdf/Preface\.pdf\) and Introduction to Grove\(http://www\.seeedstudio\.com/document/pdf/Introduction%20to%20Grove\.pdf\) before your using of the product\.
 
+## Additional information
+
+**Code**: G28101
+

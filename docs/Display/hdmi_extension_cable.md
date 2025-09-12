@@ -1,6 +1,6 @@
 ---
 title: "HDMI extension cable"
-sidebar_position: 49
+sidebar_position: 48
 tags:
     - "Cables"
 image: "/img/display/hdmi_extension_cable.png"
@@ -27,4 +27,8 @@ HDCP Compliant, Supports full 4K UHD, 1080p Full HD viewing with digital transfe
 Superior Quality: Truly 19 pin PURE copper wire and triple shielded for maximum conductivity, 100% Backward compatible with all previous HDMI versions\.
 
 What You Get: UGREEN HDMI male to female extension cable x 1pc; Free 18 Months Warranty\.
+
+## Additional information
+
+**Code**: D3H00001
 

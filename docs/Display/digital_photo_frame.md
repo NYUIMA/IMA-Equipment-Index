@@ -22,3 +22,7 @@ description: "Brand: None, Model: None"
 
  3\. 1 x Remote Controller
 
+## Additional information
+
+**Code**: F4A001
+

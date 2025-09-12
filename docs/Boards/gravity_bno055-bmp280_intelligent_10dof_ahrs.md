@@ -32,3 +32,7 @@ BMP280 is an absolute barometric pressure sensor especially designed for mobile 
 
 Now, this sensor module integrates BNO055 and BMP280 on one board to combine the two sensor into a 10DOF sensor module\. The standard Gravity\-I2C interface eases the integration process for customers, freeing them from the complexities of multivendor solutions so they can spend more time on product innovation, including novel applications such as wearable hardware\. It is also the perfect choice for augmented reality, more immersive gaming, personal health and fitness, indoor navigation and any other application requiring context awareness\.
 
+## Additional information
+
+**Code**: E81001
+

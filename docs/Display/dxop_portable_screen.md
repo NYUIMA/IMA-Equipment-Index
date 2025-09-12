@@ -14,7 +14,7 @@ description: "Brand: None, Model: H1010"
 
 **Model**: H1010
 
-**Product page**: [https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-42...](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-4233648214.2.51427bc2f5SbrB&id=587709899651)
+**Product page**: [https://item.taobao.com/item.htm?from=cart&id=591960172...](https://item.taobao.com/item.htm?from=cart&id=591960172606&skuId=5360979993247&spm=a1z0d.6639537%2F202406.item.d591960172606.6d3d74840mFYeT)
 
 ## Accessories List
 
@@ -33,4 +33,8 @@ Same screen with mobile phone\.
  10 inch
 
  Port: HDMI/VGA/AV/USB/earphone
+
+## Additional information
+
+**Code**: F4C001
 

@@ -42,3 +42,7 @@ High volume amplification, low feedback from microphone, and amazing sound clari
 
 The Aux/Line In port allows you to use this device to amplify an external music player such cell phones, laptops, MP3 players\.
 
+## Additional information
+
+**Code**: C1B001
+

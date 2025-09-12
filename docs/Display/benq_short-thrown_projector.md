@@ -1,6 +1,6 @@
 ---
 title: "Benq Short-Thrown Projector"
-sidebar_position: 29
+sidebar_position: 28
 tags:
     - "Projectors"
 image: "/img/display/benq_short-thrown_projector.png"
@@ -23,4 +23,8 @@ description: "Brand: Benq, Model: SP2890"
 1\. Projector\*1
 
  2\. Power Cable\*1
+
+## Additional information
+
+**Code**: S4B001
 

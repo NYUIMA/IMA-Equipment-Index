@@ -18,7 +18,7 @@ description: "Brand: Rapoo, Model: E6700"
 
 **Product page**: [https://www.amazon.com/Rapoo-Technologies-E6700-Keyboar...](https://www.amazon.com/Rapoo-Technologies-E6700-Keyboard-1028-04Q0E-800/dp/B00GU1GN9A/ref=sr_1_1?keywords=rapoo+E6700&qid=1562060566&s=electronics&sr=1-1)
 
-**Documentation**: [http://rpw.rapoo.cn/E9080%20manual-AAP.pdf](http://rpw.rapoo.cn/E9080%20manual-AAP.pdf)
+**Documentation**: [https://www.manua.ls/rapoo/e6700/manual](https://www.manua.ls/rapoo/e6700/manual)
 
 ## Description
 
@@ -33,4 +33,8 @@ Manufacturer	Rapoo Corporation
 ASIN	B00GU1GN9A
 
 Item model number	1028\-04Q0E\-800
+
+## Additional information
+
+**Code**: D4B001
 

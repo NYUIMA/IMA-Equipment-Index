@@ -26,3 +26,7 @@ The WiiChuck Adapter is a small PCB that is designed to be inserted into the con
 
 The Wii Nunchuck is loaded with features \-\- a 2\-axis joystick, two buttons and a 3 axis ±2g accelerometer \-\- and any device capable of I2C can communicate with it\! The WiiChuck allows you to interface with the Nunchuck without making a mess and cutting the wires\.
 
+## Additional information
+
+**Code**: E19501
+

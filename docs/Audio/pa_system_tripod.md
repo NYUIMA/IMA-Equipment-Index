@@ -34,3 +34,7 @@ Jam\-resistant collar coupling
 
 Unique pole\-top design with cable retention slots and replaceable stainless steel mounting stud
 
+## Additional information
+
+**Code**: TJ000001
+

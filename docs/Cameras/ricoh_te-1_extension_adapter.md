@@ -22,3 +22,7 @@ description: "Brand: Ricoh, Model: TE-1"
 
 Maximize the streaming and time lapse potential of your Theta series spherical camera by picking up this TE\-1 Extension Adapter from Ricoh\. By raising the camera up 2\.2" from the tripod mount, users will be able to access both the HDMI and USB ports for maintaining connectivity\. It can easily do this by offering a 1/4"\-20 camera screw on the top and a 1/4"\-20 tripod thread on the base\. Additionally, the brass adapter is knurled for improved grip\.
 
+## Additional information
+
+**Code**: A1H002
+

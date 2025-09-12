@@ -1,6 +1,6 @@
 ---
 title: "Monitor(Sony)"
-sidebar_position: 12
+sidebar_position: 11
 tags:
     - "Screen"
 image: "/img/display/monitor-sony-.png"
@@ -27,4 +27,8 @@ Size: 19 inch
  Resolution: 1,280 x 1,024
 
  Input Port: DVI, RCA
+
+## Additional information
+
+**Code**: S0A001
 

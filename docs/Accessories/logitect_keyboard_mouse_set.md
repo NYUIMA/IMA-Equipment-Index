@@ -22,3 +22,7 @@ description: "Brand: Logitech, Model: MK235"
 
 Full\-sized keyboard, ambidextrous mouse—fully wireless and complete\. This duo delivers all the functionality you need in one comfortable, durable design that's easy to use and keeps your space nice and clean\. Built with Logitech’s known quality standards, MK235 is in it for the long haul\.
 
+## Additional information
+
+**Code**: D4J001
+

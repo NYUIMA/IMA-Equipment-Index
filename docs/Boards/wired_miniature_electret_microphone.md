@@ -32,3 +32,7 @@ This microphone's very similar to our PCB\-mount Elecret Microphone but is signi
 
 We tested it with the FONA and it works great for voice purposes, you may also be able to use it with our other microphone amplifiers \(like \#1713 and \#1063\) and if you desolder the onboard microphones\.
 
+## Additional information
+
+**Code**: G30301
+

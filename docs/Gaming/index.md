@@ -27,10 +27,11 @@ pagination_next: null
 | [Oculus Quest 2](./oculus_quest_2) | ![oculus_quest_2](/img/gaming/oculus_quest_2.png) |
 | [SVPRO 3D Camera VR Camera](./svpro_3d_camera_vr_camera) | ![svpro_3d_camera_vr_camera](/img/gaming/svpro_3d_camera_vr_camera.png) |
 | [Samsung HMD Odyssey](./samsung_hmd_odyssey) | ![samsung_hmd_odyssey](/img/gaming/samsung_hmd_odyssey.png) |
-| [VR Glasses (Google Daydream)](./vr_glasses_-google_daydream-) | ![vr_glasses_-google_daydream-](/img/gaming/vr_glasses_-google_daydream-.png) |
-| [VR Glasses (Qilive)](./vr_glasses_-qilive-) | ![vr_glasses_-qilive-](/img/gaming/vr_glasses_-qilive-.png) |
-| [VR Glasses (Samsung Gear) ](./vr_glasses_-samsung_gear-_) | ![vr_glasses_-samsung_gear-_](/img/gaming/vr_glasses_-samsung_gear-_.png) |
+| [VR Glasses - with controller](./vr_glasses_-_with_controller) | ![vr_glasses_-_with_controller](/img/gaming/vr_glasses_-_with_controller.png) |
+| [VR Glasses - no controller](./vr_glasses_-_no_controller) | ![vr_glasses_-_no_controller](/img/gaming/vr_glasses_-_no_controller.png) |
+| [VR Glasses - no controller](./vr_glasses_-_no_controller) | ![vr_glasses_-_no_controller](/img/gaming/vr_glasses_-_no_controller.png) |
 | [Magic Leap One Creator Edition](./magic_leap_one_creator_edition) | ![magic_leap_one_creator_edition](/img/gaming/magic_leap_one_creator_edition.png) |
 | [Small VR Glasses](./small_vr_glasses) | ![small_vr_glasses](/img/gaming/small_vr_glasses.png) |
 | [Cable for Oculus Quest](./cable_for_oculus_quest) | ![cable_for_oculus_quest](/img/gaming/cable_for_oculus_quest.png) |
 | [Oculus Quest 3](./oculus_quest_3) | ![oculus_quest_3](/img/gaming/oculus_quest_3.png) |
+| [MiSTer FPGA Hardware](./mister_fpga_hardware) | ![mister_fpga_hardware](/img/gaming/mister_fpga_hardware.png) |

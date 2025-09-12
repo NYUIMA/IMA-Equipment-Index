@@ -64,3 +64,7 @@ Dimensions\(W×H×D\): 244 mm x 71 mm x 294 mm \(9\.6"x 2\.8"x 11\.6"\)
 
 Net Weight: 2\.1 kg \(4\.63 lbs\.\)
 
+## Additional information
+
+**Code**: F5B001
+

@@ -16,9 +16,9 @@ description: "Brand: Anchuan, Model: 42HD1403-24B"
 
 **Model**: 42HD1403-24B
 
-**Product page**: \(original link sitll available\) [https://world.taobao.com/item/543360268934.htm](https://world.taobao.com/item/543360268934.htm)
+**Product page**: [https://world.taobao.com/item/543360268934.htm](https://world.taobao.com/item/543360268934.htm)
 
-**Documentation**: \(original link sitll available\) [https://world.taobao.com/item/543360268934.htm](https://world.taobao.com/item/543360268934.htm)
+**Documentation**: [https://world.taobao.com/item/543360268934.htm](https://world.taobao.com/item/543360268934.htm)
 
 ## Description
 
@@ -45,4 +45,8 @@ Shaft Axial Play        0\.08Max\. 450 \-load\)
 Max\. radial force        28N \(20mm from the flange\)
 
 Max\. axial force        10N
+
+## Additional information
+
+**Code**: J3A001
 

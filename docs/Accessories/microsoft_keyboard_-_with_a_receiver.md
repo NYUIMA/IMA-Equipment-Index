@@ -24,3 +24,7 @@ description: "Brand: Microsoft, Model: N9Z-00001"
 
 The All\-in\-One Media Keyboard is the perfect device for your living room or home office\. It has a full\-size keyset and an integrated multi\-touch trackpad – type, swipe, drag, zoom, and click with ease\. It has customizable media hotkeys that put the web and your favorite music, photos, and movies at your fingertips\. The keyboard also has a durable design, so there's no need to sweat the bumps, drops, or spills of everyday life\. The All\-in\-One Media Keyboard is all you need for comfortable typing and effortless navigation\.
 
+## Additional information
+
+**Code**: D4A002
+

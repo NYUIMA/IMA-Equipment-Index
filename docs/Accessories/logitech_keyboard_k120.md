@@ -92,3 +92,7 @@ CURVED SPACE BAR
 
 It keeps your hands in a more natural position so you can type in greater comfort\.
 
+## Additional information
+
+**Code**: D4G001
+

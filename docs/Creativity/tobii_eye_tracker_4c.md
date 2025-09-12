@@ -36,3 +36,7 @@ Tobii Eye Tracker 4C Box
 
 USB Extension Cable \(1 Meter\)
 
+## Additional information
+
+**Code**: F2D001
+

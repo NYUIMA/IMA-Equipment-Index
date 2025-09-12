@@ -24,3 +24,7 @@ description: "Brand: None, Model: E-165A-000 DC 24V 130rpm"
 
  Weight 200g""
 
+## Additional information
+
+**Code**: J3F001
+

@@ -1,6 +1,6 @@
 ---
 title: "Type-c to HDMI Cable"
-sidebar_position: 51
+sidebar_position: 50
 tags:
     - "Cables"
 image: "/img/display/type-c_to_hdmi_cable.png"
@@ -19,4 +19,8 @@ description: "Brand: UGREEN, Model: None"
 ## Description
 
 【USB C to HDMI Cable】Use the USB\-C interface of the Type\-C to HDMI cable to watch sports events, movies, video games and photos/albums directly on the monitor/display/TV equipped with HDMI\. You will never miss the score of winning games or your favorite TV program again\. The USB\-C to HDMI cable is more stable than the WIFI connection\. You no longer need to worry about the WIFI angle, connection range, disconnection and other issues\.
+
+## Additional information
+
+**Code**: D3B00001
 

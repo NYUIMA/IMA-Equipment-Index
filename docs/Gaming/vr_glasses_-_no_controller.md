@@ -1,14 +1,14 @@
 ---
-title: "VR Glasses (Samsung Gear) "
+title: "VR Glasses - no controller"
 sidebar_position: 23
 tags:
     - "VR Equipment"
-image: "/img/gaming/vr_glasses_-samsung_gear-_.png"
+image: "/img/gaming/vr_glasses_-_no_controller.png"
 description: "Brand: Samsung Gear, Model: None"
 ---
-# VR Glasses (Samsung Gear) 
+# VR Glasses - no controller
 
-![vr_glasses_-samsung_gear-_](/img/gaming/vr_glasses_-samsung_gear-_.png)
+![vr_glasses_-_no_controller](/img/gaming/vr_glasses_-_no_controller.png)
 
 ## Basic information
 
@@ -16,7 +16,7 @@ description: "Brand: Samsung Gear, Model: None"
 
 **Product page**: [https://www.samsung.com/us/mobile/virtual-reality/gear-...](https://www.samsung.com/us/mobile/virtual-reality/gear-vr/gear-vr-with-controller-sm-r324nzaaxar/)
 
-**Documentation**: [https://www.samsung.com/global/galaxy/gear-vr/](https://www.samsung.com/global/galaxy/gear-vr/)
+**Documentation**: [https://www.youtube.com/watch?v=z4dhKMVaN7g](https://www.youtube.com/watch?v=z4dhKMVaN7g)
 
 ## Description
 
@@ -43,4 +43,8 @@ Galaxy Note9\*, S9, S9\+, Note8, S8, S8\+, S7, S7 edge, Note5, S6 edge\+, S6, S6
 
 
 \*Galaxy Note9 is compatible with Gear VR model number SM\-R325NZVC\*\*\* only\.
+
+## Additional information
+
+**Code**: R2A003
 

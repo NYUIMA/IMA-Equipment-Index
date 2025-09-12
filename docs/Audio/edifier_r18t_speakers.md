@@ -36,3 +36,7 @@ USB connecting cable attached to the back panel of the active speaker
 
 Keys on the line in control pad, including various audio functions
 
+## Additional information
+
+**Code**: C1D001
+

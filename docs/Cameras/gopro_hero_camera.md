@@ -32,3 +32,7 @@ description: "Brand: Gopro, Model: Hero 5"
 
 Features 1080p30 and 720p60 video, 5MP photos up to 5 frames per second, QuikCapture, SuperView™ and Auto Low Light\. Waterproof to 131’ \(40m\) \- See more at: http://shop\.gopro\.com/APAC/cameras/hero/CHDHA\-301\-master\.html\#\.dpuf
 
+## Additional information
+
+**Code**: B1B001
+

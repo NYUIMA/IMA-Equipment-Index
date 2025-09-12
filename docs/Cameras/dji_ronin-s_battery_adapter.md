@@ -22,3 +22,7 @@ description: "Brand: RSBA1, Model: None"
 
 Charges the Ronin\-S Grip by connecting it directly to a power outlet, and works as a portable power bank to charge external devices\.
 
+## Additional information
+
+**Code**: P7B001
+

@@ -60,3 +60,7 @@ Range of PPM positive pulse width:400us\-2550us
 
 Minimum value of PPM negative pulse width:400us
 
+## Additional information
+
+**Code**: G27201
+

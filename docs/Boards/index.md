@@ -234,7 +234,7 @@ pagination_next: null
 | [XSP Arduino Programmer](./xsp_arduino_programmer) | ![xsp_arduino_programmer](/img/boards/xsp_arduino_programmer.png) |
 | [Xbee Shield for Arduino](./xbee_shield_for_arduino) | ![xbee_shield_for_arduino](/img/boards/xbee_shield_for_arduino.png) |
 | [Raspberry Pi 4 Model B 8GB](./raspberry_pi_4_model_b_8gb) | ![raspberry_pi_4_model_b_8gb](/img/boards/raspberry_pi_4_model_b_8gb.png) |
-| [LattenPanda Delta 432 with Win10 Pro 004](./lattenpanda_delta_432_with_win10_pro_004) | ![lattenpanda_delta_432_with_win10_pro_004](/img/boards/lattenpanda_delta_432_with_win10_pro_004.png) |
+| [LattenPanda Delta 432 with Win10 Pro](./lattenpanda_delta_432_with_win10_pro) | ![lattenpanda_delta_432_with_win10_pro](/img/boards/lattenpanda_delta_432_with_win10_pro.png) |
 | [MicroSD card module](./microsd_card_module) | ![microsd_card_module](/img/boards/microsd_card_module.png) |
 | [Cherokey 4WD Basic Robot Kit](./cherokey_4wd_basic_robot_kit) | ![cherokey_4wd_basic_robot_kit](/img/boards/cherokey_4wd_basic_robot_kit.png) |
 | [KittenBot RobotBit](./kittenbot_robotbit) | ![kittenbot_robotbit](/img/boards/kittenbot_robotbit.png) |
@@ -259,3 +259,14 @@ pagination_next: null
 | [Stepper motor 42BYGH60](./stepper_motor_42bygh60) | ![stepper_motor_42bygh60](/img/boards/stepper_motor_42bygh60.png) |
 | [Stepper motor JK42HS40](./stepper_motor_jk42hs40) | ![stepper_motor_jk42hs40](/img/boards/stepper_motor_jk42hs40.png) |
 | [Charger for Raspberry Pi2](./charger_for_raspberry_pi2) | ![charger_for_raspberry_pi2](/img/boards/charger_for_raspberry_pi2.png) |
+| [Ear Clip Heart Rate Sensor(Pulse Sensor)](./ear_clip_heart_rate_sensor-pulse_sensor-) | ![ear_clip_heart_rate_sensor-pulse_sensor-](/img/boards/ear_clip_heart_rate_sensor-pulse_sensor-.png) |
+| [Wireless Communication Module](./wireless_communication_module) | ![wireless_communication_module](/img/boards/wireless_communication_module.png) |
+| [6 Axis Accelerometer & Compass(GY-521) ](./6_axis_accelerometer_-_compass-gy-521-_) | ![6_axis_accelerometer_-_compass-gy-521-_](/img/boards/6_axis_accelerometer_-_compass-gy-521-_.png) |
+| [LCD Keypad Shield V2.0(New)](./lcd_keypad_shield_v2.0-new-) | ![lcd_keypad_shield_v2.0-new-](/img/boards/lcd_keypad_shield_v2.0-new-.png) |
+| [Sharp Infrared Distance Sensor (4-50cm)](./sharp_infrared_distance_sensor_-4-50cm-) | ![sharp_infrared_distance_sensor_-4-50cm-](/img/boards/sharp_infrared_distance_sensor_-4-50cm-.png) |
+| [DMX Stage Light Controller Kit(Max485)](./dmx_stage_light_controller_kit-max485-) | ![dmx_stage_light_controller_kit-max485-](/img/boards/dmx_stage_light_controller_kit-max485-.png) |
+| [Speaker(Grove)](./speaker-grove-) | ![speaker-grove-](/img/boards/speaker-grove-.png) |
+| [NFC Stick](./nfc_stick) | ![nfc_stick](/img/boards/nfc_stick.png) |
+| [NFC Tag(Round)](./nfc_tag-round-) | ![nfc_tag-round-](/img/boards/nfc_tag-round-.png) |
+| [RFID Card (13.56Mhz)](./rfid_card_-13.56mhz-) | ![rfid_card_-13.56mhz-](/img/boards/rfid_card_-13.56mhz-.png) |
+| [RFID tag combo (125khz)](./rfid_tag_combo_-125khz-) | ![rfid_tag_combo_-125khz-](/img/boards/rfid_tag_combo_-125khz-.png) |

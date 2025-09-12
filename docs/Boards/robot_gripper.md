@@ -12,9 +12,9 @@ description: "Brand: None, Model: None"
 
 ## Basic information
 
-**Product page**: \(retired\) [https://www.dfrobot.com/product-1050.html](https://www.dfrobot.com/product-1050.html)
+**Product page**: [https://www.dfrobot.com/product-1050.html](https://www.dfrobot.com/product-1050.html)
 
-**Documentation**: \(not fully related\) [https://www.yuque.com/makeblock-help-center-en](https://www.yuque.com/makeblock-help-center-en)
+**Documentation**: [https://www.dfrobot.com/product-1050.html](https://www.dfrobot.com/product-1050.html)
 
 ## Description
 
@@ -51,4 +51,8 @@ Self\-Protection Design
 
 
 Thanks to the built\-in fuse, the inner N20 screw motor of the gripper will automatically stop running when the gripper is fully open or closed\. This protects the screw motor from short\-circuits and over\-current, ensuring long\-time use of the gripper\.
+
+## Additional information
+
+**Code**: F2G001
 

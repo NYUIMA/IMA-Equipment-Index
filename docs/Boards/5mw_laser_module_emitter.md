@@ -40,3 +40,7 @@ Outline Dimension:  12mm\(Diameter\) x 35mm\(Length\)
 
 Practical test for point head: reflection visible to random target \>1000m
 
+## Additional information
+
+**Code**: G25001
+

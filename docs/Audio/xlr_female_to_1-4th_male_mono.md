@@ -28,3 +28,7 @@ Constructed with multi\-layers of shielding minimize signal interference and ens
 
 18 Months Warranty: Hassle free replacement or money back during the warranty\.
 
+## Additional information
+
+**Code**: C4D00001
+

@@ -20,3 +20,7 @@ description: "Brand: AmazonBasics, Model: None"
 
 Ideal for charging Android phones and tablets or connecting PC peripherals such as hard drives, printers, and more
 
+## Additional information
+
+**Code**: J1F00001
+

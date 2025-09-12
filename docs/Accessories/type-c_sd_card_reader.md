@@ -30,3 +30,7 @@ Fashionable & Portable: UGREEN Card Reader made of wear\-resistant metal is a gr
 
 Plug and play for Windows, Mac OS, Linux, Chrome OS, iPad, Android, etc\."
 
+## Additional information
+
+**Code**: A6C001
+

@@ -28,3 +28,7 @@ Adjustable flexible microphone for optimal voice clarity
 
 Comfort fit with lightweight headset
 
+## Additional information
+
+**Code**: C5G001
+

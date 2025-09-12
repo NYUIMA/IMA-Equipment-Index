@@ -42,3 +42,7 @@ The excellent sensitivity \(3\.9mg/LSB @2g\) provids high\-precision output up t
 
 The sensor is utilizes a 4\-pin Grove interface \(3\-5VDC\) for easy connectivity with your standard Arduino device or Seeed Stalker\.
 
+## Additional information
+
+**Code**: G15001
+

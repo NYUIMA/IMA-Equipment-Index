@@ -38,3 +38,7 @@ I2C Interface
 
 Low power consumption
 
+## Additional information
+
+**Code**: G21201
+

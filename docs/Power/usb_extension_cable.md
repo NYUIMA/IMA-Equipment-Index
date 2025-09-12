@@ -20,3 +20,7 @@ description: "Brand: AmazonBasics, Model: None"
 
 Extends your USB connection to your computer; for use with printers, cameras, mice, keyboards and other USB computer peripherals
 
+## Additional information
+
+**Code**: J1J00001
+

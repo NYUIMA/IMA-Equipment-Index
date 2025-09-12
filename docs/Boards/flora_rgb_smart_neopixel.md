@@ -40,3 +40,7 @@ These pixels have full 24\-bit color ability with PWM taken care of by the contr
 
 Each pixel draws as much as 60mA \(all three RGB LEDs on for full brightness white\)\. In theory, the Flora can drive up to 500 pixels at 30 FPS \(it will run out of RAM after that\)\. However, after about 10 pixels \(or if the distance between pixels is more than an inch or two\) the resistance of the thread can affect the power supply\. For large quantities of pixels over 10, you may want to consider using stranded core wire or copper braid to provide a "power bus" for the pixels \- the current draw will add up fast\!
 
+## Additional information
+
+**Code**: G12401
+

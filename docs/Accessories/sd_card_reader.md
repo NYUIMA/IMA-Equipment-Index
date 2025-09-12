@@ -14,9 +14,9 @@ description: "Brand: Ugreen, Model: None"
 
 **Brand**: Ugreen
 
-**Product page**: [https://www.ugreen.com/collections/usb-card-reader/prod...](https://www.ugreen.com/collections/usb-card-reader/products/usb-3-0-card-reader-with-sd-tf?variant=39915666571326)
+**Product page**: [https://www.ugreen.com/collections/usb-card-reader/prod...](https://www.ugreen.com/collections/usb-card-reader/products/4-in-1-usb-3-0-sd-tf-card-reader?variant=39915658838078)
 
-**Documentation**: [https://www.ugreen.com/collections/usb-card-reader/prod...](https://www.ugreen.com/collections/usb-card-reader/products/usb-3-0-card-reader-with-sd-tf?variant=39915666571326)
+**Documentation**: [https://www.ugreen.com/collections/usb-card-reader/prod...](https://www.ugreen.com/collections/usb-card-reader/products/4-in-1-usb-3-0-sd-tf-card-reader?variant=39915658838078)
 
 ## Description
 
@@ -27,4 +27,8 @@ Powers via USB port, no additional power supply needed\.
 Plug\-n\-Play, no installation required\.
 
 Supports SD , SDHC , SDXC , MMC / MicroSD and T\-Flash\.
+
+## Additional information
+
+**Code**: A6A00001
 

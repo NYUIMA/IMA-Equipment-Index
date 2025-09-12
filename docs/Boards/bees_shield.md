@@ -30,3 +30,7 @@ The DFRobot Bees shield can solve these problems\. The Bees shield is compatible
 
 The Bees shield is stackable and practical; it gives more flexibility to your projects\. Although it is an old design, it is still very practical\!
 
+## Additional information
+
+**Code**: E25001
+

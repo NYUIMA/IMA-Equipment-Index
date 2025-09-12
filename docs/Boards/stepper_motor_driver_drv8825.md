@@ -28,3 +28,7 @@ description: "Brand: 卡邦利, Model: DRV8825"
 
 \(doc for DRV8825 chip, not module\) [https://www.ti.com/product/DRV8825](https://www.ti.com/product/DRV8825)
 
+## Additional information
+
+**Code**: E17101
+

@@ -22,3 +22,7 @@ description: "Brand: Seeed Studio, Model: None"
 
 Do you know how is the cool advertising display made? It is exactly composed of these small RGB LED matrix\. If you want to make a similar display, this RGB LED matrix will meet you need\. The 8x8 LED matrix has 32 of pins, you may need a driver to control it\. It sounds quite complex, but don't worry, we have provided a driver board Rainbowduino for this LED matrix as your reference\. Make it easy for you to start your project\.
 
+## Additional information
+
+**Code**: G33001
+

@@ -44,3 +44,7 @@ Once recorded, play back your takes with EQ and the optional Level Align feature
 
 "DR\-05", "DR\-07MK2" and our brand new "DR\-40" Linear PCM Recorders are part of TASCAM's handheld recorders\. Select a model based on your functional needs\.
 
+## Additional information
+
+**Code**: C6A001
+

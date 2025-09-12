@@ -44,3 +44,7 @@ Specifications:
 
  Voltage: \+5V\(USB Power\)
 
+## Additional information
+
+**Code**: E20301
+

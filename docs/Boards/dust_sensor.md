@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 This Dust Sensor measures the Particulate Matter level in air by counting the Lo Pulse Occupancy time\(LPO time\) in given time unit\. LPO time is in proportion to PM concentration\. This sensor can provide you pretty reliable data for your PM2\.5 project or air purifier system because it's still responsive to particulates whose diameter is 1um\.
 
+## Additional information
+
+**Code**: G74001
+

@@ -1,6 +1,6 @@
 ---
 title: "HDMI to Micro HDMI Cable"
-sidebar_position: 50
+sidebar_position: 49
 tags:
     - "Cables"
 image: "/img/display/hdmi_to_micro_hdmi_cable.png"
@@ -21,4 +21,8 @@ description: "Brand: Ugreen, Model: None"
 High\-Speed Micro HDMI to HDMI Cable
 
  The Micro HDMI male to HDMI male cable delivers both high\-definition video and digital audio from digital devices to your home theater\. It offers an ideal way to connect digital devices with Micro HDMI \(HDMI Type D\) ports to HDTV or Projector with full\-size HDMI \(HDMI Type A\) ports\.
+
+## Additional information
+
+**Code**: D3I00001
 

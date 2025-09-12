@@ -30,3 +30,7 @@ Seeeduino Lite differs from all Arduino boards in that the voltage select switch
 
 In addition, Like Arduino Leonardo,The Seeeduino Lite can appear to a connected computer as a mouse and keyboard, in addition to a virtual \(CDC\) serial / COM port\.
 
+## Additional information
+
+**Code**: E16301
+

@@ -36,3 +36,7 @@ Full HD up to 1920\*1080p\.
 
  Picture Playing, Supports picture formats, such as, JPG / BMP / PNG / GIF, etc\.
 
+## Additional information
+
+**Code**: D1I001
+

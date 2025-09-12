@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 GSR, standing for galvanic skin response, is a method of measuring the electrical conductance of the skin\. Strong emotion can cause stimulus to your sympathetic nervous system, resulting more sweat being secreted by the sweat glands\. Grove – GSR allows you to spot such strong emotions by simple attaching two electrodes to two fingers on one hand, an interesting gear to create emotion related projects, like sleep quality monitor\.
 
+## Additional information
+
+**Code**: G13501
+

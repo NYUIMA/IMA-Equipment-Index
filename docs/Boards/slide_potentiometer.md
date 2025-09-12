@@ -14,11 +14,15 @@ description: "Brand: Grove, Model: None"
 
 **Brand**: Grove
 
-**Product page**: [https://www.digikey.hk/en/products/detail/seeed-technol...](https://www.digikey.hk/en/products/detail/seeed-technology-co-ltd/101020036/5482574)
+**Product page**: [https://www.seeedstudio.com/Grove-Slide-Potentiometer.h...](https://www.seeedstudio.com/Grove-Slide-Potentiometer.html)
 
 **Documentation**: [http://wiki.seeedstudio.com/Grove-Slide_Potentiometer/](http://wiki.seeedstudio.com/Grove-Slide_Potentiometer/)
 
 ## Description
 
 This slide potentiometer is a linear variable resistor with a total resistance of 10k\. When you move the lever from one side to the other, its output voltage will range between 0 V to the VCC you apply\. Three of four Grove pins are connected to VCC, GND and the ADC IN on the slide, while the remaining pin is connected to a green indicator LED\. You can use the indicator LED to visually display the change on the potentiometer\.
+
+## Additional information
+
+**Code**: G25501
 

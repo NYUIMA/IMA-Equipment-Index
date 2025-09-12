@@ -80,3 +80,7 @@ Arduino UNO
 
 Arduino Dumlinove
 
+## Additional information
+
+**Code**: E65001
+

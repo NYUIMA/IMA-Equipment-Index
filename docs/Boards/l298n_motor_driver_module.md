@@ -26,3 +26,7 @@ description: "Brand: None, Model: L298N"
 
 This L298N Motor Driver Module is a high power motor driver module for driving DC and Stepper Motors\. This module consists of an L298 motor driver IC and a 78M05 5V regulator\. L298N Module can control up to 4 DC motors, or 2 DC motors with directional and speed control\.
 
+## Additional information
+
+**Code**: E17301
+

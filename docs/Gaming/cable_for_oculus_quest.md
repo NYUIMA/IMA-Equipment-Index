@@ -22,3 +22,7 @@ description: "Brand: Bodro, Model: 3m"
 
 3m link cable usb3\.2 USB to Type\-c
 
+## Additional information
+
+**Code**: R3B015
+

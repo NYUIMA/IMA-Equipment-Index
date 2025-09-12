@@ -22,3 +22,7 @@ Product Description
 
 Use this 1/4in to 1/4in cable to connect unbalanced line outputs to unbalanced line inputs\. This pro\-audio cable is made from 22 AWG twisted pair audio cable under an aluminum foil shield and 60% copper braid for maximum shielding from noise\. The highly flexible 7mm PVC jacket reduces the risk of the cable kinking and damaging the conductors\.
 
+## Additional information
+
+**Code**: C4B00001
+

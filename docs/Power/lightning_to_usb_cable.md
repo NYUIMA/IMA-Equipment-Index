@@ -22,3 +22,7 @@ description: "Brand: AmazonBasics, Model: None"
 
  Connects to your iPhone, iPad, or iPod with Lightning Connector and charges/syncs by connecting the USB connector into your wall charger or computer""
 
+## Additional information
+
+**Code**: J1H00001
+

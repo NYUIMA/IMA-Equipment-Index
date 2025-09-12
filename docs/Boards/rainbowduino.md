@@ -24,3 +24,7 @@ The Rainbowduino board \(V3\.0\) is an Arduino compatible controller board with 
 
 Rainbowduino v3\.0 is flashed with Arduino boot\-loader and this makes it easy to program sketches using Arduino IDE\. Unlike other LED drivers, this comes with a USB to UART \(FT232RL\) inbuilt for programming the sketches\.
 
+## Additional information
+
+**Code**: E13501
+

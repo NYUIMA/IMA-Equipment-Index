@@ -18,7 +18,7 @@ description: "Brand: Ricoh, Model: Theta S"
 
 **Product page**: [https://www.bhphotovideo.com/c/product/1333693-REG/rico...](https://www.bhphotovideo.com/c/product/1333693-REG/ricoh_theta_360_degree_camera.html?c3api=2572%2C113041717267&gclid=EAIaIQobChMI6Yuyy_Tc3AIVhYaPCh08XwUqEAAYASAAEgI96_D_BwE)
 
-**Documentation**: [https://theta360.com/en/about/theta/s.html](https://theta360.com/en/about/theta/s.html)
+**Documentation**: [https://theta-archive.ricoh360.com/support.theta360.com...](https://theta-archive.ricoh360.com/support.theta360.com/en/manual/s/content/menu-prepare)
 
 ## Accessories List
 
@@ -35,4 +35,8 @@ Beauty as far as the eye can see, and a breathtaking sense of presence making yo
 From still images to long movies \(max\. 25 minutes long\), record your memories in a vivid, high resolution 360° world\. 
 
 The new RICOH THETA S gives you even higher quality and performance\.
+
+## Additional information
+
+**Code**: A1I001
 

@@ -58,3 +58,7 @@ Full HD 1080p videos with adjustable resolutions Clear and crisp 16MP photos\.
 
 Real\-time streaming and remote control on the app or Bluetooth remote\.
 
+## Additional information
+
+**Code**: B1E001
+

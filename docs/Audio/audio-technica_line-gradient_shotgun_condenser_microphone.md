@@ -56,3 +56,7 @@ Output Connector: Integral 3\-pin XLRM\-type
 
 Accessories: AT8405a stand clamp for 5/8"\-27 threaded stands; 5/8"\-27 to 3/8"\-16 threaded adapter; AT8132 windscreen; battery; protective carrying case
 
+## Additional information
+
+**Code**: C3G001
+

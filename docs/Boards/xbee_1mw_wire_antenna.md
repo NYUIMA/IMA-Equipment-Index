@@ -56,3 +56,7 @@ Local or over\-air configuration
 
 AT or API command set
 
+## Additional information
+
+**Code**: E20101
+

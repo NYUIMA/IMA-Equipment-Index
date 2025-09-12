@@ -38,3 +38,7 @@ description: "Brand: None, Model: None"
 
  【What’s In the Box?】1\* 50” Horizontal Tripod; 1\* Phone Holder; 1\* Wireless Remote Shutter; 1\* Carry Bag; 1\* Manual\. UBeesize 1 Year Hassle\-Free replacement and 24\-hour friendly customer service\.
 
+## Additional information
+
+**Code**: Q3C00001
+

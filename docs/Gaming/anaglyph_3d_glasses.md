@@ -24,3 +24,7 @@ description: "Brand: None, Model: None"
 
  It could be used to view 3D print, magazines, comic books, TV ,Anaglyph photos on the internet and publications as well\.
 
+## Additional information
+
+**Code**: R2C001
+

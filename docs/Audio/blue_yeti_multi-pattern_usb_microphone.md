@@ -24,3 +24,7 @@ description: "Brand: Blue, Model: Yeti"
 
 Create unparalleled recordings with your computer using Blue's best\-selling Yeti family of USB microphones\. Thanks to our proprietary tri\-capsule technology, Yeti microphones produce pristine, studio\-quality recordings with legendary ease\. And four different pattern settings offer incredible flexibility so you can record vocals, instrumental music, podcasts, audio for video, interviews, or even cryptozoology lectures in ways that would normally require multiple microphones\. Whether you're recording at home, on the road, or in the Himalayas, Yeti helps you produce studio\-quality recordings every time\.
 
+## Additional information
+
+**Code**: C2S001
+

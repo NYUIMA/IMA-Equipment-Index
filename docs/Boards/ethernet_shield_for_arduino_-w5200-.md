@@ -82,3 +82,7 @@ Standard size Arduino compatible controller, while supporting Arduino Mega Serie
 
 Size: 70x55x30mm\(2\.75x2\.16x1\.18'\)
 
+## Additional information
+
+**Code**: E62001
+

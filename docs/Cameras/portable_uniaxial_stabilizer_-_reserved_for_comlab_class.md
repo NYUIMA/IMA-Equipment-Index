@@ -18,6 +18,8 @@ description: "Brand: Remax, Model: RL-PS01"
 
 **Product page**: [https://www.sabinetek.com/products/tripod-selfie-stick](https://www.sabinetek.com/products/tripod-selfie-stick)
 
+**Documentation**: [https://www.youtube.com/watch?v=wN7j27mpLZ8](https://www.youtube.com/watch?v=wN7j27mpLZ8)
+
 ## Accessories List
 
 1\. 1 x Stabilizer
@@ -67,4 +69,8 @@ All\-in\-one design, flexible and easy to store
  
 
  Remote control, release the two\-handed separated Bluetooth selector, 10 meters remote control distance
+
+## Additional information
+
+**Code**: Q1A001
 

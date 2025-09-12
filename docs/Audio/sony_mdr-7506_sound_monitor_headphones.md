@@ -28,3 +28,7 @@ The MDR\-7506 is a staple within the recording, film and live arenas\. Due to it
 
 The MDR\-7506 is an over\-ear design and is ideal for use with MIDI workstations, camcorders, or other equipment with less than powerful headphone amplification\. The headphone has a foldable design, making it convenient to store or transport, and its coiled cable allows it to stretch and spring back into place whenever you need a bit more reach\.
 
+## Additional information
+
+**Code**: C5B001
+

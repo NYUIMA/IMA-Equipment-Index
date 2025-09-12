@@ -44,3 +44,7 @@ Repeatable recording times: 100,000
 
 Dimensions: 37\*35 mm/ 1\.46\*1\.38 inches
 
+## Additional information
+
+**Code**: G16401
+

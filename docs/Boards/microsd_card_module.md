@@ -38,3 +38,7 @@ Interface: SPI
 
 Compatible: MicroSD\(TF\)
 
+## Additional information
+
+**Code**: G18501
+

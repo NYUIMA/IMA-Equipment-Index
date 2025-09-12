@@ -88,3 +88,7 @@ Package Includes :
 
 1 x 5MP Raspberry Pi 3 Model B Camera Module Rev 1\.3 with Cable
 
+## Additional information
+
+**Code**: E14101
+

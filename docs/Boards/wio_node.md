@@ -48,3 +48,7 @@ Even though the compact design only allows Wio Node to have two Grove connectors
 
 Owing to its low\-cost, easy\-to\-use and compact design, Wio Node can be used to build an IoT system where a large amount of ‘things’ are required to be connected to the internet\. We have provided detailed instructions and rich tutorials at http://iot\.seeed\.cc/ to help you getting started with your Wio Node easily and quickly\. You can also find out more interesting stuff at the Wio Community, where all the Wio fans gather to share their ideas and experiences\.
 
+## Additional information
+
+**Code**: E19401
+

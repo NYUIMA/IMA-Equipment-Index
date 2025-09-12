@@ -16,7 +16,7 @@ description: "Brand: logitech, Model: K400"
 
 **Model**: K400
 
-**Product page**: [https://www.logitech.com/en-hk/product/wireless-touch-k...](https://www.logitech.com/en-hk/product/wireless-touch-keyboard-k400-plus)
+**Product page**: [https://www.logitech.com/en-hk/shop/p/k400-plus-touchpa...](https://www.logitech.com/en-hk/shop/p/k400-plus-touchpad-keyboard)
 
 **Documentation**: [https://www.logitech.com/assets/42364/4/k400-quick-star...](https://www.logitech.com/assets/42364/4/k400-quick-start-guide.pdf)
 
@@ -37,4 +37,8 @@ This ultrathin keyboard with low\-profile keys is compact, but still provides co
 MULTI\-TOUCH TOUCHPAD
 
 No need for a separate mouse thanks to the large 3\.5 inch, built\-in touchpad, which also works with Windows 8\.
+
+## Additional information
+
+**Code**: D4E001
 

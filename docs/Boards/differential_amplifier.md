@@ -42,3 +42,7 @@ Signal comparison
 
 General purpose amplification
 
+## Additional information
+
+**Code**: G71001
+

@@ -18,8 +18,6 @@ description: "Brand: Audio-Technica, Model: MSA7040TB"
 
 **Product page**: [https://www.amazon.com/Stage-MSA7040TB-Telescoping-Micr...](https://www.amazon.com/Stage-MSA7040TB-Telescoping-Microphone-PYLE-PRO/dp/B0CBLLBKR4?th=1)
 
-**Documentation**: [https://static.bhphotovideo.com/lit_files/108948.pdf](https://static.bhphotovideo.com/lit_files/108948.pdf)
-
 ## Description
 
 Fixed Height for Desktop Use
@@ -33,4 +31,8 @@ Weighted Round Base
 Non\-Slip Rubber Feet
 
 Durable Steel Construction
+
+## Additional information
+
+**Code**: Q3G00001
 

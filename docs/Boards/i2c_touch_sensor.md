@@ -32,3 +32,7 @@ MPR121: The MPR121 is a capacitive touch sensor controller,features internal int
 
 Touch Sensor feeler: The Touch Sensor feelers, which was 4 included in Touch Sensor module,can be set in any place you like, to feel your finger's touch or proximity\. Notice it must not get in touch with any conductive material\.
 
+## Additional information
+
+**Code**: G14301
+

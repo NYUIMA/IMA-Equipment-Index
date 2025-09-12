@@ -32,3 +32,7 @@ The development board breaks out all the module’s pins to 0\.1″ headers and 
 
 Please note: The ESP32 is still targeted to developers\. Not all of the peripherals are fully documented with example code, and there are some bugs still being found and fixed\. We got many sensors and displays working under Arduino IDE, so you can expect things like I2C and SPI and analog reads to work\. But other elements are still under development\. This board is designed for use with the Tensilica toolchain \(ESP IDF\) so we recommend that for better hardware\-support coverage\.
 
+## Additional information
+
+**Code**: E55001
+

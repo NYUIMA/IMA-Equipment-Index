@@ -20,3 +20,7 @@ description: "Brand: None, Model: None"
 
 This Analog Piezoelectric Ceramic Vibration Module buffers a piezoelectric transducer that responds to strain changes by generating a measurable output voltage change which is proportional with the strength of vibration also known as 'piezoelectric effect'\. So you can know the extent of vibration\. Different from digital vibration sensor that only accounts times, this analog one can tell extent of vibration\.
 
+## Additional information
+
+**Code**: G44001
+

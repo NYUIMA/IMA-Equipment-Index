@@ -48,3 +48,7 @@ ICSP Header
 
 Can be powered through a battery or through a AC to DC adaptor
 
+## Additional information
+
+**Code**: E10401
+

@@ -34,3 +34,7 @@ Dimensions \(W × H × D\): Approx\. 38\.4 x 21 x 56\.8 mm
 
 Weight : about 80 g \(not including the cover\)
 
+## Additional information
+
+**Code**: N3C001
+

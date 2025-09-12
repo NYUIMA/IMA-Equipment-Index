@@ -20,3 +20,7 @@ description: "Brand: None, Model: None"
 
 The Flora Bluefruit LE makes it easy to add Bluetooth Low Energy connectivity to your Flora\. Sew 4 traces \(or solder 4 wires\) and BooM\! Bluetooth Low Energy\!
 
+## Additional information
+
+**Code**: E73001
+

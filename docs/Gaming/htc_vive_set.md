@@ -14,7 +14,7 @@ description: "Brand: HTC Vive, Model: None"
 
 **Brand**: HTC Vive
 
-**Product page**: [https://www.vive.com/cn/product/vive/](https://www.vive.com/cn/product/vive/)
+**Product page**: [https://www.vive.com/hk/product/](https://www.vive.com/hk/product/)
 
 **Documentation**: [https://www.vive.com/hk/setup/](https://www.vive.com/hk/setup/)
 
@@ -67,4 +67,8 @@ Earphones \*1
 Stand for basestation \*2
 
 Safety guide and warranty card
+
+## Additional information
+
+**Code**: R2F001
 

@@ -18,6 +18,8 @@ description: "Brand: Logitech, Model: G27"
 
 **Product page**: [https://www.amazon.com/Logitech-G-941-000045-Racing-Whe...](https://www.amazon.com/Logitech-G-941-000045-Racing-Wheel/dp/B001NT9TK4)
 
+**Documentation**: [https://support.logi.com/hc/en-ch/articles/360024155954...](https://support.logi.com/hc/en-ch/articles/360024155954--Getting-Started-G27-Racing-Wheel)
+
 ## Accessories List
 
 1\. 1 x Steering wheel
@@ -39,4 +41,8 @@ About this item
  Realistic 11\-Inch wheel with leather\-wrapped rim provides a more comfortable, true\-to\-life racing experience for hours on end\.
 
  Steel gas, brake, and clutch pedals deliver precise throttle, braking, and shifting control for heightened realism\.
+
+## Additional information
+
+**Code**: U7C001
 

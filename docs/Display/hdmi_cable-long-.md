@@ -1,6 +1,6 @@
 ---
 title: "HDMI Cable(Long)"
-sidebar_position: 52
+sidebar_position: 51
 tags:
     - "Cables"
 image: "/img/display/hdmi_cable-long-.png"
@@ -27,4 +27,8 @@ description: "Brand: AmazonBasics, Model: None"
  Meets the latest HDMI standards \(4K Video at 60 Hz, 2160p, 48 bit/px color depth\) that supports bandwidth up to 18Gbps and backwards compatible with earlier versions\.
 
  Cable Length: 6 feet \(1\.8 meters\); Backed by AmazonBasics Lifetime warranty\.""
+
+## Additional information
+
+**Code**: D0C00056
 

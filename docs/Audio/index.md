@@ -77,3 +77,7 @@ pagination_next: null
 | [Universal Carbon Fiber Boompole with Internal XLR Cable (8.2')](./universal_carbon_fiber_boompole_with_internal_xlr_cable_-8.2--) | ![universal_carbon_fiber_boompole_with_internal_xlr_cable_-8.2--](/img/audio/universal_carbon_fiber_boompole_with_internal_xlr_cable_-8.2--.png) |
 | [RCA to 3.5mm Female Audio Cable](./rca_to_3.5mm_female_audio_cable) | ![rca_to_3.5mm_female_audio_cable](/img/audio/rca_to_3.5mm_female_audio_cable.png) |
 | [3.5mm Female to Type-c Converter](./3.5mm_female_to_type-c_converter) | ![3.5mm_female_to_type-c_converter](/img/audio/3.5mm_female_to_type-c_converter.png) |
+| [DJI Mic Mini](./dji_mic_mini) | ![dji_mic_mini](/img/audio/dji_mic_mini.png) |
+| [Ugreen USB Desk Microphone](./ugreen_usb_desk_microphone) | ![ugreen_usb_desk_microphone](/img/audio/ugreen_usb_desk_microphone.png) |
+| [USB External Sound Adapter](./usb_external_sound_adapter) | ![usb_external_sound_adapter](/img/audio/usb_external_sound_adapter.png) |
+| [Speaker Stand](./speaker_stand) | ![speaker_stand](/img/audio/speaker_stand.png) |

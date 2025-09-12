@@ -14,7 +14,7 @@ description: "Brand: Grove, Model: None"
 
 **Brand**: Grove
 
-**Product page**: [https://web.archive.org/web/20170919123802/https://www....](https://web.archive.org/web/20170919123802/https://www.seeedstudio.com/Grove-Encoder-p-1352.html)
+**Product page**: [https://www.seeedstudio.com/Grove-Encoder.html](https://www.seeedstudio.com/Grove-Encoder.html)
 
 **Documentation**: [http://wiki.seeedstudio.com/Grove-Encoder/](http://wiki.seeedstudio.com/Grove-Encoder/)
 
@@ -49,4 +49,8 @@ Current: 10mA~30mA
 Dimension: 20\*20mm
 
 Net Weight: 12g
+
+## Additional information
+
+**Code**: G92001
 

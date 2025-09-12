@@ -16,7 +16,7 @@ description: "Brand: Intel, Model: D415"
 
 **Model**: D415
 
-**Product page**: [https://www.intelrealsense.com/depth-camera-d415/#buy](https://www.intelrealsense.com/depth-camera-d415/#buy)
+**Product page**: [https://store.realsenseai.com/buy-intel-realsense-depth...](https://store.realsenseai.com/buy-intel-realsense-depth-camera-d415.html)
 
 **Documentation**: [https://store.intelrealsense.com/buy-intel-realsense-de...](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d415.html?_ga=2.240670275.1337782850.1629090569-2088768677.1629090569)
 
@@ -31,4 +31,8 @@ description: "Brand: Intel, Model: D415"
 ## Description
 
 The Intel® RealSense™ D415 has a standard field of view well suited for high accuracy applications such as 3D scanning\. With a rolling shutter on the depth sensor, the D415 offers our highest depth quality per degree\.
+
+## Additional information
+
+**Code**: A1K001
 

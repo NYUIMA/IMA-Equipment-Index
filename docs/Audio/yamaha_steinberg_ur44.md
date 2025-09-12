@@ -34,3 +34,7 @@ Premium Recording for Any DAW on Any Platform\!
 
 Every day, countless Sweetwater customers call their Sales Engineers looking for cross\-platform\-compatible audio interfaces\. Mac, Windows, iOS \- it doesn't matter\! Whichever recording platform you choose, Steinberg's UR44 USB audio interface gives you the quality analog I/O you need\. Four Class A D\-Pre preamps let you track anything with refreshingly transparent clarity, and MIDI I/O lets you connect keyboards and other music gear\. You can monitor with zero latency, and even sweeten your headphone mix with DSP\-powered effects\. Factor in iPad compatibility, and you've got a smart portable interface solution with the UR44\.
 
+## Additional information
+
+**Code**: F5D001
+

@@ -14,7 +14,7 @@ description: "Brand: Magic Leap, Model: None"
 
 **Brand**: Magic Leap
 
-**Product page**: [https://www.ebay.com/itm/166375307487?chn=ps&_trkparms=...](https://www.ebay.com/itm/166375307487?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1u3XH_Zi8RISBsUrxR1nVSA28&norover=1&mkevt=1&mkrid=711-167022-057772-8&mkcid=2&itemid=166375307487&targetid=293946777986&device=c&mktype=pla&googleloc=9061436&poi=&campaignid=20686205678&mkgroupid=158704283430&rlsatarget=pla-293946777986&abcId=&merchantid=107663637&gclid=EAIaIQobChMI7tLqy_f6gwMV61YPAh05FArhEAQYAiABEgLoOPD_BwE)
+**Product page**: [https://www.magicleap.com/magic-leap-2](https://www.magicleap.com/magic-leap-2)
 
 **Documentation**: [https://ml1-developer.magicleap.com/en-us/home](https://ml1-developer.magicleap.com/en-us/home)
 
@@ -23,4 +23,12 @@ description: "Brand: Magic Leap, Model: None"
 1\. Magic Leap\*1
 
 2\. Controller\*1
+
+## Description
+
+The Magic Leap One Creator Edition is an augmented reality \(AR\) headset designed for developers and creators\. It consists of a headset, a wearable computer called the Lightpack, and a controller\. The system aims to seamlessly blend digital content with the real world, allowing users to interact with both simultaneously\.
+
+## Additional information
+
+**Code**: R3C001
 

@@ -20,3 +20,7 @@ description: "Brand: Benq, Model: GL2450-B"
 
 **Documentation**: [https://esupportdownload.benq.com/esupport/LCD%20Monito...](https://esupportdownload.benq.com/esupport/LCD%20Monitor/UserManual/GL2450/UM_EN.pdf)
 
+## Additional information
+
+**Code**: S0A001
+

@@ -24,3 +24,7 @@ Grove \- Thumb Joystick is a Grove compatible module which is very similar to th
 
 The joystick also has a push button that is could be used for special applications\. When the module is in working mode it will output two analog values representing two directions\. The value is restricted in a little smaller range \(e\.g 200~700\)compared to the normal joystick, while it is around 1023 when the button is pushed, so that the MCU can detect the action of pressing\.
 
+## Additional information
+
+**Code**: G28201
+

@@ -16,7 +16,7 @@ description: "Brand: DJI, Model: RONIN-S"
 
 **Model**: RONIN-S
 
-**Product page**: [https://store.dji.com/product/ronin-s?site=brandsite&fr...](https://store.dji.com/product/ronin-s?site=brandsite&from=insite_search)
+**Product page**: [https://www.amazon.com/DJI-Ronin-S/dp/B07DYJ2WK6](https://www.amazon.com/DJI-Ronin-S/dp/B07DYJ2WK6)
 
 **Documentation**: [https://dl.djicdn.com/downloads/Ronin-S/Ronin-S%20User%...](https://dl.djicdn.com/downloads/Ronin-S/Ronin-S%20User%20Manual__v1.0.pdf)
 
@@ -109,4 +109,8 @@ Screws \*2
 
 
 List of Communication Lab Student：https://docs\.google\.com/spreadsheets/d/1MhzRLvi8R2aZHdMG7m\_\-YAPlsL8S1TGTnI1btd5cNiA/edit\#gid=0
+
+## Additional information
+
+**Code**: P7A001
 

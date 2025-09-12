@@ -284,3 +284,7 @@ You can use avrdude command to operate the target board, \(\-cstk500v1\)
 
 e\.g\. avrdude \-p atmega328p \-cstk500v1 \-P/dev/tty\.usbmodem14111 \-b57600 \-t
 
+## Additional information
+
+**Code**: G30401
+

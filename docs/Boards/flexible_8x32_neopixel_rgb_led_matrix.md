@@ -38,3 +38,7 @@ Don't forget, with 256 LEDs, you could use over 15A of current if you turn on al
 
 Please note: Flexible PCBs are not designed for repeated flexing\! While we think this product may work in wearables or other situations where the matrix is bent around, we do not offer any guarantees or refunds if you end up cracking the LEDs or traces\! This is for advanced users only, who already know how to use NeoPixels and are comfortable with the high current requirements and protecting the matrix from damage\. There are no returns, refunds or replacements for damaged product\. You cannot cut these panels into custom shapes as data/power lines run through the entire body of the PCB\.
 
+## Additional information
+
+**Code**: G12301
+

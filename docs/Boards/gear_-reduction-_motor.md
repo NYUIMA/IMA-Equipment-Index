@@ -44,3 +44,7 @@ Stall Current: 500 ~ 700mA
 
 Stall Torque: 3\.0 ~ 4\.0kg\.cm
 
+## Additional information
+
+**Code**: G13201
+

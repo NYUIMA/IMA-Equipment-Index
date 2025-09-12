@@ -1,6 +1,6 @@
 ---
 title: "Optoma GT1080H Projector"
-sidebar_position: 24
+sidebar_position: 23
 tags:
     - "Projectors"
 image: "/img/display/optoma_gt1080h_projector.png"
@@ -39,4 +39,8 @@ Resolution: 1920 x 1080
  Brightness: 3800 ANSI
 
  3D Support
+
+## Additional information
+
+**Code**: S4C001
 

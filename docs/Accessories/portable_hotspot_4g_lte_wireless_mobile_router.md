@@ -22,3 +22,7 @@ This product is designed to provide users with 3G/4G high\-speed Internet access
 
  Simply plug in the operators’ SIM card and it can search and connect to achieve high\-speed 3G/4G broadband access automatically\. The product also provides WIFI hotspots, which users can connect mobile phone and computer to access to internet\.
 
+## Additional information
+
+**Code**: F3G001
+

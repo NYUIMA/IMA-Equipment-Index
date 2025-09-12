@@ -1,6 +1,6 @@
 ---
 title: "HD Pro Projector M220"
-sidebar_position: 23
+sidebar_position: 22
 tags:
     - "Projectors"
 image: "/img/display/hd_pro_projector_m220.png"
@@ -59,4 +59,8 @@ delivers crisp images every time, and keystone correction ensures that your proj
 Components:
 
 Sockets\*3; HDMI cable\*1; HDMI adapter\*1; Type\-C cable\*1
+
+## Additional information
+
+**Code**: S3C001
 

@@ -22,3 +22,7 @@ description: "Brand: DfRobot, Model: None"
 
 DFRobot FireBeetle series is the low\-power consumption micro\-controller intentionally designed for Internet of Things \(IoT\) projects\. FireBeetle Board \- ESP32 integrates a Dual\-Core ESP\-WROOM\-32 module, which supports MCU and Wi\-Fi &Bluetooth dual\-mode communication\. The electric current is just 10μA in the deep\-sleep mode\. The main controller supports two power supply methods: USB and 3\.7V external lithium battery\. And both USB and external DC can charge the Lipo battery directly\.
 
+## Additional information
+
+**Code**: E51001
+

@@ -38,3 +38,7 @@ While traditional ORP meters are hard to get or use, this Analog ORP Meter is a 
 
 ORP \(Oxidation\-Reduction Potential\) is a measure of the ability of oxidation and reduction of aqueous solution, characterization of oxidizing or reducing the relative degree\. Unlike a pH measurement that follows a logarithmic curve and therefore requires more calibration adjustments, ORP follows a linear relationship and does not need instrument adjustment as much as it needs electrode maintenance\. ORP has proven to be a reliable method of measuring water quality and provides the operator with a single value of measurement regardless of which product, commodity, operation, treatment or sanitizer is used, and regardless of varying field conditions or method by which chemical is applied\.
 
+## Additional information
+
+**Code**: G41001
+

@@ -36,3 +36,7 @@ IO Expansion Board is one of the market favourites\. Fast robotics prototyping 
 
 \*Size	:70x55x15mm
 
+## Additional information
+
+**Code**: E84001
+

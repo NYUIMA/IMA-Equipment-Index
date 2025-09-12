@@ -52,3 +52,7 @@ Nothing Else Like it
 
 Up until now, there was just no solution for musicians and producers who needed a compact, easily portable way to mix and process their projects on site\. But MIDImix is the best solution for portable mixing on the go\.  MIDImix offers an intuitive, familiar mixer layout, solid connectivity with the most popular DAWs, and legendary Akai Professional quality\. MIDImix is exactly what you need to do great mixes and professional processing on site—at the same time\.
 
+## Additional information
+
+**Code**: F6A001
+

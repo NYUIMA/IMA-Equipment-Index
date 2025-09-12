@@ -1,6 +1,6 @@
 ---
 title: "ASUS ZenBeam S2 Portable LED Projector"
-sidebar_position: 20
+sidebar_position: 19
 tags:
     - "Projectors"
 image: "/img/display/asus_zenbeam_s2_portable_led_projector.png"
@@ -43,4 +43,8 @@ Resolution: 1280 x 720 \(HD\)
  3D Support
 
  Battery Life: 3\.5 Hours
+
+## Additional information
+
+**Code**: S3A001
 

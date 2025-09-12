@@ -50,3 +50,7 @@ Four\-track simultaneous recording
 
  Runs on 2 standard AA alkaline or NiMH rechargeable batteries with up to 5\.5 hours of operation \(up to 8 hours in Stamina mode\)
 
+## Additional information
+
+**Code**: C6B001
+

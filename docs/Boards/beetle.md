@@ -26,3 +26,7 @@ The new generation "Beetle" controller derives its core notion from minimalism w
 
 As a minimalized version of Arduino Leonardo, it enjoys similar powerful functionalities\. Beetle aims to solve problems of low\-cost controller, ease\-of\-using properly, and to provide a low cost solution for disposable projects, such as DIY projects, workshops, gift projects, E\-Textiles and educational\. For students and makers who can not afford too much on hardware purchasing, Beetle can be a great solution for them\.
 
+## Additional information
+
+**Code**: E31001
+

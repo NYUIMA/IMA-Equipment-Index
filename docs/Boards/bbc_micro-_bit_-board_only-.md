@@ -26,3 +26,7 @@ You can use your BBC micro: bit for all sorts of cool creations, from robots to 
 
 It can be coded from any web browser in Blocks, Javascript, Python, Scratch and more; no software required\.
 
+## Additional information
+
+**Code**: E32001
+

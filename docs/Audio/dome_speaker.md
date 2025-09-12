@@ -34,3 +34,7 @@ The FP6020\-II's unique design offers a narrow sound dispersion pattern with tru
 
  The speaker features twin 1"" aluminum full\-range drivers, mounted in individually sealed compartments inside SoundTube's 20"" patented ZeroReflection™ dome enclosure\. The drivers point upward and reflect sound off of the dome's interior to produce a narrow, focused 30° coverage angle\. The enclosure includes a built\-in switchable 350Hz high\-pass filter\.
 
+## Additional information
+
+**Code**: C0B001
+

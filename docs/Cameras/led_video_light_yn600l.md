@@ -18,7 +18,7 @@ description: "Brand: Yongnuo, Model: YN600"
 
 **Product page**: \\https://th\.hkyongnuo\.com/products/yn600l?VariantsId=10033
 
-**Documentation**: [http://www.yongnuo.com.cn/usermanual/pdf/YN600LIIdy.pdf...](http://www.yongnuo.com.cn/usermanual/pdf/YN600LIIdy.pdf)
+**Documentation**: [https://www.yongnuo.fr/wp-content/uploads/notices/lampe...](https://www.yongnuo.fr/wp-content/uploads/notices/lampes/YN-600-LED-II_en.pdf)
 
 ## Description
 
@@ -31,4 +31,8 @@ Moreover it effectively improve the conversion efficiency,adopts the encoder dig
 
 
 Also includes Professional Lighting Support Tripod and European Standard Adapter\.
+
+## Additional information
+
+**Code**: D5A001
 

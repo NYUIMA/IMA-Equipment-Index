@@ -32,3 +32,7 @@ To control with an Arduino, we suggest connecting the orange control wire to pin
 
 Note that the default servo pulse widths \(usually 1ms to 2ms\) may not give you a full 180 degrees of motion\. In that case, check if you can set your servo controller to custom pulse lengths and try 0\.75ms to 2\.25ms\. You can try shorter/longer pulses but be aware that if you go too far you could break your servo\!
 
+## Additional information
+
+**Code**: G26501
+

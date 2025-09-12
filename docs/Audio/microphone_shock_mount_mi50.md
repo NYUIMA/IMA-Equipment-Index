@@ -24,3 +24,7 @@ description: "Brand: AMI, Model: MI50"
 
 Inner diameter: 50mm The special suspension structure of the shock mount prevents noise caused by contact with the microphone\. Any physical contact with the microphone will produce low\-frequency rumble, often called structure\-borne noise\.
 
+## Additional information
+
+**Code**: C0A001
+

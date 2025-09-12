@@ -32,3 +32,7 @@ description: "Brand: Wacom, Model: PTZ-630"
 
 Intuos3 gives you the power to quickly and professionally edit photos and create digital artwork by turning on the full power of Adobe Photoshop, Corel Painter, and over 100 other leading software applications\. Intuos3 tablets now put ExpressKeys and Touch Strips right at your fingertips for convenient keyboard shortcuts, scrolling, zooming, brush size control, and more\. And if you're using a widescreen display or multiple monitors, the new Intuos3 6x11 and 12x19 are designed just for you\.
 
+## Additional information
+
+**Code**: D1C001
+

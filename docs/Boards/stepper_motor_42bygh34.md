@@ -24,3 +24,7 @@ description: "Brand: None, Model: 42BYGH34-401A"
 
 Single motor shaft 5D standard line 1m Single motor shaft 5D plug\-in wiring 1m motor 6600 driver standard line 1m motor 6600 driver plug\-in line
 
+## Additional information
+
+**Code**: J3D001
+

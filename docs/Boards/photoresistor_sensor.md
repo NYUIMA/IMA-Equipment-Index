@@ -34,3 +34,7 @@ Using sensitive photosensitive resistance sensor
 
  Using a wide voltage LM393 comparator
 
+## Additional information
+
+**Code**: G21501
+

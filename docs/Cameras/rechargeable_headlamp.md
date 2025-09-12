@@ -48,3 +48,7 @@ Impact resistant to 2 meters
 
 Waterproof and dustproof rating in accordance with IP68
 
+## Additional information
+
+**Code**: D6K001
+

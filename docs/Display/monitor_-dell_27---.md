@@ -1,6 +1,6 @@
 ---
 title: "Monitor (Dell 27'')"
-sidebar_position: 15
+sidebar_position: 14
 tags:
     - "Screen"
 image: "/img/display/monitor_-dell_27---.png"
@@ -27,4 +27,8 @@ Size: 27 inch
  Resolution: 2560x1440
 
  Input Port: HDMI,DP
+
+## Additional information
+
+**Code**: S0A001
 

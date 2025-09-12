@@ -30,3 +30,7 @@ Sit at the center of quality sound, no matter what you're doing\.
 
 Designed For:Inspiron 1318, 1420, 1526, 3458, 518, 519, 530, 530n Ubuntu, 530s, 531, 531s, Mini 12; OptiPlex 960, FX160; Precision Fixed Workstation T3400; Studio 15, Desktop, Hybrid; XPS 430, 630, 730, M1330, M1330 \(PRODUCT\) RED, M1530, M1530 \(PRODUCT\) RED, M1730
 
+## Additional information
+
+**Code**: C1F001
+

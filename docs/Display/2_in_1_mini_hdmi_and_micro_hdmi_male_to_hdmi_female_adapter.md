@@ -1,6 +1,6 @@
 ---
 title: "2 in 1 Mini HDMI and Micro HDMI Male to HDMI Female Adapter"
-sidebar_position: 31
+sidebar_position: 30
 tags:
     - "Adapter"
 image: "/img/display/2_in_1_mini_hdmi_and_micro_hdmi_male_to_hdmi_female_adapter.png"
@@ -27,4 +27,8 @@ HDMI TYPE C and D Male to HDMI Female adapter helps you connect latest technolog
 Pure copper conductor ensures reliable, high performance data transmission, and foil & braid shielding to provide the unique quality\.
 
 Compact, Portable and Easy to Use: Quick and easy installation\. No settings and no software required\.
+
+## Additional information
+
+**Code**: D2I001
 

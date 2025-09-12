@@ -36,3 +36,7 @@ The MindWave Education turns your computer into a private tutor\. The headset ta
 
 \(The MindWave is not compatible with mobile devices like the iPhone, iPad, and Android\. If you want a mobile compatible device, please check out theMindWave Mobile\(http://store\.neurosky\.com/products/mindwave\-mobile\)\)
 
+## Additional information
+
+**Code**: F1C001
+

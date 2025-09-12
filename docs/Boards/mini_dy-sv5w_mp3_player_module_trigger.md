@@ -16,15 +16,9 @@ description: "Brand: Free_on, Model: xu201905"
 
 **Model**: xu201905
 
-**Product page**: 
+**Product page**: [https://www.aliexpress.us/item/2255799886427216.html](https://www.aliexpress.us/item/2255799886427216.html)
 
-[https://www.aliexpress.us/item/2255799886427216.html](https://www.aliexpress.us/item/2255799886427216.html)
-
-\(Alternative on Taobao\) [https://detail.tmall.com/item.htm?id=585621405488](https://detail.tmall.com/item.htm?id=585621405488)
-
- \(Alternative on Taobao\) [https://detail.tmall.com/item.htm?abbucket=9&id=5862922...](https://detail.tmall.com/item.htm?abbucket=9&id=586292221116)
-
-**Documentation**: [https://www.aliexpress.us/item/2255799886427216.html](https://www.aliexpress.us/item/2255799886427216.html)
+**Documentation**: [https://grobotronics.com/images/companies/1/datasheets/...](https://grobotronics.com/images/companies/1/datasheets/DY-SV5W%20Voice%20Playback%20ModuleDatasheet.pdf?1559812879320=&srsltid=AfmBOop-qNuqZCjviAp6ceNzlqF85_nG57bKz42sW8zjTwnlfcCgSufb)
 
 ## Description
 
@@ -75,4 +69,8 @@ Note:
 Package includes:
 
 1 x MP3 Player Module
+
+## Additional information
+
+**Code**: E12101
 

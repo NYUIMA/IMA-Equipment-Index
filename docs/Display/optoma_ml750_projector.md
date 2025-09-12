@@ -1,6 +1,6 @@
 ---
 title: "Optoma ML750 Projector"
-sidebar_position: 25
+sidebar_position: 24
 tags:
     - "Projectors"
 image: "/img/display/optoma_ml750_projector.png"
@@ -53,4 +53,8 @@ Packed full of features the ML750 incorporates a media player, native office vie
 
 
 Using the latest “Lamp\-free” technology for exceptional color fidelity, reliability and longevity, the Optoma LED ultra \- compact portable projector is your perfect entertainment and business partner\.
+
+## Additional information
+
+**Code**: S3B001
 

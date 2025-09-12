@@ -46,3 +46,7 @@ SPECIFICATIONS
 
 Operating voltage: 3\.3~5V
 
+## Additional information
+
+**Code**: G24201
+

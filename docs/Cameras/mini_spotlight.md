@@ -18,3 +18,7 @@ description: "Brand: None, Model: None"
 
 Sleek & Chic: Made of metal in a dark bronze finish, our Spotlight Desk or Wall Mount Accent Lamp is the perfect addition for a home or business\. The spotlight provides distinct directional lighting
 
+## Additional information
+
+**Code**: D6G001
+

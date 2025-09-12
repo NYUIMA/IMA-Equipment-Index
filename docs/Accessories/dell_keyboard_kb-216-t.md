@@ -24,3 +24,7 @@ description: "Brand: Dell, Model: KB216t"
 
 The Dell™ Wired Keyboard provides a convenient keyboard solution for everyday home or office computing uses\.
 
+## Additional information
+
+**Code**: D4I001
+

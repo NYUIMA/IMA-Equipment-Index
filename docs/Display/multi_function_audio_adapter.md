@@ -1,6 +1,6 @@
 ---
 title: "Multi Function Audio Adapter"
-sidebar_position: 43
+sidebar_position: 42
 tags:
     - "Adapter"
 image: "/img/display/multi_function_audio_adapter.png"
@@ -33,4 +33,8 @@ description: "Brand: biaze, Model: None"
  【Supports Audio Format】DTS \(Toslink Output\) / Dolby\-AC3 \(Toslink Output\) / DSD / LPCM\. Supports sampling rates including 32 KHz, 44\.1 KHz, 48 KHz, 96 KHz, and 192 KHz\.
 
  【Easy to Install and Easy to Use】Widely used for PS3, PS4, Sky, Blu\-ray player, HD DVD, HDTV, sound bar, amplifier, speaker, home theater systems, AV amplifiers, etc\. Perfect Audio Converter DAC Converter Converter and HDMI ARC for audio output soundbar, amplifier, speakers or headphones\.
+
+## Additional information
+
+**Code**: C2C001
 

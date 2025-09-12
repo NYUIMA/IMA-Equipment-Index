@@ -46,3 +46,7 @@ Automatic Power Function with plug\-in power
 
  10\-year extended warranty when you register your microphone\*
 
+## Additional information
+
+**Code**: F6B001
+

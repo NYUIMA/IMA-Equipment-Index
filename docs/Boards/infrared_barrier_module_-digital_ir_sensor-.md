@@ -20,3 +20,7 @@ description: "Brand: None, Model: None"
 
 This is an Infrared Barrier Module that can be used with any microcontroller unit\. When the module detects obstacles in front of signal transmitted by IR LED, green indicator light goes ON, and “OUT” port sustains transfers low\-level signals\.
 
+## Additional information
+
+**Code**: G16201
+

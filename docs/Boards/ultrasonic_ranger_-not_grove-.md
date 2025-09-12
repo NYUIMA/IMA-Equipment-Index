@@ -28,3 +28,7 @@ Its stable performance and high ranging accuracy make it a popular module in ele
 
 If you are sourcing an ultrasonic ranging module , the HC\-SR04 Ultrasonic Range Finder is a good choice \. Its stable performance and high ranging accuracy make it a popular module in electronic market \.Compared to the Sharp IR ranging module , the HC\-SR04 is more affordable but has the same ranging accuracy and longer ranging distance\.
 
+## Additional information
+
+**Code**: G28518
+

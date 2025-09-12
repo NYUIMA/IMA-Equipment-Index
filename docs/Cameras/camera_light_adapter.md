@@ -24,3 +24,7 @@ description: "Brand: None, Model: None"
 
  【STURDY AND DURABLE】 Max load: 3\.5lbs\.It is lightweight but made of sturdy Aluminum Alloy and precise CNC process anodized aluminum materials, sturdy and durable,it won't be easy to suffer corrosion or breakage\.
 
+## Additional information
+
+**Code**: Q1G001
+

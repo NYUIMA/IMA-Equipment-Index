@@ -16,5 +16,9 @@ description: "Brand: Nanfu, Model: None"
 
 **Product page**: [https://www.yoycart.com/Product/531995345981/](https://www.yoycart.com/Product/531995345981/)
 
-**Documentation**: [https://www.gpbatteries.com/products/gp-greencell-carbo...](https://www.gpbatteries.com/products/gp-greencell-carbon-zinc-9v)
+**Documentation**: [https://www.batterystation.co.uk/duracell-plus-power-d-...](https://www.batterystation.co.uk/duracell-plus-power-d-lr20-batteries-2-pack/)
+
+## Additional information
+
+**Code**: N1C001
 

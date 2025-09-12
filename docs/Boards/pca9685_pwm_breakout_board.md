@@ -64,3 +64,7 @@ Solder jumpers for the 6 address select pins
 
 This product comes with a fully tested and assembled breakout as well as 4 pieces of 3x4 male straight header \(for servo/LED plugs\), a 2\-pin terminal block \(for power\) and a piece of 6\-pin 0\.1" header \(to plug into a breadboard\)\. A little light soldering will be required to assemble and customize the board by attaching the desired headers but it is a 15 minute task that even a beginner can do\.
 
+## Additional information
+
+**Code**: G22101
+

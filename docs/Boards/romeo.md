@@ -38,3 +38,7 @@ Changed on analog wiring piles to be fully compatible with DFRobot v2 sensor ser
 
 Note: We commonly use Green for digital I/O; Blue for Analog I/O; Red for Power/Voltage
 
+## Additional information
+
+**Code**: E16101
+

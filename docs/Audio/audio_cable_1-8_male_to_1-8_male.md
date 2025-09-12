@@ -28,3 +28,7 @@ Beveled step\-down design; gold\-plated plugs for reliable, static\-free perform
 
 Measures 4 feet long; AmazonBasics 1\-year limited warranty
 
+## Additional information
+
+**Code**: C4A00001
+

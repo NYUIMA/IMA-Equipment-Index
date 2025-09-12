@@ -116,3 +116,7 @@ Updating firmware on the shield
 
 Please follow this guide to update the firmware on your shield\.
 
+## Additional information
+
+**Code**: E19201
+

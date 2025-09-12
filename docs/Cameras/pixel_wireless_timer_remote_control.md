@@ -48,3 +48,7 @@ If the number of shots you want to take is less than 99, it is not needed to set
 
 Please see the images of this product\. There are some instructions shown in the images\.
 
+## Additional information
+
+**Code**: A1C001
+

@@ -1,6 +1,6 @@
 ---
 title: "BenQ Projector"
-sidebar_position: 21
+sidebar_position: 20
 tags:
     - "Projectors"
 image: "/img/display/benq_projector.png"
@@ -9,9 +9,7 @@ description: "Brand: BenQ, Model: 1.W1080ST+
 3.MH520H
 4.TH671ST
 5.TH671ST
-6.TH671ST
-7.W1210ST
-8.W1210ST"
+7.W1210ST"
 ---
 # BenQ Projector
 
@@ -26,9 +24,7 @@ description: "Brand: BenQ, Model: 1.W1080ST+
 3.MH520H
 4.TH671ST
 5.TH671ST
-6.TH671ST
 7.W1210ST
-8.W1210ST
 
 **Product page**: [https://www.amazon.com/BenQ-W1080ST-1080p-Theater-Proje...](https://www.amazon.com/BenQ-W1080ST-1080p-Theater-Projector/dp/B00B11C6HW)
 
@@ -51,4 +47,8 @@ Showcase Full\-HD content in sharp, 1080P HD and enjoy Blu\-ray, video games and
 SmartEco Mode cleverly adjusts the lamp power to maximize power saving by delivering the best contrast and brightness performance using only as much light as needed
 
 Eco Blank mode allows you to cut the lamp's power consumption by 70% while you pause your activity
+
+## Additional information
+
+**Code**: S4A001
 

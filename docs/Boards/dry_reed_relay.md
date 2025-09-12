@@ -44,3 +44,7 @@ Contact fully sealed
 
 For all Grove users \(especially beginners\), we provide you guidance PDF documents\. Please download and read through Preface \- Getting Started and Introduction to Grove before your using of the product\.
 
+## Additional information
+
+**Code**: G73001
+

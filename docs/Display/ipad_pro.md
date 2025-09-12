@@ -1,6 +1,6 @@
 ---
 title: "iPad Pro"
-sidebar_position: 16
+sidebar_position: 15
 tags:
     - "Screen"
 image: "/img/display/ipad_pro.png"
@@ -29,4 +29,8 @@ description: "Brand: Apple, Model: MNXU3CH/A"
 ## Description
 
 12\.9\-inch iPad Pro Wi\-Fi 512GB \- Space Gray
+
+## Additional information
+
+**Code**: IPAD01
 

@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 The potentiometer twig produces analog output between 0 and Vcc \(5V DC with Seeeduino\) on its D1 connector\. The D2 connector is not used\. The angular range is 300 degrees with a linear change in value\. The resistance value is 10k ohms, perfect for Arduino use\. This may also be known as a rotary angle sensor\.
 
+## Additional information
+
+**Code**: G24101
+

@@ -16,11 +16,7 @@ description: "Brand: Leadshine, Model: DM542-05"
 
 **Model**: DM542-05
 
-**Product page**: 
-
-[https://www.amazon.com/FPBIGCHA-DM542S-Stepper-M542-05-...](https://www.amazon.com/FPBIGCHA-DM542S-Stepper-M542-05-DM542-05/dp/B0DHCL8DZS?th=1)
-
-\(Chinese, Taobao\) [https://detail.tmall.com/item.htm?abbucket=6&id=6114678...](https://detail.tmall.com/item.htm?abbucket=6&id=611467886516&skuId=4784466286435)
+**Product page**: [https://www.amazon.com/FPBIGCHA-DM542S-Stepper-M542-05-...](https://www.amazon.com/FPBIGCHA-DM542S-Stepper-M542-05-DM542-05/dp/B0DHCL8DZS?th=1)
 
 **Documentation**: [https://www.cncsparetools.com/product/leadshine-dm542-0...](https://www.cncsparetools.com/product/leadshine-dm542-05-step-driver-for-stepper-motor-driving.html)
 
@@ -39,4 +35,8 @@ DM542\-05 driver, with lower motor fever, running noise and higher stability, as
  
 
  Suitable for all kinds of small and medium\-sized automation equipment and instruments, such as: engraving machine, marking machine, cutting machine, laser processing, CNC machine tools, automatic assembly equipment, etc\.\. With low cost, low noise and high speed, the application effect is very good\.
+
+## Additional information
+
+**Code**: J5A001
 

@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 Line finder is designed for line following robotic\. It consists two parts \- an IR emitting LED and an IR sensitive phototransistor\. It can output digital signal to a microcontroller so the robot can reliably follow a black line on a white background, or vice versa\.
 
+## Additional information
+
+**Code**: G17501
+

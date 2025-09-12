@@ -84,3 +84,7 @@ Rubberized bumpers on the clip help hold C920 securely to your monitor or laptop
 
 Capture brilliant, software\-enhanced, 15\-megapixel snapshots\.
 
+## Additional information
+
+**Code**: A1D001
+

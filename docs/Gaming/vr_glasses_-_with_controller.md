@@ -1,14 +1,14 @@
 ---
-title: "VR Glasses (Google Daydream)"
+title: "VR Glasses - with controller"
 sidebar_position: 21
 tags:
     - "VR Equipment"
-image: "/img/gaming/vr_glasses_-google_daydream-.png"
+image: "/img/gaming/vr_glasses_-_with_controller.png"
 description: "Brand: Google Daydream, Model: None"
 ---
-# VR Glasses (Google Daydream)
+# VR Glasses - with controller
 
-![vr_glasses_-google_daydream-](/img/gaming/vr_glasses_-google_daydream-.png)
+![vr_glasses_-_with_controller](/img/gaming/vr_glasses_-_with_controller.png)
 
 ## Basic information
 
@@ -16,11 +16,7 @@ description: "Brand: Google Daydream, Model: None"
 
 **Product page**: [https://www.amazon.com/Google-Daydream-View-Headset-Sla...](https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O)
 
-**Documentation**: 
-
-[https://vr.google.com/daydream/](https://vr.google.com/daydream/)
-
-[https://vr.fandom.com/wiki/Google_Daydream_Troubleshoot...](https://vr.fandom.com/wiki/Google_Daydream_Troubleshooting?utm_source=chatgpt.com)
+**Documentation**: [https://vr.fandom.com/wiki/Google_Daydream_Troubleshoot...](https://vr.fandom.com/wiki/Google_Daydream_Troubleshooting?utm_source=chatgpt.com)
 
 ## Description
 
@@ -51,4 +47,8 @@ Experience the benefits of the Daydream View with your choice of compatible phon
 Fresh fabric lineup to match your style\.
 
 Stay comfortable during your adventures\. The Daydream View’s face pad, top strap and thermal design keep you feeling fresh and cozy even during your extended VR sessions\.
+
+## Additional information
+
+**Code**: R2A001
 

@@ -1,6 +1,6 @@
 ---
 title: "HDMI Cable"
-sidebar_position: 48
+sidebar_position: 47
 tags:
     - "Cables"
 image: "/img/display/hdmi_cable.png"
@@ -27,4 +27,8 @@ Cable allows you to share an Internet connection among multiple devices without 
 Meets the latest HDMI standards \(4K Video at 60 Hz, 2160p, 48 bit/px color depth\) that supports bandwidth up to 18Gbps and backwards compatible with earlier versions\.
 
 Cable Length: 6 feet \(1\.8 meters\); Backed by AmazonBasics Lifetime warranty\.
+
+## Additional information
+
+**Code**: D3A00001
 

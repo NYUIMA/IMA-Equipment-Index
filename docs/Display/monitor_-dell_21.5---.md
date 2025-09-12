@@ -18,11 +18,7 @@ description: "Brand: Dell, Model: E2214H"
 
 **Product page**: [https://www.amazon.com/Dell-E2214H-21-5-Inch-LED-Lit-Mo...](https://www.amazon.com/Dell-E2214H-21-5-Inch-LED-Lit-Monitor/dp/B00FE8MKT2)
 
-**Documentation**: 
-
-
-
-[https://www1.la.dell.com/bs/en/corp/peripherals/dell-e2...](https://www1.la.dell.com/bs/en/corp/peripherals/dell-e2214h/pd.aspx?refid=dell-e2214h&s=corp)
+**Documentation**: [https://www.dell.com/support/product-details/en-hk/prod...](https://www.dell.com/support/product-details/en-hk/product/dell-e2214h/overview)
 
 ## Description
 
@@ -33,4 +29,8 @@ Essential features: High\-resolution widescreen 21\.5" display has the features 
 Outstanding quality: Rigorous testing and process\-quality monitoring help ensure long\-term performance reliability\.
 
 Environment\-conscious: Built to comply with the latest environmental and regulatory standards\.
+
+## Additional information
+
+**Code**: S0A001
 

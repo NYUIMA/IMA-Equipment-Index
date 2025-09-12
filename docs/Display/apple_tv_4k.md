@@ -1,14 +1,14 @@
 ---
-title: "Apple TV 4K - British Plug"
+title: "Apple TV 4K"
 sidebar_position: 1
 tags:
     - "TVs"
-image: "/img/display/apple_tv_4k_-_british_plug.png"
+image: "/img/display/apple_tv_4k.png"
 description: "Brand: Apple, Model: TV 4K"
 ---
-# Apple TV 4K - British Plug
+# Apple TV 4K
 
-![apple_tv_4k_-_british_plug](/img/display/apple_tv_4k_-_british_plug.png)
+![apple_tv_4k](/img/display/apple_tv_4k.png)
 
 ## Basic information
 
@@ -45,4 +45,8 @@ Apple TV Remote
 Power cord
 
 Lightning to USB cable
+
+## Additional information
+
+**Code**: S3D001
 

@@ -38,3 +38,7 @@ The essence of simplicity\.
 
 You’ll never have to worry about lost cables with the Apple USB SuperDrive\. It connects to your MacBook Pro with Retina display, MacBook Air, iMac, or Mac mini with a single USB cable that’s built into the SuperDrive\. There’s no separate power adapter, and it works whether your Mac is plugged in or running on battery power\.
 
+## Additional information
+
+**Code**: D1H001
+

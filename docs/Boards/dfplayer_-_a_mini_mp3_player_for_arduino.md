@@ -28,3 +28,7 @@ Sing for the moment\! The DFPlayer Mini is a small and low cost MP3 module playe
 
 The DFPlayer perfectly integrates hard decoding module, which supports common audio formats such as MP3, WAV and WMA\. Besides, it also supports TF card with FAT16, FAT32 file system\. Through a simple serial port, you can play the designated music without any other tedious underlying operations\.
 
+## Additional information
+
+**Code**: E42001
+

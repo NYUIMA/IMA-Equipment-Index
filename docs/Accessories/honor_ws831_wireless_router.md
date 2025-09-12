@@ -86,3 +86,7 @@ CPU: Hisilicon Hi5650H, dual\-core 1GHz CPU
 
  \* Weight: around 279g
 
+## Additional information
+
+**Code**: F3I001
+

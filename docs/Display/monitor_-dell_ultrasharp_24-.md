@@ -18,7 +18,7 @@ description: "Brand: Dell, Model: U2414H"
 
 **Product page**: [https://www.newegg.com/Product/Product.aspx?Item=N82E16...](https://www.newegg.com/Product/Product.aspx?Item=N82E16824260174)
 
-**Documentation**: [https://www.dell.com/en-us/work/shop/cty/dell-24-ultras...](https://www.dell.com/en-us/work/shop/cty/dell-24-ultrasharp-monitor-u2414h/spd/dell-u2414h)
+**Documentation**: [https://www.dell.com/support/product-details/en-hk/prod...](https://www.dell.com/support/product-details/en-hk/product/dell-u2414h/overview)
 
 ## Description
 
@@ -37,4 +37,8 @@ Full HD resolution and ultra\-wide viewing angle for crisp, clear viewing qualit
 Carefully color calibrated at the factory, the Dell™ UltraSharp 24 Monitor – U2414H features more than 96\-percent sRGB color space for impressive color from the moment you set it up\.
 
 Great detail with a broad range of 16\.77 million colors covering 96% sRGB
+
+## Additional information
+
+**Code**: S0A001
 

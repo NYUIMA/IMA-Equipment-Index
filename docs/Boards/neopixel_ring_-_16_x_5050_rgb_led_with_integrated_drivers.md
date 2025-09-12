@@ -28,3 +28,7 @@ Round and round and round they go\! 16 ultra bright smart LED NeoPixels are arra
 
 There is a single data line with a very timing\-specific protocol\. Since the protocol is very sensitive to timing, it requires a real\-time microconroller such as an AVR, Arduino, PIC, mbed, etc\. It cannot be used with a Linux\-based microcomputer or interpreted microcontroller such as the netduino or Basic Stamp\. Our wonderfully\-written Neopixel library for Arduino supports these pixels\! As it requires hand\-tuned assembly it is only for AVR cores but others may have ported this chip driver code so please google around\. An 8MHz or faster processor is required\.
 
+## Additional information
+
+**Code**: G19401
+

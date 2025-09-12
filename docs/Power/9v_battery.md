@@ -28,3 +28,7 @@ description: "Brand: GP, Model: Greencell"
 
  An ideal choice for price\-conscious customers\.""
 
+## Additional information
+
+**Code**: N1D001
+

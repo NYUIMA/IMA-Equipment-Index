@@ -38,3 +38,7 @@ Power Supply: 3 V to 5 V
 
 Best Detection Distance: 1 cm
 
+## Additional information
+
+**Code**: G64001
+

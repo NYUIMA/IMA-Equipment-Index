@@ -16,3 +16,7 @@ description: "Brand: inShareplus, Model: None"
 
 **Product page**: [https://www.amazon.com/inShareplus-Mounted-Switching-Co...](https://www.amazon.com/inShareplus-Mounted-Switching-Connector-Adapter/dp/B01GD4ZQRS/ref=sr_1_3?dchild=1&keywords=12v+power+supply&qid=1590565759&sr=8-3)
 
+## Additional information
+
+**Code**: J1C001
+

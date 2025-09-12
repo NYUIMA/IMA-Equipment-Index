@@ -26,3 +26,7 @@ description: "Brand: None, Model: 1 to 4 Way DC Power Splitter"
 
  Through Current: Main line up to 5Amp, branch Line up to 3Amp at 24V DC or below""
 
+## Additional information
+
+**Code**: J2C00001
+

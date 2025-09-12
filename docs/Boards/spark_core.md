@@ -38,3 +38,7 @@ This little board packs a punch: with a 72 MHz ARM Cortex M3, the best Wi\-Fi mo
 
 Now we have Spark core with two connectors, Chip Antenna\(http://www\.seeedstudio\.com/depot/Spark\-Core\-p\-1495\.html?cPath=6\_7\) and u\.FL connector, Besides, we get Shield Shield\(http://www\.seeedstudio\.com/depot/Shield\-Shield\-for\-Spark\-Core\-p\-1837\.html\) that converts the foodprint and pins into Arduino, making it compatible with all of your existing Arduino Shields and accessories\. And we get Spark Maker Kit\(http://www\.seeedstudio\.com/depot/Spark\-Maker\-Kit\-WiFi\-CC3000\-p\-1836\.html\) which contains all the necessary hardware components to get you started with building simple Internet enabled projects\.
 
+## Additional information
+
+**Code**: E19103
+

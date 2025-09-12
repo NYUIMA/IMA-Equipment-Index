@@ -16,7 +16,7 @@ description: "Brand: Logitech, Model: G402"
 
 **Model**: G402
 
-**Product page**: [https://www.logitechg.com/zh-hk/products/gaming-mice/g4...](https://www.logitechg.com/zh-hk/products/gaming-mice/g402-hyperion-fury-fps-gaming-mouse.html)
+**Product page**: [https://www.logitechg.com/zh-hk/products/gaming-mice/g5...](https://www.logitechg.com/zh-hk/products/gaming-mice/g502-hero-gaming-mouse.html)
 
 **Documentation**: [https://support.logitech.com/en_us/product/g402-hyperio...](https://support.logitech.com/en_us/product/g402-hyperion-fury-fps-gaming-mouse)
 
@@ -91,4 +91,8 @@ HIGH\-SPEED CLICKING
 Extreme responsiveness gives you the edge
 
 Distinct left and right buttons offer extreme responsiveness\. With high\-speed clicking, you can push your skills even further while enjoying the edge in intense firefights\. Faster, more comfortable clicking makes all the difference with Hyperion Fury\.
+
+## Additional information
+
+**Code**: D3D001
 

@@ -36,3 +36,7 @@ Minimum external parts
 
 Rugged encapsulation
 
+## Additional information
+
+**Code**: G18401
+

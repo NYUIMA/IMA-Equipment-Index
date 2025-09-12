@@ -46,3 +46,7 @@ Conveying status or sensor results from robots, scientific equipment, or industr
 
 Language learning or speech aids for educational environments
 
+## Additional information
+
+**Code**: G91001
+

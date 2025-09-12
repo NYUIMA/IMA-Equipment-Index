@@ -1,6 +1,6 @@
 ---
 title: "Moshi Mini DisplayPort to HDMI Adapter"
-sidebar_position: 37
+sidebar_position: 36
 tags:
     - "Adapter"
 image: "/img/display/moshi_mini_displayport_to_hdmi_adapter.png"
@@ -19,4 +19,8 @@ description: "Brand: Moshi, Model: None"
 ## Description
 
 Connect your Mac to any HDMI TV or Monitor using this Mini DisplayPort to HDMI Adapter\. Supports both Full HD \(1080P\) and Ultra HD \(4K\) displays\.
+
+## Additional information
+
+**Code**: D2R001
 

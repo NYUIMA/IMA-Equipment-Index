@@ -1,6 +1,6 @@
 ---
 title: "Projector Ceiling Mount(Black Long)"
-sidebar_position: 28
+sidebar_position: 27
 tags:
     - "Projectors"
 image: "/img/display/projector_ceiling_mount-black_long-.png"
@@ -17,4 +17,8 @@ description: "Brand: None, Model: None"
 ## Description
 
 【Universal Projector Wall Mount Bracket】Newly Designed 3\-In\-1 retractable projector mounts from ceiling, including Flush Ceiling Installation; Telescoping Arm Ceiling Installation; Wall Installation\. Compatible most projectors\.
+
+## Additional information
+
+**Code**: TH000001
 

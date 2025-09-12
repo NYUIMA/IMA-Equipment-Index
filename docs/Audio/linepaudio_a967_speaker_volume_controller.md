@@ -32,3 +32,7 @@ The amplifier has clear, responsive buttons for mode control\.
 
  Compatible with Bluetooth, a variety of smart modes, convenient
 
+## Additional information
+
+**Code**: C6F001
+

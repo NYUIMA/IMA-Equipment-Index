@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 The Grove – UV Sensor is used for detecting the intensity of incident ultraviolet\(UV\) radiation\. This form of electromagnetic radiation has shorter wavelengths than visible radiation\. It is based on the sensor GUVA\-S12D\.It has a wide spectral range of 200nm\-400nm\. The module will output electrical signal which is varied with the change of the UV intensity\. UV sensors are used for determining exposure to ultraviolet radiation in laboratory or environmental settings\.
 
+## Additional information
+
+**Code**: G29101
+

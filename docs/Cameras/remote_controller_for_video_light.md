@@ -16,3 +16,7 @@ description: "Brand: Yongnuo, Model: None"
 
 **Product page**: [https://m.aliexpress.com/i/32951923402.html](https://m.aliexpress.com/i/32951923402.html)
 
+## Additional information
+
+**Code**: D6H001
+

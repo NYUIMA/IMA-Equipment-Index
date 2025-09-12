@@ -1,6 +1,6 @@
 ---
 title: "Yunke CX-LU680 Projector"
-sidebar_position: 53
+sidebar_position: 52
 tags:
     - "Projectors"
 image: "/img/display/yunke_cx-lu680_projector.png"
@@ -133,4 +133,8 @@ Adopt laser light source technology, low brightness decay, long life, maintenanc
 
 
 Translated with www\.DeepL\.com/Translator \(free version\)
+
+## Additional information
+
+**Code**: S4G001
 

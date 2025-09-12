@@ -30,3 +30,7 @@ Exclusive QuickFit Virtual Scale provides real\-size document, photo and grid mo
 
 Ergonomic design for tilt, pivot, swivel and height adjustments ensure a comfortable viewing experience
 
+## Additional information
+
+**Code**: S2A003
+

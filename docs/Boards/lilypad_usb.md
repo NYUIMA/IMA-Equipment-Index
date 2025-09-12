@@ -24,3 +24,7 @@ description: "Brand: None, Model: None"
 
 The LilyPad Arduino USB is a microcontroller board based on the ATmega32u4\. It has 9 digital input/output pins \(of which 4 can be used as PWM outputs and 4 as analog inputs\), an 8 MHz resonator, a micro USB connection, a JST connector for a 3\.7V LiPo battery, and a reset button\.
 
+## Additional information
+
+**Code**: E95001
+

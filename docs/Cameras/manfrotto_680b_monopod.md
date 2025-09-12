@@ -26,3 +26,7 @@ Description
 
 Four section Monopod featuring sure rubber grip, wrist carrying strap, quick action lever leg lock system with 45° run, large 60 mm camera/head platform with plastic cover and dual 1/4'' \- 3/8'' camera fixing screw\.
 
+## Additional information
+
+**Code**: TD000001
+

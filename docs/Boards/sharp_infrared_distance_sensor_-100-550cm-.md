@@ -26,3 +26,7 @@ The GP2Y0A710K infrared sensor is a new version of GP2Y0A700K which takes a cont
 
 The interface is 5\-wire JST connector \(included with pins\) with dual Vcc, dual Gnd, and a single output voltage\. Power, ground and signal wiring is enough to read a continuous analog voltage representing distance\. A software lookup table can be implemented to translate the voltages to distances\.
 
+## Additional information
+
+**Code**: G25101
+

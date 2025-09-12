@@ -34,3 +34,7 @@ ATmega16U2 instead 8U2 as USB\-to\-Serial converter
 
 stronger RESET circuit
 
+## Additional information
+
+**Code**: E10302
+

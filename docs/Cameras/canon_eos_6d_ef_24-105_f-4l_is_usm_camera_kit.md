@@ -48,3 +48,7 @@ The EOS 6D features a full\-frame 20\.2MP CMOS sensor and DIGIC 5\+ image proces
 
 Also included with this kit is Canon's EF 24\-105mm f/4L IS USM lens, which provides a useful range of focal lengths to suit working in a wide variety of situations\. It features Image Stabilizer Technology for minimizing the appearance of camera shake by up to three stops and is constructed with one Super\-UD glass element and three aspherical lenses for reduced chromatic aberrations and high overall image clarity\. A ring\-type USM AF motor is also integrated into the lens' design to provide quick and quiet focusing performance that also supports full\-time manual focusing capabilities for fine tuning focus for selective focus applications\.
 
+## Additional information
+
+**Code**: A2A001
+

@@ -26,3 +26,7 @@ description: "Brand: None, Model: None"
 
  Length: 8 inch / 20cm \(it is about 6 inch from tip to tip\)
 
+## Additional information
+
+**Code**: C2K00001
+

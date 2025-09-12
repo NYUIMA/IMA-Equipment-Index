@@ -22,3 +22,7 @@ description: "Brand: Harvilon, Model: MF920"
 
 100Mbps FDD\-LTE 4G 5200mAh Battery Router is the new 4G LTE Pocket WiFi Router to support 4G FDD\-LTE and WCDMA/UMTS,GSM/EDGE/GPRS networks\. It's a LTE 4G Router\.The peak download speed could reach 100Mbps\.
 
+## Additional information
+
+**Code**: F3H001
+

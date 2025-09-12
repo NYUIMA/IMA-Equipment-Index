@@ -54,3 +54,7 @@ Plug in your USB keypad\. The system should detect it\.
 
 Make sure the Num Lock light is on when using the keypad\.
 
+## Additional information
+
+**Code**: D0A001
+

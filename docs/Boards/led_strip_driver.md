@@ -52,3 +52,7 @@ Arduino and MEGA compatible
 
 Screw Terminals \(power input and control signal output interface\)
 
+## Additional information
+
+**Code**: G17401
+

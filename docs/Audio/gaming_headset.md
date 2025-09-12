@@ -26,3 +26,7 @@ FLIP\-UP MIC \- Turtle Beach’s renowned high\-sensitivity mic picks up your vo
 
  MULTIPLATFORM COMPATIBILITY \- Designed for the Nintendo Switch, the Recon 70 also works great with Xbox Series X, Xbox Series S, Xbox One, PS5, PS4, PS4 Pro, and PC & mobile devices with 3\.5mm connection
 
+## Additional information
+
+**Code**: C5I001
+

@@ -14,9 +14,9 @@ description: "Brand: Grove, Model: None"
 
 **Brand**: Grove
 
-**Product page**: [https://web.archive.org/web/20151228214133/http://www.s...](https://web.archive.org/web/20151228214133/http://www.seeedstudio.com/depot/Grove-TempHumi-Sensor-p-745.html)
+**Product page**: [https://www.seeedstudio.com/Grove-Temperature-Humidity-...](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html?srsltid=AfmBOopsVe7XkcEhtsXUcGL7iT9zxiPSOumcYrxtjBiqMXJ8bLJXan65)
 
-**Documentation**: [https://web.archive.org/web/20151220214457/http://www.s...](https://web.archive.org/web/20151220214457/http://www.seeedstudio.com/wiki/Grove-_Temperature_and_Humidity_Sensor)
+**Documentation**: [https://wiki.seeedstudio.com/Grove-TemperatureAndHumidi...](https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
 
 ## Description
 
@@ -35,4 +35,8 @@ Digital signal Long term stability
 Long transmission distance
 
 Low power consumption
+
+## Additional information
+
+**Code**: G27501
 

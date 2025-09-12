@@ -26,3 +26,7 @@ HANPOSE 23HS4128 41mm Nema 23 Stepper Motor 57 Motor 2\.8A 55N\.cm 4\-lead CNC L
 
  Shaft Diameter: 6\.35mm ""D"" Shaft
 
+## Additional information
+
+**Code**: J3C001
+

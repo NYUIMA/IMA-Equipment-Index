@@ -22,3 +22,7 @@ description: "Brand: DFRobot, Model: None"
 
 The DFRobot 360 degree rotary encoder module is based and designed on the EC11 rotary encoder button\. The module has three signal terminals: terminals A & B are encoder output; terminal C is the button signal output\. It is quite suitable for applications such as a volume knob and varying lighting voltage\. The rotary encoder module comes with XH2\.54 bonding pad, easy to use in prototyping projects such as automotive electronics, multimedia speakers, instrumentation, smart home and other fields\.
 
+## Additional information
+
+**Code**: G82001
+

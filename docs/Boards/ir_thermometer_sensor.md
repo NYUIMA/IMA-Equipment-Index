@@ -16,17 +16,9 @@ description: "Brand: DFRobot, Model: MLX90614"
 
 **Model**: MLX90614
 
-**Product page**: 
+**Product page**: [https://www.mouser.com/ProductDetail/DFRobot/SEN0206?qs...](https://www.mouser.com/ProductDetail/DFRobot/SEN0206?qs=lqAf%2FiVYw9iMhj64mAUSrw%3D%3D)
 
-\(origianl link still available\) [https://www.sparkfun.com/products/9570](https://www.sparkfun.com/products/9570)
-
-\(also available on digikey\) [https://www.digikey.hk/en/products/detail/melexis-techn...](https://www.digikey.hk/en/products/detail/melexis-technologies-nv/MLX90614ESF-BAA-000-TU/1647941)
-
-**Documentation**: 
-
- [https://learn.sparkfun.com/tutorials/mlx90614-ir-thermo...](https://learn.sparkfun.com/tutorials/mlx90614-ir-thermometer-hookup-guide?_ga=1.36007587.2046375040.1490772727)
-
-\(datasheet\) [https://www.melexis.com/-/media/files/documents/datashe...](https://www.melexis.com/-/media/files/documents/datasheets/mlx90614-datasheet-melexis.pdf)
+**Documentation**: [https://wiki.dfrobot.com/IR_Thermometer_Sensor_MLX90614...](https://wiki.dfrobot.com/IR_Thermometer_Sensor_MLX90614_SKU__SEN0206)
 
 ## Description
 
@@ -73,4 +65,8 @@ Power saving mode
 Different package options for applications and measurements versatility
 
 Automotive grade
+
+## Additional information
+
+**Code**: G16301
 

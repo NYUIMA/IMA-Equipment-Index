@@ -20,3 +20,7 @@ description: "Brand: None, Model: JK42HS40"
 
 Bipolar stepper motor, four\-wire\. Has a resolution of 200 steps per revolution \(1\.8 degrees\)\. It is powered by 2\.8 V, draws 1700 mA per coil\. Torque is 4\.0 kg\*cm \(0\.4 Nm\)\. Dimensions are 42 x 42 x 40 mm \(NEMA 17\)\.
 
+## Additional information
+
+**Code**: J5J001
+

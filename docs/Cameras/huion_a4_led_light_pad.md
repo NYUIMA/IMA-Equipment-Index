@@ -16,7 +16,7 @@ description: "Brand: Huion, Model: A4"
 
 **Model**: A4
 
-**Product page**: [https://store.huion.com/products/huion-l4s](https://store.huion.com/products/huion-l4s)
+**Product page**: [https://store.huion.com/global/products/huion-l4s?srslt...](https://store.huion.com/global/products/huion-l4s?srsltid=AfmBOooUlTrxu3oIqtiNRac0OmLsp-Nr9oICgb2gtRTnaZYtfIEeBMOs)
 
 **Documentation**: [http://upload.sunsky-online.com/res/drivers/S-CA-2821.p...](http://upload.sunsky-online.com/res/drivers/S-CA-2821.pdf)
 
@@ -103,4 +103,8 @@ C\. User Manual
 
 
  \*\*\*The Extra Service fee is irreversible and cannot be canceled or refunded under any circumstances\.
+
+## Additional information
+
+**Code**: D0B001
 

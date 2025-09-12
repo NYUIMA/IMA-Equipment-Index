@@ -22,3 +22,7 @@ description: "Brand: UGREEN, Model: None"
 
 Smooth Syncing:The USB C Cable provides transfer speeds up to 480Mbps,photo and music can be easily transferred with this USB C to USB C cable,note: Video out and monitor extension are not supported
 
+## Additional information
+
+**Code**: J2G00001
+

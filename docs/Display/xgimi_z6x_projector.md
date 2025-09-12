@@ -1,6 +1,6 @@
 ---
 title: "XGIMI Z6x Projector"
-sidebar_position: 27
+sidebar_position: 26
 tags:
     - "Projectors"
 image: "/img/display/xgimi_z6x_projector.png"
@@ -31,4 +31,8 @@ description: "Brand: XGIMI, Model: Z6x"
 Brightness: 550~750ANSI lumens, no fear during the day, turn on the light\.
 
  Resolution \(dpi\): 1920x1080dpi, clear and delicate image quality\.
+
+## Additional information
+
+**Code**: S4F001
 

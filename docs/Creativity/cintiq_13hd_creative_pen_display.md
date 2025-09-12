@@ -34,3 +34,7 @@ description: "Brand: CINTIQ, Model: DTK-1300"
 
 Gain all the innovations of our professional pen tablets, now with the ability to work directly on the screen of this compact Cintiq 13HD\. Great color and resolution, professional ergonomics, and pressure\-sensitive control are all together in an affordable design\.
 
+## Additional information
+
+**Code**: F4D001
+

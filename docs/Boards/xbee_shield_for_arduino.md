@@ -52,3 +52,7 @@ WIFI Bee
 
 Xbee Series communication mode
 
+## Additional information
+
+**Code**: E20201
+

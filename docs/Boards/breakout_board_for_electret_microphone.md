@@ -16,9 +16,13 @@ description: "Brand: DFRobot, Model: None"
 
 **Product page**: [https://www.dfrobot.com/index.php?route=product/product...](https://www.dfrobot.com/index.php?route=product/product&product_id=254&search=microphone&description=true&category_id=48#.VtjqKvl97IW)
 
-**Documentation**: \(still available\) [http://www.ti.com/lit/ds/symlink/opa344.pdf](http://www.ti.com/lit/ds/symlink/opa344.pdf)
+**Documentation**: [http://www.ti.com/lit/ds/symlink/opa344.pdf](http://www.ti.com/lit/ds/symlink/opa344.pdf)
 
 ## Description
 
 Ready to add audio to your next project? This small breakout board couples a small electret microphone with a 100x opamp to amplify the sounds of voice, door knocks, etc loud enough to be picked up by a microcontroller's Analog to Digital converter\. Unit comes fully assembled as shown\. Works from 2\.7V up to 5\.5V\.
+
+## Additional information
+
+**Code**: G62001
 

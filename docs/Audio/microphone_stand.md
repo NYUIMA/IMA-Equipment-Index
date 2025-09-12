@@ -32,3 +32,7 @@ Used For
 
 Elevate your Chiayo Focus 505 or Focus 500 PA over the heads of the gathered crowds or just keep it off the floor\!
 
+## Additional information
+
+**Code**: TF000001
+

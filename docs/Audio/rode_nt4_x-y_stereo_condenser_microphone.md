@@ -50,3 +50,7 @@ What's in the box:
 
 6\. NT4\-MJ XLR to 3\.5mm stereo cable
 
+## Additional information
+
+**Code**: U7A001
+

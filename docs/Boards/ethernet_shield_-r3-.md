@@ -14,7 +14,7 @@ description: "Brand: Arduino, Model: None"
 
 **Brand**: Arduino
 
-**Product page**: \(new version\) [https://store.arduino.cc/products/arduino-ethernet-shie...](https://store.arduino.cc/products/arduino-ethernet-shield-2)
+**Product page**: [https://store.arduino.cc/products/arduino-ethernet-shie...](https://store.arduino.cc/products/arduino-ethernet-shield-2)
 
 **Documentation**: 
 
@@ -135,4 +135,8 @@ The solder jumper marked "INT" can be connected to allow the Arduino board to re
 
 
 See also: getting started with the ethernet shield\(https://www\.arduino\.cc/en/Guide/ArduinoEthernetShield\) and Ethernet library reference\(https://www\.arduino\.cc/en/Reference/Ethernet\)
+
+## Additional information
+
+**Code**: E63001
 

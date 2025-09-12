@@ -64,3 +64,7 @@ Packing List:
 
 1 x Manual
 
+## Additional information
+
+**Code**: A1E001
+

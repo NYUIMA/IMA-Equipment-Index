@@ -16,9 +16,9 @@ description: "Brand: DSD Tech, Model: HC-05 gomcu"
 
 **Model**: HC-05 gomcu
 
-**Product page**: [https://www.amazon.com/DSD-TECH-HC-05-Bluetooth-Wireles...](https://www.amazon.com/DSD-TECH-HC-05-Bluetooth-Wireless/dp/B074GMQ6G3)
+**Product page**: [https://www.amazon.com/HC-05-Wireless-Bluetooth-Serial-...](https://www.amazon.com/HC-05-Wireless-Bluetooth-Serial-Module/dp/B07GBW9R9M)
 
-**Documentation**: [https://www.gme.cz/data/attachments/dsh.772-148.1.pdf](https://www.gme.cz/data/attachments/dsh.772-148.1.pdf)
+**Documentation**: [https://howtomechatronics.com/tutorials/arduino/arduino...](https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-05-bluetooth-module-tutorial/)
 
 ## Description
 
@@ -67,4 +67,8 @@ More details:\-
 15\. AT command reference manual will be send separately to buyer\.
 
 16\. No schematics of the baseplate can be provided\.
+
+## Additional information
+
+**Code**: G54001
 

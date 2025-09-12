@@ -98,3 +98,7 @@ Package Includes:
 
 1 x User Manual
 
+## Additional information
+
+**Code**: C1A001
+

@@ -1,6 +1,6 @@
 ---
 title: "1 to 4 HDMI Splitter"
-sidebar_position: 30
+sidebar_position: 29
 tags:
     - "Adapter"
 image: "/img/display/1_to_4_hdmi_splitter.png"
@@ -61,4 +61,8 @@ Package Contents
 Ugreen 1x4 HDMI splitter x1pc 
 
 5V/2A power adapter x1
+
+## Additional information
+
+**Code**: D2F001
 

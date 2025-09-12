@@ -40,3 +40,7 @@ Minimal number of SPI port
 
 Truly stackable
 
+## Additional information
+
+**Code**: E16201
+

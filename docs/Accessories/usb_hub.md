@@ -14,7 +14,7 @@ description: "Brand: Ugreen, Model: None"
 
 **Brand**: Ugreen
 
-**Product page**: [https://www.ugreen.com/products/4-in-1-usb-3-0-data-hub...](https://www.ugreen.com/products/4-in-1-usb-3-0-data-hub)
+**Product page**: [https://www.amazon.com/dp/B07C6QTMWG](https://www.amazon.com/dp/B07C6QTMWG)
 
 ## Description
 
@@ -23,4 +23,8 @@ USB Hub 4 in 1
  USB 2\.0
 
  5m
+
+## Additional information
+
+**Code**: F3E001
 

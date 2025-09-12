@@ -32,3 +32,7 @@ UNIVERSAL MOUNTING: Features a 1/4"\-20 Mounting Stud with both 3/8‚Äù and 5/8‚Ä
 
 \[INCLUDED CASE & CABLE TIES\] Includes a Padded Carry Case for Easy Transport or Storage and 5x Touch\-Fastener Cable Ties to Keep Cables Tidy
 
+## Additional information
+
+**Code**: C3A001
+

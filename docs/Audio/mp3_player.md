@@ -22,3 +22,7 @@ description: "Brand: None, Model: None"
 
 【Portable and lightweight】With only measuring 3\.3\*0\.9\*0\.4 in and 15g weight, the slim body and lightweight weight are easy to carry, so you can easily put it into your pocket and backpack to enjoy music anytime, anywhere\.
 
+## Additional information
+
+**Code**: C1C001
+

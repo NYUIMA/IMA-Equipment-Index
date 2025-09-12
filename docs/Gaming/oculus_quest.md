@@ -18,7 +18,7 @@ description: "Brand: Oculus, Model: 64GB"
 
 **Product page**: [https://www.oculus.com/quest/](https://www.oculus.com/quest/)
 
-**Documentation**: [https://www.meta.com/help/quest/](https://www.meta.com/help/quest/)
+**Documentation**: [https://manuals.coolblue.nl/a1/oculus-quest-collectie.p...](https://manuals.coolblue.nl/a1/oculus-quest-collectie.pdf)
 
 ## Accessories List
 
@@ -33,4 +33,8 @@ description: "Brand: Oculus, Model: 64GB"
 ## Description
 
 Oculus Quest is our first all\-in\-one gaming system built for virtual reality\. Now you can play almost anywhere with just a VR headset and controllers\.
+
+## Additional information
+
+**Code**: R1A001
 

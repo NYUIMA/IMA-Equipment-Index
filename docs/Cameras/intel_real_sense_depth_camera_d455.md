@@ -16,7 +16,7 @@ description: "Brand: Intel, Model: D455"
 
 **Model**: D455
 
-**Product page**: [https://store.intelrealsense.com/buy-intel-realsense-de...](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d455.html?_ga=2.18423801.1337782850.1629090569-2088768677.1629090569)
+**Product page**: [https://store.realsenseai.com/buy-intel-realsense-depth...](https://store.realsenseai.com/buy-intel-realsense-depth-camera-d455.html)
 
 **Documentation**: [https://www.intelrealsense.com/depth-camera-d455/](https://www.intelrealsense.com/depth-camera-d455/)
 
@@ -43,4 +43,8 @@ The Intel® RealSense™ Depth Camera D455 takes what makes the D435 products gr
  Monitor patients or interact with digital sign viewers with increased precision at longer range\.
 
  Integrates an IMU to allow your application to refine its depth awareness in any situation where the camera moves\.
+
+## Additional information
+
+**Code**: A1M001
 

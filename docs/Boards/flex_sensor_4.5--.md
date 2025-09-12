@@ -32,3 +32,7 @@ A simple flex sensor 4\.5"" in length\. As the sensor is flexed, the resistance 
 
  Connector is 0\.1"" spaced and bread board friendly\. Check datasheet for full specifications\.
 
+## Additional information
+
+**Code**: G10201
+

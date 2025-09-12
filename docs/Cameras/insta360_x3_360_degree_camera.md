@@ -34,3 +34,7 @@ description: "Brand: Insta360, Model: X3"
 
 With new 1/2"" 48MP sensors and a massive 2\.29” touchscreen, Insta360 X3 is the most powerful 360 action camera you can carry in your pocket\. Capture 5\.7K 360 video with Active HDR and the Invisible Selfie Stick effect, or 72MP photos with stunning details\. X3 doubles as a standard action cam with Single\-Lens Mode upgraded to sharp 4K or MaxView at 170°\. For editing your shots, the Insta360 app is an AI powerhouse with the intuitive reframing tools for making magic out of the action\.
 
+## Additional information
+
+**Code**: B5C001
+

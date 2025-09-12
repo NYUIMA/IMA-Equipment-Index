@@ -24,3 +24,7 @@ description: "Brand: UltraFire, Model: 18650.0"
 
  Material: Lithium""
 
+## Additional information
+
+**Code**: N1A007
+

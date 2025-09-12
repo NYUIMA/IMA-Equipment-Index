@@ -16,7 +16,7 @@ description: "Brand: Meta, Model: None"
 
 **Product page**: [https://www.meta.com/quest/quest-3/](https://www.meta.com/quest/quest-3/)
 
-**Documentation**: [https://item.jd.com/10088116203523.html](https://item.jd.com/10088116203523.html)
+**Documentation**: [https://www.meta.com/help/quest/1994971530885728/?srslt...](https://www.meta.com/help/quest/1994971530885728/?srsltid=AfmBOopqvGHBzGyzy08gWHNB2g6nT8xqgcVauqKeKJEobQ6YAYmNUn41)
 
 ## Accessories List
 
@@ -43,4 +43,8 @@ Explore the world’s best library of 500\+ immersive apps and find your favorit
 Get up to 2\.2 hours of usage on average with the option to extend your battery life further with Battery Saver mode\. Use the included 18W power adapter to fully charge your headset\.\* \(\*Battery life is dependent on various factors such as device settings, usage, age of battery, Bluetooth usage, and wireless conditions\.\)
 
 Play what you love longer with maximum comfort\. Personalize your fit with added customization and a redesigned slimmer profile compared to Quest 2\.
+
+## Additional information
+
+**Code**: R3D001
 

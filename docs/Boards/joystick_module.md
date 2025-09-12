@@ -56,3 +56,7 @@ Interface: Analog x2,Digital x1
 
 Size:35x39mm \(1\.38x1\.53''\)
 
+## Additional information
+
+**Code**: G16501
+

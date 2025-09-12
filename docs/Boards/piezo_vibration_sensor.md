@@ -40,3 +40,7 @@ Laminated for higher voltage output
 
 0\.1" breadboard friendly leads
 
+## Additional information
+
+**Code**: G23301
+

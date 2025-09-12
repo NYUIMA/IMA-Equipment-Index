@@ -66,3 +66,7 @@ Rise in Temperature: \< 40K\(120Hz\)
 
 Noise: \< 40dB\(120Hz, No load, 10cm\)
 
+## Additional information
+
+**Code**: G13301
+

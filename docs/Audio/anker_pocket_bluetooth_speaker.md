@@ -58,3 +58,7 @@ Connect with any NFC or bluetooth\-enabled device \(versions 2\.1 and above\) or
 
 \- See more at: http://www\.ianker\.com/product/A7910011\#sthash\.ckyEbrub\.dpuf
 
+## Additional information
+
+**Code**: C1G001
+

@@ -32,3 +32,7 @@ The DS18B20 temperature sensor provides 9 to 12\-bit \(configurable\) temperatur
 
 Check 27 Pcs Sensor Kit for Arduino to get more sensors for arduino\.
 
+## Additional information
+
+**Code**: G30101
+

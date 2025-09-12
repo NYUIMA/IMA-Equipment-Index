@@ -54,3 +54,7 @@ The Raspberry Pi Zero W extends the Pi Zero family\. Launched at the end of Febr
 
  CSI camera connector
 
+## Additional information
+
+**Code**: E14201
+

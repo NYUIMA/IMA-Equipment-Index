@@ -28,3 +28,7 @@ All copper conductors and inner copper spiral shielding; shielded cable reduces 
 
 Measures 6\-feet long; backed by an AmazonBasics 1\-Year Limited Warranty
 
+## Additional information
+
+**Code**: C4C00001
+

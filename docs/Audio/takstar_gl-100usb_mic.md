@@ -48,3 +48,7 @@ Windows volume control includes bass, treble, AGC and MB
 
 Durable and rugged metal construction
 
+## Additional information
+
+**Code**: C3B001
+

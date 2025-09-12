@@ -40,3 +40,7 @@ description: "Brand: Oculus, Model: DK2"
 
 The Oculus Rift Development Kit 2 is the latest development kit for the Oculus Rift with a low\-persistence OLED display and low\-latency positional head tracking\.
 
+## Additional information
+
+**Code**: R1B001
+

@@ -42,3 +42,7 @@ Features:
 
 microSD card slot
 
+## Additional information
+
+**Code**: C1C001
+

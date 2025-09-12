@@ -16,6 +16,8 @@ description: "Brand: ORANGEMONKIE, Model: None"
 
 **Product page**: [https://orangemonkie.com/products/foldio3](https://orangemonkie.com/products/foldio3)
 
+**Documentation**: [https://cdn.shopify.com/s/files/1/0578/6684/6347/files/...](https://cdn.shopify.com/s/files/1/0578/6684/6347/files/Foldio3-Manual.pdf?v=1651866741)
+
 ## Accessories List
 
 1\. 1 x Foldio 360
@@ -109,4 +111,8 @@ Foldio3 Portable Studio
  1x Foldio360
 
  \(Smart turntable for 360 product photography\. Only US\(JP\)/EU/UK plugs included
+
+## Additional information
+
+**Code**: R0B001
 

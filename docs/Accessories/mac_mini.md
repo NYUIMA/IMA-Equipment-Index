@@ -24,9 +24,21 @@ description: "Brand: Apple, Model: MD387LL/A"
 
 1\. 1 x Mac Mini
 
- 2\. 1 x Power Cable
+2\. 1 x Power Cable
+
+\(Applied for 2 set\)
+
+3\. 1 x Keyboard
+
+4\. 1 x Mouse
+
+5\. 1 x Type\-c Hub
 
 ## Description
 
 Mac mini is an affordable powerhouse that packs the entire Mac experience into a 19\.7 centimeter\-square frame\. Just connect your own display, keyboard, and mouse, and you’re ready to make big things happen\.
+
+## Additional information
+
+**Code**: F3A001
 

@@ -62,3 +62,7 @@ Weight : 50g
 
 Include: VR Camera; 2 Cables\(micro & apple\); VR Glasses; Gamepad
 
+## Additional information
+
+**Code**: A1A001
+

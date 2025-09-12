@@ -34,3 +34,7 @@ description: "Brand: DJI, Model: Osmo Mobile 6"
 
 Osmo Mobile 6 is an intelligent smartphone stabilizer packed with creative features\. It's not only compact and easily foldable to fit in your palm, but also launches automatically once unfolded to capture shots at a moment's notice\. Get dynamic angles and perfect selfies by using the built\-in extension rod\. A whole host of intelligent functions and guides are at your disposal\. The DJI Mimo app facilitates efficient shooting, editing, and sharing, allowing you to catch every unforgettable moment\.
 
+## Additional information
+
+**Code**: Q1L001
+

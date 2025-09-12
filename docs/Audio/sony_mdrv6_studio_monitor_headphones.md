@@ -32,3 +32,7 @@ Copper\-clad aluminum voice coil wire for improved power handling
 
 Wide frequency response of 5 Hz \- 30 kHz
 
+## Additional information
+
+**Code**: C5F001
+

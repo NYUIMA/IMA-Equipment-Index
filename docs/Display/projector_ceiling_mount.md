@@ -1,6 +1,6 @@
 ---
 title: "Projector Ceiling Mount"
-sidebar_position: 26
+sidebar_position: 25
 tags:
     - "Projectors"
 image: "/img/display/projector_ceiling_mount.png"
@@ -43,4 +43,8 @@ Hanging parameter Maximum load \(kg\) 8
 Hanger material Cold rolled steel
 
 packing list Product /1
+
+## Additional information
+
+**Code**: S4D002
 

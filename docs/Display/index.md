@@ -7,7 +7,7 @@ pagination_next: null
 
 | Name | Image |
 | :--- | :---: |
-| [Apple TV 4K - British Plug](./apple_tv_4k_-_british_plug) | ![apple_tv_4k_-_british_plug](/img/display/apple_tv_4k_-_british_plug.png) |
+| [Apple TV 4K](./apple_tv_4k) | ![apple_tv_4k](/img/display/apple_tv_4k.png) |
 | [DXOP Portable Screen](./dxop_portable_screen) | ![dxop_portable_screen](/img/display/dxop_portable_screen.png) |
 | [Digital Photo Frame](./digital_photo_frame) | ![digital_photo_frame](/img/display/digital_photo_frame.png) |
 | [Green Screen](./green_screen) | ![green_screen](/img/display/green_screen.png) |
@@ -17,7 +17,6 @@ pagination_next: null
 | [Monitor (Dell Ultrasharp 24)](./monitor_-dell_ultrasharp_24-) | ![monitor_-dell_ultrasharp_24-](/img/display/monitor_-dell_ultrasharp_24-.png) |
 | [Monitor (Dell 21.5'')](./monitor_-dell_21.5---) | ![monitor_-dell_21.5---](/img/display/monitor_-dell_21.5---.png) |
 | [Monitor(Benq)](./monitor-benq-) | ![monitor-benq-](/img/display/monitor-benq-.png) |
-| [Monitor(Samsung)](./monitor-samsung-) | ![monitor-samsung-](/img/display/monitor-samsung-.png) |
 | [Monitor(Sony)](./monitor-sony-) | ![monitor-sony-](/img/display/monitor-sony-.png) |
 | [Portable TV](./portable_tv) | ![portable_tv](/img/display/portable_tv.png) |
 | [White Screen](./white_screen) | ![white_screen](/img/display/white_screen.png) |
@@ -61,3 +60,5 @@ pagination_next: null
 | [HDMI Cable(Long)](./hdmi_cable-long-) | ![hdmi_cable-long-](/img/display/hdmi_cable-long-.png) |
 | [Yunke CX-LU680 Projector](./yunke_cx-lu680_projector) | ![yunke_cx-lu680_projector](/img/display/yunke_cx-lu680_projector.png) |
 | [iMac](./imac) | ![imac](/img/display/imac.png) |
+| [Sony VPL-CH378 Projector](./sony_vpl-ch378_projector) | ![sony_vpl-ch378_projector](/img/display/sony_vpl-ch378_projector.png) |
+| [JMGO O2 Ultra Projector](./jmgo_o2_ultra_projector) | ![jmgo_o2_ultra_projector](/img/display/jmgo_o2_ultra_projector.png) |

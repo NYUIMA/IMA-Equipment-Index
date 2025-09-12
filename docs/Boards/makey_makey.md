@@ -22,3 +22,7 @@ description: "Brand: Makey Makey, Model: None"
 
 Original Kit \- Everything you need to get started all in our classic green box\. Includes: Makey Makey, USB Cable, 7 Alligator Clips, 6 connector wires, illustrated instruction guide, just\-for\-fun stickers\.
 
+## Additional information
+
+**Code**: F1B001
+

@@ -26,3 +26,7 @@ The Dreamer Nano V4\.0 is a surface mount breadboard embedded version of the ATM
 
 Using the ATmega32U4 as its sole microcontroller allows it to be cheaper and simpler\. Also, because the 32U4 is handling the USB directly, code libraries are available which allow the board to emulate a computer keyboard, mouse, and more using the USB\-HID protocol\!
 
+## Additional information
+
+**Code**: E45001
+

@@ -48,3 +48,7 @@ What is pH?
 
 “pH stands for power of hydrogen, which is a measurement of the hydrogen ion concentration in the body\. The total pH scale ranges from 1 to 14, with 7 considered to be neutral\. A pH less than 7 is said to be acidic and solutions with a pH greater than 7 are basic or alkaline\.”
 
+## Additional information
+
+**Code**: G42001
+

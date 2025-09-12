@@ -30,3 +30,7 @@ The RF IC Card module design the circuit of card read by using the original Phil
 
  Power Voltage : 3\.3V,Operating frequency: 13\.56MHz\.
 
+## Additional information
+
+**Code**: G22401
+

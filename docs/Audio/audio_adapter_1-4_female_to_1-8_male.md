@@ -22,3 +22,7 @@ How to use: TRS 3\.5mm female to 6\.35mm male audio adapter is a perfect way to 
 
 Friendly Design:The 1/4 to 1/8 stereo jack adapter adopte gear grinding technique, 360 degree grip treads help plugging and unplugging\.
 
+## Additional information
+
+**Code**: C2I001
+

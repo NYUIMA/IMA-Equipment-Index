@@ -14,11 +14,7 @@ description: "Brand: Grove, Model: None"
 
 **Brand**: Grove
 
-**Product page**: 
-
-\(available but discontinued\) [https://www.seeedstudio.com/Grove-Q-Touch-Sensor-p-1854...](https://www.seeedstudio.com/Grove-Q-Touch-Sensor-p-1854.html)
-
-[https://protocentral.com/product/grove-q-touch-sensor/](https://protocentral.com/product/grove-q-touch-sensor/)
+**Product page**: [https://www.seeedstudio.com/Grove-Q-Touch-Sensor-p-1854...](https://www.seeedstudio.com/Grove-Q-Touch-Sensor-p-1854.html)
 
 **Documentation**: [https://seeeddoc.github.io/Grove-Q_Touch_Sensor/](https://seeeddoc.github.io/Grove-Q_Touch_Sensor/)
 
@@ -41,4 +37,8 @@ Touch Keys: 7 Keys ; key0 ,key1 ,key2 are on the Grove PCB bottom side
 Communicating Protocol: I2C
 
 I2C Address: 0x1B
+
+## Additional information
+
+**Code**: G22301
 

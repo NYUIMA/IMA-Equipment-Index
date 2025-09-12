@@ -38,3 +38,7 @@ Designed to maximize your comfort and productivity
 
 Features three easy to use buttons including scroll wheel
 
+## Additional information
+
+**Code**: D3E001
+

@@ -80,3 +80,7 @@ Documents
 
 Please visit our wiki\(http://www\.seeedstudio\.com/wiki/Grove\_\-\_Loudness\_Sensor\) page for more info about this product\. It will be appreciated if you can help us improve the documents, add more demo code or tutorials\. For technical support, please post your questions to ourforum\(http://forum\.seeedstudio\.com/\)\.
 
+## Additional information
+
+**Code**: G18201
+

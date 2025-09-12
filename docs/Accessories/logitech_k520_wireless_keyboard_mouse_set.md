@@ -16,11 +16,15 @@ description: "Brand: Logitech, Model: K520"
 
 **Model**: K520
 
-**Product page**: [https://www.logitech.com/en-hk/product/wireless-combo-m...](https://www.logitech.com/en-hk/product/wireless-combo-mk520?crid=1759)
+**Product page**: [https://www.logitech.com/en-us/shop/p/mk520-wireless-ke...](https://www.logitech.com/en-us/shop/p/mk520-wireless-keyboard-mouse)
 
 **Documentation**: [https://support.logitech.com/en_us/product/wireless-com...](https://support.logitech.com/en_us/product/wireless-combo-mk520)
 
 ## Description
 
 Full size wireless keyboard and mouse\.
+
+## Additional information
+
+**Code**: D4C001
 

@@ -22,3 +22,7 @@ description: "Brand: Hosa, Model: CMP-153"
 
 This cable is designed to connect an audio device with a mini stereo phone output to pro audio gear with unbalanced phone inputs\. It is ideal for connecting a portable media player, laptop, or similar device to a mixing console\.
 
+## Additional information
+
+**Code**: C2Q00001
+

@@ -26,3 +26,7 @@ Move with Your Music
 
 It is often said that journey matters more than the destination\. Make it count with the Flex headphones\. It is your constant companion that keeps you going\. The ultra\-light and foldable headphones let you relish every moment of your music on the move\.
 
+## Additional information
+
+**Code**: C5J001
+

@@ -18,7 +18,7 @@ description: "Brand: YunTeng, Model: 900.0"
 
 **Product page**: [https://www.yingkee.hk/yunteng-tripod-dolly-900/](https://www.yingkee.hk/yunteng-tripod-dolly-900/)
 
-**Documentation**: \\https://practicumfall2018\.blogs\.bucknell\.edu/lesson\-9\-1\-sliders\-and\-dollies/
+**Documentation**: [https://practicumfall2018.blogs.bucknell.edu/lesson-9-1...](https://practicumfall2018.blogs.bucknell.edu/lesson-9-1-sliders-and-dollies/)
 
 ## Description
 
@@ -51,4 +51,8 @@ Diameter 28 MM
 Design for medium and heavy weihgt triposds, and suitable for alll tripod foot types\.
 
 With this excellent assistance you can take your tripod anywhere you want\.
+
+## Additional information
+
+**Code**: TC000001
 

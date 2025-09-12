@@ -74,3 +74,7 @@ So simple to set\-up
 
 Whatever you want to create, it’s easy with One by Wacom\. Just connect the USB cable to your Mac or PC, download and install the driver and you’re ready to go\.
 
+## Additional information
+
+**Code**: D1A001
+

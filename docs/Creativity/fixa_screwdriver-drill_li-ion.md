@@ -34,3 +34,7 @@ description: "Brand: IKEA, Model: None"
 
  \- Easy to grip handle of soft synthetic rubber\.""
 
+## Additional information
+
+**Code**: I4A001
+

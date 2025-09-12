@@ -40,3 +40,7 @@ The Intel Edison module will initially support development with Arduino\* and C/
 
 It includes a device\-to\-device and device\-to\-cloud connectivity framework to enable cross\-device communication and a cloud\-based, multi\-tenant, time\-series analytics service\.
 
+## Additional information
+
+**Code**: E83001
+

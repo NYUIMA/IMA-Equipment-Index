@@ -60,3 +60,7 @@ Application=3D printers, Reprap project, CNC machine
 
 Rotor Inertia=15g\-cm2
 
+## Additional information
+
+**Code**: J3B001
+

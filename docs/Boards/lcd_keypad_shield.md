@@ -94,3 +94,7 @@ Soil moisture reader\(http://youtu\.be/v8ldQVXc\-vc\)
 
 Buttons, clock setting \+ RTC\(http://youtu\.be/wtSJ6ojU9w0\)
 
+## Additional information
+
+**Code**: E85004
+

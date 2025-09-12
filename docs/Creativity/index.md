@@ -15,7 +15,7 @@ pagination_next: null
 | [Wacom Intuos Creative Pen & Touch Tablet](./wacom_intuos_creative_pen_-_touch_tablet) | ![wacom_intuos_creative_pen_-_touch_tablet](/img/creativity/wacom_intuos_creative_pen_-_touch_tablet.png) |
 | [White Display Pedestal](./white_display_pedestal) | ![white_display_pedestal](/img/creativity/white_display_pedestal.png) |
 | [NeuroSky Mindwave (Old version)](./neurosky_mindwave_-old_version-) | ![neurosky_mindwave_-old_version-](/img/creativity/neurosky_mindwave_-old_version-.png) |
-| [NeuroSky Mindwave (Upgraded version)](./neurosky_mindwave_-upgraded_version-) | ![neurosky_mindwave_-upgraded_version-](/img/creativity/neurosky_mindwave_-upgraded_version-.png) |
+| [MindWave Mobile 2: Brainwave Starter Kit ](./mindwave_mobile_2-_brainwave_starter_kit_) | ![mindwave_mobile_2-_brainwave_starter_kit_](/img/creativity/mindwave_mobile_2-_brainwave_starter_kit_.png) |
 | [Thermal Printer](./thermal_printer) | ![thermal_printer](/img/creativity/thermal_printer.png) |
 | [FIXA Screwdriver/drill li-ion](./fixa_screwdriver-drill_li-ion) | ![fixa_screwdriver-drill_li-ion](/img/creativity/fixa_screwdriver-drill_li-ion.png) |
 | [Steel Ruler](./steel_ruler) | ![steel_ruler](/img/creativity/steel_ruler.png) |

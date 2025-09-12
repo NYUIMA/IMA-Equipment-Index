@@ -50,3 +50,7 @@ BW adjustment with a single capacitor per axis
 
 RoHS/WEEE lead\-free compliant
 
+## Additional information
+
+**Code**: G14001
+

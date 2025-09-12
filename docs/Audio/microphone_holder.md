@@ -18,3 +18,7 @@ description: "Brand: None, Model: None"
 
 High\-quality microphone stand with telescopic boom arm\. Die\-cast base with folding legs\. Unique design retains all screws and levers without tension\. Patented clamping lever can be fixed in any position, for holding mic cable, etc\.
 
+## Additional information
+
+**Code**: C3E001
+

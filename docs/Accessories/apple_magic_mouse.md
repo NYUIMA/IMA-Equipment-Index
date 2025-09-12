@@ -16,7 +16,7 @@ description: "Brand: Apple, Model: Magic Mouse"
 
 **Model**: Magic Mouse
 
-**Product page**: [https://www.apple.com/hk/shop/product/MK2E3ZA/A/magic-m...](https://www.apple.com/hk/shop/product/MK2E3ZA/A/magic-mouse?fnode=1eb7d3fa3f90a6f1022d75fd14bd3f90cf57e0e856971f74f50d7086a28f58814d1fc132a3137da2c83ae1e6b69ce28f3260ac410c706dd9b98ad3ae37bc784ace74634daabe89299eab9189dcf654d0ddac2922c8882311446c1a3ec95cd71d)
+**Product page**: [https://www.apple.com/hk/shop/product/MXK53ZA/A/magic-m...](https://www.apple.com/hk/shop/product/MXK53ZA/A/magic-mouse-usb%E2%80%91c-white-multi-touch-surface?fnode=a56fdacac9401f7f7adab186272e17da0c44adf2fdc63240d5ec38ec6e9e57d2babb909d61fab9a41670cd5ced511330b0e970518fdc8fd11b9f343d6052413292ba331f7480982424e797ecb2988474ae4bd6c5f87f35813e28864c1d41196d)
 
 ## Description
 
@@ -25,4 +25,8 @@ Magic Mouse is wireless and rechargeable, with an optimised foot design that let
  
 
  The incredibly long\-lasting internal battery will power your Magic Mouse for about a month or more between charges\. It’s ready to go straight out of the box and pairs automatically with your Mac, and it includes a woven USB\-C to Lightning Cable that lets you pair and charge by connecting to a USB\-C port on your Mac\.
+
+## Additional information
+
+**Code**: D3F001
 

@@ -16,9 +16,9 @@ description: "Brand: Seeed Studio, Model: Quad - 4"
 
 **Model**: Quad - 4
 
-**Product page**: [https://web.archive.org/web/20180713012602/https://www....](https://web.archive.org/web/20180713012602/https://www.seeedstudio.com/dso-quad-4-channel-digital-storage-oscilloscope-p-736.html)
+**Product page**: [https://www.seeedstudio.com/DSO-Quad-Aluminium-Alloy-Bl...](https://www.seeedstudio.com/DSO-Quad-Aluminium-Alloy-Black-p-1034.html?srsltid=AfmBOopQDx9xnCM41c8tY6CjzUD9EGwXSqNTv19g_H1zZtwknt_iL2Ey)
 
-**Documentation**: [https://web.archive.org/web/20180502071202/http://wiki....](https://web.archive.org/web/20180502071202/http://wiki.seeedstudio.com:80/DSO_Quad/)
+**Documentation**: [https://wiki.seeedstudio.com/DSO_Quad/](https://wiki.seeedstudio.com/DSO_Quad/)
 
 ## Accessories List
 
@@ -33,4 +33,8 @@ description: "Brand: Seeed Studio, Model: Quad - 4"
 ## Description
 
 DSO Quad is a pocket size 4 channel digital oscilloscope for common electronic engineering tasks\. It's based on ARM cortex M3 \(STM32F103VCT6\) 32 bits platform, providing 72MS/s sampling rate with integrated FPGA and high speed ADC\. Internal 2MB USB disk could be used to store waveform, user application and upgrade firmware\.
+
+## Additional information
+
+**Code**: E53001
 

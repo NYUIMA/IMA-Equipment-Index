@@ -26,3 +26,7 @@ Dual Camera Mount with 1/4"" standard screw hole to mount on tripod\.
 
  This Dual Camera Flash Mount Tripod Bracket is made of ALL Metal Aluminum, affixed with non\-slip rubber pads to protect your camera flash and Mics from scratches and anti\-slide\.
 
+## Additional information
+
+**Code**: Q1M001
+

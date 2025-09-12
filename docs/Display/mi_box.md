@@ -1,6 +1,6 @@
 ---
 title: "Mi Box"
-sidebar_position: 19
+sidebar_position: 18
 tags:
     - "Tvs"
 image: "/img/display/mi_box.png"
@@ -13,6 +13,8 @@ description: "Brand: None, Model: None"
 ## Basic information
 
 **Product page**: [https://www.mi.com/global/product/mi-box-s/](https://www.mi.com/global/product/mi-box-s/)
+
+**Documentation**: [https://www.mi.com/global/support/user-guide-pdf/lu/mi-...](https://www.mi.com/global/support/user-guide-pdf/lu/mi-box)
 
 ## Accessories List
 
@@ -27,4 +29,8 @@ description: "Brand: None, Model: None"
 ""Made of durable plastic material, lightweight
 
  The measuring jug has a handle, convenient to use""
+
+## Additional information
+
+**Code**: S3E001
 

@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 3\-Axis Compass module, a member of grove family uses I²C based Honeywell HMC5883L digital compass\. This ASIC is equipped with high resolution HMC118X magneto\-resistive sensors and a 12\-bit ADC\. It provides compass heading accuracy up to 1° to 2°\. Signal conditioning like amplification, automatic degaussing strap drivers and offset cancellation are inbuilt\. This grove module also includes a MIC5205\-3\.3 for power supply requirement\. Hence user can connect any 3\.3V to 6V DC power supply\.
 
+## Additional information
+
+**Code**: G21001
+

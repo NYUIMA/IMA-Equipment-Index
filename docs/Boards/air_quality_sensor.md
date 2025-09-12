@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 The sensor is designed for indoor air quality testing\. The main gas detected is carbon monoxide, alcohol, acetone, thinner, formaldehyde and other slightly toxic gases\.
 
+## Additional information
+
+**Code**: G34001
+

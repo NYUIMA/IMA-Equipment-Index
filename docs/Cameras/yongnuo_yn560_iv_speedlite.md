@@ -18,7 +18,7 @@ description: "Brand: Yongnuo, Model: YN560-IV"
 
 **Product page**: [https://www.bhphotovideo.com/c/product/1101196-REG/yong...](https://www.bhphotovideo.com/c/product/1101196-REG/yongnuo_yn_560iv_yn560_iv_speedlite.html)
 
-**Documentation**: [https://www.bhphotovideo.com/lit_files/571660.pdf](https://www.bhphotovideo.com/lit_files/571660.pdf)
+**Documentation**: [https://d26lpennugtm8s.cloudfront.net/stores/176/090/rt...](https://d26lpennugtm8s.cloudfront.net/stores/176/090/rte/YN-560%20Ingl%C3%A9s.pdf)
 
 ## Description
 
@@ -79,4 +79,8 @@ The flash coverage can be altered between 24~105mm through the \[ZOOM\] button\.
 
 
 \*Equipped with Big Size LCD Display Screen, Standard PC Synchronous Interface
+
+## Additional information
+
+**Code**: D6E001
 

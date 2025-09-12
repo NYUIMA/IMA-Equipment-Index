@@ -36,3 +36,7 @@ High sensitivity
 
 Fully RoHS compliant
 
+## Additional information
+
+**Code**: G75001
+

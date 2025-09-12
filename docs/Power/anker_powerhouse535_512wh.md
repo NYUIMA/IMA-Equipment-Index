@@ -44,3 +44,7 @@ Rapid Recharge Convenience: Quickly recharge your portable power generators to 8
 
  Unyielding Durability: Built with a drop\-proof unibody structure, this portable power generator can withstand harsh environments, making it a dependable power source for outdoor activities and emergencies\.
 
+## Additional information
+
+**Code**: U0A001
+

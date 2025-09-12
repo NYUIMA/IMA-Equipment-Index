@@ -54,3 +54,7 @@ Specifications:
 
 3\.3/5V output\(switchable via Jumpers\)
 
+## Additional information
+
+**Code**: G12501
+

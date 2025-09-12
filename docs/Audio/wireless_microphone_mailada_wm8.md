@@ -92,3 +92,7 @@ Size: 8\.7\*5\.7\*1\.4cm/3\.4\*2\.2\*0\.6in
 
 Package Weight: 554g/19\.5oz
 
+## Additional information
+
+**Code**: F6D001
+

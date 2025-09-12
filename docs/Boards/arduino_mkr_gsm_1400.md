@@ -28,3 +28,7 @@ As IoT advances, more and more developers incline to develop projects through th
 
  During cellular transmissions, the peak current required by the board will exceed 500mA\. This is in excess of what can be sourced by a standard USB port, so it is mandatory to have a 1500 mAh or higher LiPo battery plugged all the time, the current provided by the USB port will be supplemented by the battery\. When powering the board using VIN, a 5V power supply that can supply at least 2A is required\.
 
+## Additional information
+
+**Code**: E12301
+

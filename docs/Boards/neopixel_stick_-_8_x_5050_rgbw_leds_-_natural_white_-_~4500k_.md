@@ -32,3 +32,7 @@ This is the Natural White RGBW version\. We also have this stick in Warm White, 
 
 The NeoPixel is 'split', one half is the RGB you know and love, the other half is a white LED with a yellow phosphor\. Unlit, it resembles an egg yolk\. Lit up these are insanely bright \(like ow my eye hurts\) and can be controlled with 8\-bit PWM per channel \(8 x 4 channels = 32\-bit color overall\)\. Great for adding lots of colorful \+ white dots to your project\!
 
+## Additional information
+
+**Code**: G19501
+

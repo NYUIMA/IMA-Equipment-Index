@@ -26,3 +26,7 @@ description: "Brand: Adafruit, Model: None"
 
 Adafruit FLORA \- Wearable Electronic Platform: v2 is a fully featured wearable electronics platform\. It's a round, sewable, Arduino\-compatible microcontroller designed to empower wearables projects\. FLORA is small \(1\.75"" diameter, weighing 4\.4 grams\) and comes with Adafruit's support, tutorials and projects\. The FLORA family also has stainless steel threads, sensors, GPS modules, and chainable LED NeoPixels, perfect accessories for the FLORA main board\. Adafruit Flora v2 comes with a micro\-USB port instead of a mini\-USB port and a programmable NeoPixel installed \(connected to Digital 8, ready for blinky commands\)\.
 
+## Additional information
+
+**Code**: E72001
+

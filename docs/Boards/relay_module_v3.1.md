@@ -62,3 +62,7 @@ High quality connector
 
 Immersion gold surface
 
+## Additional information
+
+**Code**: G23501
+

@@ -16,7 +16,7 @@ description: "Brand: YONGNUO, Model: YN300 III"
 
 **Model**: YN300 III
 
-**Product page**: [https://www.aliexpress.com//item/1005002344687127.html/...](https://www.aliexpress.com//item/1005002344687127.html/_____tmd_____/punish?x5secdata=xcEt28ZKiq2aBAQJL0pq5eVg%2fEOnweplm5rFu4W64UEs8wgPTZ%2bhcGmy%2bY%2fR2oi1yFrdCijmozare4OBEqc33w2G1%2bKJmC8QiVsFBne7JDnXo%2fFpkyLStcdg8UZcGORacWzGq65e4Gkmo6J1LQGng9x8DaD%2bJ%2fu8WBVbDbiNVC6Rma23igd4fT4yHkOSZ3iS3hCOyat7%2fXeicAiaxlGTEqDDOWALSixL4KX2o0qnkdTCL6Bx34Ocu5aCMhBOnv4qyF09N2FC8UPlHtBKOkBmkXo44hltJMlc2gdt3wFO%2fJubo%3d__bx__www.aliexpress.com%2fitem%2f1005002344687127.html&x5step=1)
+**Product page**: [https://alitools.io/en/showcase/yn300-ct-filter-blue-re...](https://alitools.io/en/showcase/yn300-ct-filter-blue-red-white-orange-for-yongnuo-yn300-yn300-ii-yn300ii-yn300iii-yn-300-iii-camera-photo-led-video-light-32996815743)
 
 ## Description
 
@@ -35,4 +35,8 @@ Red
 Orange
 
 Orange
+
+## Additional information
+
+**Code**: D6I001
 

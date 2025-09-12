@@ -186,3 +186,7 @@ Dimensions: 1\.6"H x 5\.2"W x 8"D \(41x133x203mm\)
 
 Weight: 1\.6 lbs\. \(0\.7 kg\)
 
+## Additional information
+
+**Code**: F4F001
+

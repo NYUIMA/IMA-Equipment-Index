@@ -30,3 +30,7 @@ description: "Brand: Focusrite, Model: 2i2"
 
 Second generation 2 in / 2 out USB 2\.0 audio interface with two Scarlett Mic/Instrument preamplifiers, 24bit/192kHz & USB bus power\. Pro Tools \| First & Ableton Live Lite recording software, plug\-ins and samples included\. Mac & PC compatible\.
 
+## Additional information
+
+**Code**: C6E001
+

@@ -14,6 +14,8 @@ description: "Brand: Sparkfun, Model: None"
 
 **Brand**: Sparkfun
 
+**Product page**: [https://github.com/sparkfun/LilyPad_XBee/tree/HW_1.0](https://github.com/sparkfun/LilyPad_XBee/tree/HW_1.0)
+
 **Documentation**: [https://github.com/sparkfun/LilyPad_XBee/tree/HW_1.0](https://github.com/sparkfun/LilyPad_XBee/tree/HW_1.0)
 
 ## Description
@@ -35,4 +37,8 @@ Note: This LilyPad board does NOT include and XBee module\.
 
 
 Note: A portion of this sale is given back to Dr\. Leah Buechley for continued development and education of e\-textiles and to Rob Faludi and Kate Hartman for product support and continued development\.
+
+## Additional information
+
+**Code**: E93001
 

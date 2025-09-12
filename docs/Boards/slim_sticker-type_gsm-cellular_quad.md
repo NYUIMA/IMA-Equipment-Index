@@ -28,3 +28,7 @@ That's one slim cellular antenna\! At just 75mm long from tip to tip and and wit
 
 We also offer a version of this antenna with a longer 300mm cable\.
 
+## Additional information
+
+**Code**: G26101
+

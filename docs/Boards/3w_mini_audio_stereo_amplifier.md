@@ -42,3 +42,7 @@ Wiki Doc
 
 Datasheet \(pam8403\)
 
+## Additional information
+
+**Code**: G22001
+

@@ -1,6 +1,6 @@
 ---
 title: "HDMI Female to DVI Adapter"
-sidebar_position: 35
+sidebar_position: 34
 tags:
     - "Adapter"
 image: "/img/display/hdmi_female_to_dvi_adapter.png"
@@ -29,4 +29,8 @@ This adaptor makes it easy to enjoy the ultra\-high definition video HDMI delive
 Two different adaptors let you connect new HDMI\-capable sources to existing DVI\-capable displays and
 
 With an advantage design and construction that include corrosion\-resistant 24k gold contacts and sil
+
+## Additional information
+
+**Code**: D2T001
 

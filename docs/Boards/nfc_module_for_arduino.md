@@ -82,3 +82,7 @@ PN532 user manual
 
 Arduino sample sketch
 
+## Additional information
+
+**Code**: G20201
+

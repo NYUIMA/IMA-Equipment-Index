@@ -30,3 +30,7 @@ The Sharp distance sensors are a popular choice for many projects that require a
 
 The GP2Y0A21 uses a 3\-pin JST connector that connects to our 3\-pin JST cable for Sharp distance sensors \(not included\) as shown in the upper picture on the right\. It is also simple to solder three wires to the sensor where the connector pins are mounted \(see the lower picture to the right\)\. When looking at the back, the three connections from left to right are power, ground, and the output signal\.
 
+## Additional information
+
+**Code**: G24501
+

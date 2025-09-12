@@ -46,3 +46,7 @@ Liquid Level Sensor Adapter x1
 
 Gravity Digital 3\-Pin Cable x1
 
+## Additional information
+
+**Code**: G18101
+

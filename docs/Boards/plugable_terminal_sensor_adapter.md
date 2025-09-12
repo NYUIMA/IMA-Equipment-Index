@@ -26,3 +26,7 @@ This is  universal sensor adapter V2\.0, it can be accessed by digital input mo
 
 Generally speaking, this terminal provides a much easier way to connect a switch or any modules that requires pull\-up/down resistor to microcontroller
 
+## Additional information
+
+**Code**: G22201
+

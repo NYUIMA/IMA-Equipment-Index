@@ -78,3 +78,7 @@ For Optimal Use:
 
 • Compatible with Apple and Android smartphones, tablets \(including the Nexus 7\) and other USB\-charged devices except for the iPod nano, iPod Classic, HP TouchPad, LG G2, Asus tablets and some GPS and Bluetooth devices\.
 
+## Additional information
+
+**Code**: N3A001
+

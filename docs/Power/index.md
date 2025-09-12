@@ -43,3 +43,4 @@ pagination_next: null
 | [Anker Portable Power Supply](./anker_portable_power_supply) | ![anker_portable_power_supply](/img/power/anker_portable_power_supply.png) |
 | [Portable External Battery](./portable_external_battery) | ![portable_external_battery](/img/power/portable_external_battery.png) |
 | [Anker PowerHouse535 512Wh](./anker_powerhouse535_512wh) | ![anker_powerhouse535_512wh](/img/power/anker_powerhouse535_512wh.png) |
+| [Power Adapter for Chargers](./power_adapter_for_chargers) | ![power_adapter_for_chargers](/img/power/power_adapter_for_chargers.png) |

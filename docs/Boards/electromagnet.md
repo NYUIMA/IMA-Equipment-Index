@@ -56,3 +56,7 @@ Standby current ： 200uA
 
 Load Weight： 1KG
 
+## Additional information
+
+**Code**: G84001
+

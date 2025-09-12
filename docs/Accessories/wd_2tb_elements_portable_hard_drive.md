@@ -44,3 +44,7 @@ Improve PC performance
 
 When your internal hard drive is almost full your PC slows down\. Don’t delete files\. Free up space on your internal hard drive by transferring files to your WD Elements portable hard drive and get your laptop moving again\.
 
+## Additional information
+
+**Code**: D1F002
+

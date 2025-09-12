@@ -32,3 +32,7 @@ Bosch is the first company to get this right by taking a MEMS accelerometer, mag
 
 Rather than spending weeks or months fiddling with algorithms of varying accuracy and complexity, you can have meaningful sensor data in minutes thanks to the BNO055 \- a smart 9\-DOF sensor that does the sensor fusion all on its own\!  You can read the data right over I2C and Bob's yer uncle\.
 
+## Additional information
+
+**Code**: E12001
+

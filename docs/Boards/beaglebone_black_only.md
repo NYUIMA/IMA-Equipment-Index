@@ -30,3 +30,7 @@ The Beagle Bone Black connects directly to the back of the 4DCAPE\-43, and provi
 
 Please note that the 4DCAPE\-43 is designed to be the primary display for Beagle Bone Black only and cannot be programmed using 4D Systems Workshop 4 IDE\.
 
+## Additional information
+
+**Code**: E24001
+

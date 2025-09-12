@@ -42,3 +42,7 @@ Enable / Disable shield
 
 In case you have the shield configured to use the RX and TX pins you have to disable the shield before you can upload your new sketch onto the Arduino board\. This jumper allows you to disable the shield without disconnecting it from the Arduino board which saves time\.
 
+## Additional information
+
+**Code**: E35001
+

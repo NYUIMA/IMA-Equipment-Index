@@ -14,7 +14,7 @@ description: "Brand: DJI, Model: None"
 
 **Brand**: DJI
 
-**Product page**: [https://store.dji.com/product/osmo-mobile-3?site=brands...](https://store.dji.com/product/osmo-mobile-3?site=brandsite&from=buy_now_bar&vid=83691)
+**Product page**: [https://www.amazon.com/DJI-Osmo-Mobile-SE-ActiveTrack/d...](https://www.amazon.com/DJI-Osmo-Mobile-SE-ActiveTrack/dp/B0B7XCG225)
 
 **Documentation**: [https://www.dji.com/osmo-mobile-3?from=store-product-pa...](https://www.dji.com/osmo-mobile-3?from=store-product-page)
 
@@ -23,4 +23,8 @@ description: "Brand: DJI, Model: None"
 Eliminate Shake
 
 With a 3\-axis gimbal that effectively reduces shaky footage, Osmo Mobile 3 delivers a super\-smooth, stabilized image\. A lightweight, ultra\-responsive design reacts to your movements in real time, letting you focus more on the moment at hand\.
+
+## Additional information
+
+**Code**: Q1K001
 

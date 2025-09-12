@@ -68,3 +68,7 @@ Wiki
 
 Datasheet
 
+## Additional information
+
+**Code**: G12001
+

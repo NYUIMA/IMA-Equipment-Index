@@ -34,3 +34,7 @@ This product ensures consumer's convience especially when computer is not availa
 
 LCD Keypad Shield V2\.0 is a sepcial version based on LCD Keypad shield V1\.0\(https://www\.dfrobot\.com/index\.php?route=product/product&product\_id=51&search=dfr0009&description=true\#\.VlKTY\_mqqAw\)\. APC interface and the other GPIO pins have been simplified from the board\. It looks more like a small control panel\. A simple Arduino library is provided to make screen driving easier\. Note: It is only compatible with 5V Arduino boards, such as Arduino UNO, Arduino Leonardo and Arduino Mega\.
 
+## Additional information
+
+**Code**: E91001
+

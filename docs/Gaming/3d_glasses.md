@@ -34,3 +34,7 @@ The ZD301 3D glasses now offer an extended range of 3D refresh rates \(96/100/12
 
  Each pair of 3D glasses is supplied with a USB cable for charging by any USB power source and a soft carrying bag to protect them\. Spectacle wearers will find that the ZD301 3D glasses fit comfortably over most prescription glasses\.
 
+## Additional information
+
+**Code**: R2B001
+

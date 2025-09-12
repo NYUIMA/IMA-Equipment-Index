@@ -72,3 +72,7 @@ Product Feature
 
 It has a powerful ability to drive DC motors, stepper motors, servos, and onboard buzzer and RGB pixels and release all valid IO from microbit, with support the most common electronics module in the market\. It comes with 18650 battery holder, integrated lithium battery boost, charging and protection chip\. Support for external power input\. Mechnically support for KittenBot robotic chassis and LEGO technical slots\. The powerful drive capability and built\-in battery make DIY more convenient and free\. We have received unanimous praise from the school teacher training institutions and individual enthusiasts\. It is an excellent choice for your robotic projects based on Micro:bit\!
 
+## Additional information
+
+**Code**: F2H001
+

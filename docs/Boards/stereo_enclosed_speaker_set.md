@@ -44,3 +44,7 @@ Cable is 30" long total, 15" from each speaker to SPK plug
 
 24mm x 64mm mounting rectangle
 
+## Additional information
+
+**Code**: G27401
+

@@ -20,3 +20,7 @@ description: "Brand: Ugreen, Model: None"
 
 ERGONOMIC DESIGN: Large and Comfortable Foam\-Padded Grip Area with Easy\-Twist Locks with Jam\-Resistant Collar Couplings to Quickly Shorten or Lengthen and Fasten Sections Confidently
 
+## Additional information
+
+**Code**: C2T00001
+

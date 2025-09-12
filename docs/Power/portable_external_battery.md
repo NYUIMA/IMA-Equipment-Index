@@ -62,3 +62,7 @@ year manufacture warranty\. Package includes external battery charger, Micro USB
 
 2600mah Aluminium Magnesium Body High Efficiency Portable charger
 
+## Additional information
+
+**Code**: N3B001
+

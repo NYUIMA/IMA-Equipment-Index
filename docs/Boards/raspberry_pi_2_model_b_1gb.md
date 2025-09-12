@@ -44,3 +44,7 @@ Has the same form fit as the Raspberry Pi Model B\+ which means all of the acces
 
 Is backward compatible with most Raspberry Pi Model B\+ projects\.
 
+## Additional information
+
+**Code**: E14301
+

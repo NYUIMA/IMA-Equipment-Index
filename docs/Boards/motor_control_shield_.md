@@ -14,19 +14,13 @@ description: "Brand: Adafruit, Model: None"
 
 **Brand**: Adafruit
 
-**Product page**: 
-
-[https://www.adafruit.com/product/81](https://www.adafruit.com/product/81)
-
-\(new version v2\) [https://www.adafruit.com/product/1438](https://www.adafruit.com/product/1438)
+**Product page**: [https://www.adafruit.com/product/81](https://www.adafruit.com/product/81)
 
 **Documentation**: 
 
-\(v1\) [https://learn.adafruit.com/adafruit-motor-shield](https://learn.adafruit.com/adafruit-motor-shield)
+[https://learn.adafruit.com/adafruit-motor-shield](https://learn.adafruit.com/adafruit-motor-shield)
 
-\(v2\) [https://learn.adafruit.com/adafruit-motor-shield-v2-for...](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino)
 
-\(v2 library download\) [https://docs.arduino.cc/libraries/adafruit-motor-shield...](https://docs.arduino.cc/libraries/adafruit-motor-shield-v2-library/)
 
 ## Description
 
@@ -57,4 +51,8 @@ Arduino reset button brought up top
 Tested compatible with Arduino Mega 1280 & 2560, Diecimila, Duemilanove, and UNO
 
 Download the easy\-to\-use Arduino software library, check out the examples and you're ready to go\!
+
+## Additional information
+
+**Code**: E12401
 

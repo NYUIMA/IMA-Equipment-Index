@@ -34,3 +34,7 @@ strong and sturdy: It is easy to assemble and disassemble, no need of complicate
 
  practical: It can charge the desktop computer screen, and make you look unique in a more beautiful environment\. Simple and convenient, practical and easy to install\.
 
+## Additional information
+
+**Code**: F2C001
+

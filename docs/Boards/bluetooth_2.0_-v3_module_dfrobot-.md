@@ -72,3 +72,7 @@ Working temperature: \-20 ℃ ~ \+55 ℃
 
 Module Size: 40 × 20 × 13mm\(1\.6x0\.8x0\.5''\)
 
+## Additional information
+
+**Code**: G61001
+

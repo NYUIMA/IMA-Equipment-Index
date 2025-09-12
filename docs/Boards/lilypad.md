@@ -38,3 +38,7 @@ This version of the LilyPad now uses the new ATmega328 at 8MHz\. Arduino 0016 su
 
 LilyPad is a wearable e\-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun\. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing\. Various input, output, power, and sensor boards are available\. They're even washable\!
 
+## Additional information
+
+**Code**: E92001
+

@@ -40,3 +40,7 @@ In addition to this shield, you will need Arduino headers \(see the related prod
 
 Nate has used EL wire to make amazing interactive costumes; check out his Heartbeat Straitjacket and demo video\.
 
+## Additional information
+
+**Code**: E54001
+

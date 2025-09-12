@@ -32,3 +32,7 @@ Short circuit, over current and over voltage protection
 
 1 year warranty
 
+## Additional information
+
+**Code**: E15501
+

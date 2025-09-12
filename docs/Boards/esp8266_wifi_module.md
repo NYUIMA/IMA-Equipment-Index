@@ -28,3 +28,7 @@ The ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol 
 
  There is an almost limitless fountain of information available for the ESP8266, all of which has been provided by amazing community support\. In the Documents section below you will find many resources to aid you in using the ESP8266, even instructions on how to transform this module into an IoT \(Internet of Things\) solution\!
 
+## Additional information
+
+**Code**: E64001
+

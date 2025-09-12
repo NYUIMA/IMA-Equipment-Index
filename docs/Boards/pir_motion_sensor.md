@@ -24,3 +24,7 @@ This is a simple to use PIR motion sensor with Grove compatible interface\. Simp
 
 The detecting range and response speed can be adjusted by 2 potentiometers soldered on its circuit board, The response speed is from 0\.3s \- 25s, and max 6 meters of detecting range\.
 
+## Additional information
+
+**Code**: G23401
+

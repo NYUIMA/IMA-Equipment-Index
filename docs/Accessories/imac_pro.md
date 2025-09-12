@@ -1,14 +1,14 @@
 ---
-title: "iMac"
+title: "iMac Pro"
 sidebar_position: 18
 tags:
     - "Computer"
-image: "/img/accessories/imac.png"
+image: "/img/accessories/imac_pro.png"
 description: "Brand: Apple, Model: M1 24inch"
 ---
-# iMac
+# iMac Pro
 
-![imac](/img/accessories/imac.png)
+![imac_pro](/img/accessories/imac_pro.png)
 
 ## Basic information
 
@@ -43,4 +43,8 @@ Apple M1 chip with 8\-core CPU with 4 performance cores and 4 efficiency cores, 
  Magic Mouse
 
  Magic Keyboard with Touch ID \- Chinese
+
+## Additional information
+
+**Code**: IMACP1
 

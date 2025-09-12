@@ -44,3 +44,7 @@ Documents
 
 More information about gas sensor, please refer to this manual\.
 
+## Additional information
+
+**Code**: G13101
+

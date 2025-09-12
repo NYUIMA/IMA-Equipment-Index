@@ -70,3 +70,7 @@ Note:
 
 When plugin the fpc programming cable to DFRobot FPC programmer and cheapDuino, please the blue side facing upward\.
 
+## Additional information
+
+**Code**: E34001
+

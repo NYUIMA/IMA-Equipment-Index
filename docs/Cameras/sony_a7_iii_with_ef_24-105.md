@@ -46,3 +46,7 @@ Advanced 24\.2MP BSI full frame Image Sensor w/ 1\.8X readout speed
 
  693 phase detection / 425 contrast AF points w/ 93 percent image coverage\. Focus sensor: Exmor R CMOS sensor
 
+## Additional information
+
+**Code**: U2A001
+

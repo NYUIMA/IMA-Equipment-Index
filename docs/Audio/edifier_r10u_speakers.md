@@ -32,3 +32,7 @@ Main Features:
 
 ● The best partner for PC, laptop, MP3, mobile phone, CD, DVD player
 
+## Additional information
+
+**Code**: C1E001
+

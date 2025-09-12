@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 This kit is used for one way wireless communication at a frequency of 433MHz and includes a transmitter module and a receiver module\. The twig configuration of this kit allows for around 40 meters of transmitting distance indoors, or around 100 meters outside\.
 
+## Additional information
+
+**Code**: G24001
+

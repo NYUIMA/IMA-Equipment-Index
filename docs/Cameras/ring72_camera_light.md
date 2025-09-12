@@ -32,3 +32,7 @@ description: "Brand: Godox, Model: Ring72"
 
 Get ready for your close\-ups with the RING72 Macro Ring LED Light from Godox\. Equipped with 72 daylight\-balanced 5600K LEDs, photographers and videographers can enjoy a bright constant light source with an effective close\-up range\. Also, the circular design helps evenly illuminate small macro subjects as well as create beautiful catchlights for portraits\. For added control over the light, users can choose between having the entire ring on or just the left or right side, allowing users to control how the light falls on the subject\.
 
+## Additional information
+
+**Code**: D6D001
+

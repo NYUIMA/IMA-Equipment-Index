@@ -26,3 +26,7 @@ The XL6009 DC / DC step\-up voltage stabilizer is assembled as a module based on
 
  OUT \+ and OUT\-: output voltage 5 \- 35 V
 
+## Additional information
+
+**Code**: E17501
+

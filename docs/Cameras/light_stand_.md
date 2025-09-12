@@ -18,3 +18,7 @@ description: "Brand: None, Model: None"
 
 ADJUSTABLE TRIPOD: Extending to 1m the stable tripod can be adjusted to the height you need to get the perfect shot\. At 1m this tripod will easily accommodate most situations, giving you the flexibility to create a setting that’s just right\.
 
+## Additional information
+
+**Code**: TG000001
+

@@ -26,3 +26,7 @@ The InVision On\-Camera Shockmount from Rycote is designed to affix compatible m
 
 This shockmount uses patented Lyre technology to securely hold mics in the inner\-molded clip, and to suspend the microphone, thus protecting it from shock and handling noise\. The mount is specifically sized to keep the microphone out of your shot\. It also gives you the option to attach your microphone to boompoles with a 3/8"\-16 mount\.
 
+## Additional information
+
+**Code**: C3F001
+

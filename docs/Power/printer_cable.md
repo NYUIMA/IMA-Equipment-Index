@@ -20,3 +20,7 @@ description: "Brand: Syncwrie, Model: None"
 
 Universal Compatibility \- Syncwire USB 2\.0 printer cable perfectly connects your printers, scanners such as Canon, Dell, Xerox, Samsung, HP, Lexmark, Epson, and other devices with Type\-B ports to a laptop, computer or other USB\-enabled devices\.
 
+## Additional information
+
+**Code**: J2A00001
+

@@ -16,3 +16,7 @@ description: "Brand: Google, Model: None"
 
 **Product page**: [https://store.google.com/ca/product/ethernet_adapter_fo...](https://store.google.com/ca/product/ethernet_adapter_for_chromecast)
 
+## Additional information
+
+**Code**: J1I00001
+

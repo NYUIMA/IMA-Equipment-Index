@@ -14,13 +14,7 @@ description: "Brand: DFRobot, Model: None"
 
 **Brand**: DFRobot
 
-**Product page**: 
-
-This is a retired product\. 
-
-\(unavailable link\) [https://store.arduino.cc/usa/arduino-yun](https://store.arduino.cc/usa/arduino-yun)
-
-[https://www.ebay.com/itm/356612680479?chn=ps&mkevt=1&mk...](https://www.ebay.com/itm/356612680479?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item)
+**Product page**: [https://docs.arduino.cc/retired/boards/arduino-yun/](https://docs.arduino.cc/retired/boards/arduino-yun/)
 
 **Documentation**: [https://www.arduino.cc/en/Guide/ArduinoYunLin](https://www.arduino.cc/en/Guide/ArduinoYunLin)
 
@@ -45,4 +39,8 @@ NB: Yun Release 5 The new Arduino Yun R5 differs substantially from the previous
 The power supply system provides 5V on AREF;
 
 The layout has been modified, adding two holes for USB signals and two holes for GP6 and GPIO13\(LED2\)\.
+
+## Additional information
+
+**Code**: E23001
 

@@ -24,3 +24,7 @@ Yellow , Green and Red dual color DotMatrix, Suitable for bread board\.
 
 Note: This matrix is not compatible with Rainbowduino\.
 
+## Additional information
+
+**Code**: G32001
+

@@ -1,6 +1,6 @@
 ---
 title: "Apple USB-C Digital AV Multiport Adapter"
-sidebar_position: 32
+sidebar_position: 31
 tags:
     - "Adapter"
 image: "/img/display/apple_usb-c_digital_av_multiport_adapter.png"
@@ -43,4 +43,8 @@ The USB\-C Digital AV Multiport Adapter lets you connect your USB\-C\-enabled Ma
  
 
  Use the standard USB port to connect devices such as your flash drive or camera or a USB cable for syncing and charging your iOS devices\. You can also connect a charging cable to the USB\-C port to charge your Mac or iPad Pro\.
+
+## Additional information
+
+**Code**: D2X00001
 

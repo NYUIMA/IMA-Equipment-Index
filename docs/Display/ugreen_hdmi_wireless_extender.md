@@ -1,6 +1,6 @@
 ---
 title: "UGreen HDMI Wireless Extender"
-sidebar_position: 44
+sidebar_position: 43
 tags:
     - "Adapter"
 image: "/img/display/ugreen_hdmi_wireless_extender.png"
@@ -31,4 +31,8 @@ description: "Brand: Ugreen, Model: None"
 ## Description
 
 UGREEN HDMI Wireless Extender 50 Meter Video Transmitter & Receiver 5GHz Wireless HDMI Dongle for TV PC PS5/4 HDMI VGA Extender
+
+## Additional information
+
+**Code**: D3K001
 

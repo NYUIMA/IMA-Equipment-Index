@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 Grove \- Recorder is based on ISD1820P, which can record 8~20 sec by set resistor and cycle play\. It can offers true single\-chip voice recording, no\-volatile storage\. Grove \- Recorder is 100K and the total 10s for Recorder\. This module is very easy to control, which can direct control by push button on board or by microcontroller\.
 
+## Additional information
+
+**Code**: G22501
+

@@ -22,3 +22,7 @@ description: "Brand: DFRobot, Model: None"
 
 This Infrared Proximity Sensor made by Sharp \(model: GP2Y0A41SKOF\) has an analog output which varies from 3\.1V \(4cm\) to 0\.3V \(30cm\) with a supply voltage between 4\.5 and 5\.5V DC\. This sensor is great for sensing objects up to 30 cm away\. It has a Japanese Solderless Terminal \(JST\) Connector which is compatible with our JST accessories\.
 
+## Additional information
+
+**Code**: G25201
+

@@ -36,3 +36,7 @@ No\-load: 5\-80rpm; rated: 0\-58rpm
 
 12V, 60W, 25rpm / 24V, 60W, 50rpm
 
+## Additional information
+
+**Code**: J5E001
+

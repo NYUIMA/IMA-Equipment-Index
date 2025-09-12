@@ -42,3 +42,7 @@ SPECIFICATION
 
 • \_x009f\_Grove I2C Interface
 
+## Additional information
+
+**Code**: G20401
+

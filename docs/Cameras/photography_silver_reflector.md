@@ -22,3 +22,7 @@ description: "Brand: Neewer, Model: None"
 
 Photography Studio Collapsible Multi Photo Disc Reflector\. Silver: for contrast and increase highlights\. The silver side is very reflective and brightens both shadows and highlights, but does not change the color of the available light\.
 
+## Additional information
+
+**Code**: D6B001
+

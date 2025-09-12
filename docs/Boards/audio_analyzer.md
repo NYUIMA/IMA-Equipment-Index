@@ -26,3 +26,7 @@ This module features the MSGEQ7 graphic equalizer display filter\.It will give y
 
 This module can be used to create sound visualizers, detect patterns in music or add sound activation to your microcontroller\.
 
+## Additional information
+
+**Code**: G52001
+

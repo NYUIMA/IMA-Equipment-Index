@@ -50,3 +50,7 @@ http://www\.seeedstudio\.com/depot/Grove\-Luminance\-Sensor\-p\-1941\.html
 
 http://www\.seeedstudio\.com/wiki/Grove\_\-\_Luminance\_Sensor
 
+## Additional information
+
+**Code**: G18301
+

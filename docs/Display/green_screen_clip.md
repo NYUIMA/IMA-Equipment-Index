@@ -26,3 +26,7 @@ Rubber End Grips keeping things extra secure
 
 Max opening 2"
 
+## Additional information
+
+**Code**: Q1J001
+

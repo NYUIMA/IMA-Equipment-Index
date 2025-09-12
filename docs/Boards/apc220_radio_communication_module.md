@@ -46,3 +46,7 @@ Embedded watch dog
 
 Size: 37 x 17 x 6\.5 mm \(1\.46x 0\.67x 0\.26 in\)
 
+## Additional information
+
+**Code**: G45001
+

@@ -14,13 +14,9 @@ description: "Brand: CHIHAI （驰海）, Model: None"
 
 **Brand**: CHIHAI （驰海）
 
-**Product page**: 
+**Product page**: [https://www.alibaba.com/product-detail/_1600179322769.h...](https://www.alibaba.com/product-detail/_1600179322769.html)
 
-\(original brand on Taobao, Chinese\) [https://item.taobao.com/item.htm?id=641181590224](https://item.taobao.com/item.htm?id=641181590224)
-
-\(english\) [https://www.alibaba.com/product-detail/_1600179322769.h...](https://www.alibaba.com/product-detail/_1600179322769.html)
-
-**Documentation**: \(Only chinese available\) [https://item.taobao.com/item.htm?id=641181590224](https://item.taobao.com/item.htm?id=641181590224)
+**Documentation**: [https://www.alibaba.com/product-detail/_1600179322769.h...](https://www.alibaba.com/product-detail/_1600179322769.html)
 
 ## Description
 
@@ -29,4 +25,8 @@ description: "Brand: CHIHAI （驰海）, Model: None"
 GA12\-N20 Motor\*1
 
 ZH1\.5 6P 15cm  6\-pin wire connector\*1
+
+## Additional information
+
+**Code**: G19301
 

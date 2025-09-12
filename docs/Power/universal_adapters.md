@@ -36,3 +36,7 @@ description: "Brand: Verbatim, Model: 65686.0"
 
  Acquired multi\-national safety certificates and adopted 4 protection systems to ensure safety use""
 
+## Additional information
+
+**Code**: J2K001
+

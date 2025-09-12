@@ -36,3 +36,7 @@ Description:
 
 4\. Solenoids of this category work externally through pulling pushing i\_n plunger\.
 
+## Additional information
+
+**Code**: J3G001
+

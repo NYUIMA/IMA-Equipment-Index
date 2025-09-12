@@ -110,3 +110,7 @@ Recharging Method: Recharging through USB interface
 
 Dimensions:105mm x 53mm x 8mm
 
+## Additional information
+
+**Code**: E52001
+

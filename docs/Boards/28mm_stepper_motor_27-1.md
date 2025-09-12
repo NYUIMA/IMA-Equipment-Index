@@ -16,9 +16,15 @@ description: "Brand: HANPOSE, Model: 17HS2408S-PG27"
 
 **Model**: 17HS2408S-PG27
 
+**Product page**: [https://www.amazon.com/17HS2408S-PG5-18-Extruder-Steppe...](https://www.amazon.com/17HS2408S-PG5-18-Extruder-Stepper-Optional-Planetary/dp/B0DYX6YQ79?th=1)
+
 **Documentation**: [https://hanpose.en.made-in-china.com/product/AjdJWyKElF...](https://hanpose.en.made-in-china.com/product/AjdJWyKElFhl/China-14-1-19-1-27-1-Reduction-Ratio-2408-Gear-Stepper-Motor-0-6A.html)
 
 ## Description
 
 Reduction ratio: 27:1
+
+## Additional information
+
+**Code**: J5C001
 

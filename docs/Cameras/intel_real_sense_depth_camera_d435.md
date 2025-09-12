@@ -16,7 +16,7 @@ description: "Brand: Intel, Model: D435"
 
 **Model**: D435
 
-**Product page**: [https://store.intelrealsense.com/buy-intel-realsense-de...](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d435.html?_ga=2.19093368.1337782850.1629090569-2088768677.1629090569)
+**Product page**: [https://store.realsenseai.com/buy-intel-realsense-depth...](https://store.realsenseai.com/buy-intel-realsense-depth-camera-d435.html)
 
 **Documentation**: [https://www.intelrealsense.com/depth-camera-d435/?_ga=2...](https://www.intelrealsense.com/depth-camera-d435/?_ga=2.19093368.1337782850.1629090569-2088768677.1629090569)
 
@@ -45,4 +45,8 @@ The Intel® RealSense™ Depth Camera D400 Series uses stereo vision to calculat
  Dedicated color image signal processor for image adjustments and scaling color data\.
 
  Active infrared projector to illuminate objects to enhance the depth data\.
+
+## Additional information
+
+**Code**: A1L001
 

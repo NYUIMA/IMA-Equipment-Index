@@ -38,3 +38,7 @@ Interface: Analog
 
 Size:22x30mm
 
+## Additional information
+
+**Code**: G23201
+

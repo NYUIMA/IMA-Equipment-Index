@@ -16,5 +16,15 @@ description: "Brand: YONGNUO, Model: YN600"
 
 **Model**: YN600
 
-**Product page**: [https://www.aliexpress.com//item/1005002344687127.html/...](https://www.aliexpress.com//item/1005002344687127.html/_____tmd_____/punish?x5secdata=xcEt28ZKiq2aBAQJL0pq5eVg%2fEOnweplm5rFu4W64UEs8wgPTZ%2bhcGmy%2bY%2fR2oi1yFrdCijmozare4OBEqc33w2G1%2bKJmC8QiVsFBne7JDnXo%2fFpkyLStcdg8UZcGORacWzGq65e4Gkmo6J1LQGng9x8DaD%2bJ%2fu8WBVbDbiNVC6Rma23igd4fT4yHkOSZ3iS3hCOyat7%2fXeicAiaxlGTEqDDOWALSixL4KX2o0qnkdTCL6Bx34Ocu5aCMhBOnv4qyF09N2FC8UPlHtBKOkBmkXo44hltJMlc2gdt3wFO%2fJubo%3d__bx__www.aliexpress.com%2fitem%2f1005002344687127.html&x5step=1)
+**Product page**: [https://www.aliexpress.com/i/1005002344687127.html](https://www.aliexpress.com/i/1005002344687127.html)
+
+## Description
+
+Color Correction:White and Orange CT Filters offer color correction for various lighting conditions\.
+
+Easy to Use:The CT Filter is user\-friendly, allowing for quick and easy adjustments to your lighting setup\.
+
+## Additional information
+
+**Code**: D6J001
 

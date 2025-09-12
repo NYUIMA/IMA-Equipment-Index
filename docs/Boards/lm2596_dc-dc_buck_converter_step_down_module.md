@@ -16,7 +16,7 @@ description: "Brand: None, Model: LM2596"
 
 **Product page**: [https://www.amazon.com/LM2596-Converter-Module-Supply-1...](https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0)
 
-**Documentation**: \(datasheet for the chip LM2596, not the module\) [https://www.ti.com/lit/ds/symlink/lm2596.pdf](https://www.ti.com/lit/ds/symlink/lm2596.pdf)
+**Documentation**: [https://www.instructables.com/How-to-Use-DC-to-DC-Buck-...](https://www.instructables.com/How-to-Use-DC-to-DC-Buck-Converter-LM2596/)
 
 ## Description
 
@@ -29,4 +29,8 @@ LM2596 DC\-DC Buck Converter Step Down Module
  Input: DC 3V to 40V \(input voltage must be higher than the output voltage to 1\.5v above can not boost\)
 
  Output: DC 1\.5V to 35V voltage continuously adjustable, high\-efficiency maximum output current of 3A\.
+
+## Additional information
+
+**Code**: E17401
 

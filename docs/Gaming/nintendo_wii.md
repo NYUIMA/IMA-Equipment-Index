@@ -20,8 +20,6 @@ description: "Brand: Nintendo, Model: Nunchuk Wii"
 
 **Documentation**: 
 
-[https://www.nintendo.com/consumer/manuals/wii.jsp](https://www.nintendo.com/consumer/manuals/wii.jsp)
-
 [https://projecthub.arduino.cc/infusion/using-a-wii-nunc...](https://projecthub.arduino.cc/infusion/using-a-wii-nunchuk-with-arduino-5ec5b7)
 
 
@@ -61,4 +59,8 @@ Code Reference:
 
 
 https://github\.com/todocono/wiichuck
+
+## Additional information
+
+**Code**: B4E001
 

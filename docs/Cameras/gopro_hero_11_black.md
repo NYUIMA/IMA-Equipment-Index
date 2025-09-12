@@ -36,3 +36,7 @@ description: "Brand: GoPro, Model: HERO 11 Black"
 
 Get incredible highlight videos sent to your phone automatically with the HERO11 Black\. Its new, larger image sensor captures more of the scene with higher image quality, letting you instantly share vertical shots to social media\. HyperSmooth 5\.0 features AutoBoost and Horizon Lock built\-in, ensuring your smoothest, most stunning shots yet\. New Night Effects let you get creative after dark, and 10\-bit color brings all your videos to life\. All this and more make HERO11 Black the most powerful GoPro yet\.
 
+## Additional information
+
+**Code**: B5B001
+

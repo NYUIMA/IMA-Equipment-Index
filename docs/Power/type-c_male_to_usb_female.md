@@ -20,3 +20,7 @@ description: "Brand: Ugreen, Model: None"
 
 Allows you to connect flash drive, keyboard, mouse, pen drives, game controller, wireless mice or even some SD TF card reader to USB C mobile devices\. \(Black\)
 
+## Additional information
+
+**Code**: DRA001
+

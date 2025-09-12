@@ -34,3 +34,7 @@ Application: 3D Printer
 
  Number of Poles: 6
 
+## Additional information
+
+**Code**: J5F001
+

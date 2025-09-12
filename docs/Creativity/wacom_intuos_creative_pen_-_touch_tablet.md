@@ -32,3 +32,7 @@ description: "Brand: Wacom, Model: CTH480"
 
 With the medium\-sized Intuos drawing tablet, you'll enjoy making digital art with the comfort, precision, and feel of working with traditional media\. This tablet lets you create expressively and intuitively with your computer, whether you're sketching or drawing, editing photos, or painting in Adobe Photoshop, Corel Painter, InDesign and more\. The tablet measures 10\.8\-by\-8\.8 inches, giving you a generous digital canvas for art, painting, and photo\-editing projects, and allowing for broader pen strokes and fluid arm movements\. Comes complete with a variety of easy\-to\-use creative software to help you edit and add funky effects to photos, and sketch, doodle or draw with that familiar pen\-on\-paper feel\. Autodesk Sketchbook Express and ArtRage Studio are included\.
 
+## Additional information
+
+**Code**: D1B001
+

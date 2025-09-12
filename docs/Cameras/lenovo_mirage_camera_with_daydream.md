@@ -32,3 +32,7 @@ Capture, share, and relive
 
 Mirage Camera is the simplest way to capture life's special moments in VR video and photos – so you can relive them later as if you were there all over again\. Its VR180 format integrates easily with YouTube and Google Photos, so sharing with friends and family is a breeze\. Capture, share, and relive like never before\.
 
+## Additional information
+
+**Code**: A1F001
+

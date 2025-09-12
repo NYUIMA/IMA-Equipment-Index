@@ -60,3 +60,7 @@ Operating Temperature:  \-40°C \- 60°C \(\-40°F \- 140°F\)\*
 
 \* Force reading change per degree of temperature change =  0\.36%/ºC \(±0\.2%/ºF\)
 
+## Additional information
+
+**Code**: G10501
+

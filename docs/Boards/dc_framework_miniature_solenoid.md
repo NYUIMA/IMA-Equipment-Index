@@ -62,3 +62,7 @@ Storage temperature: \-40°C to 75°C in between, the solenoid valve will not so
 
 Storage Humidity: 0% to 95%, the solenoid valve will not solidification\.
 
+## Additional information
+
+**Code**: G65001
+

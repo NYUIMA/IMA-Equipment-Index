@@ -54,3 +54,7 @@ Application Ideas
 
  Can be used with mbed microcontroller
 
+## Additional information
+
+**Code**: G21301
+

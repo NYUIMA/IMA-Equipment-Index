@@ -28,3 +28,7 @@ Its heart is a dual channel H\-bridge driver chip that can handle current up to 
 
 The easy software interface is not the only easy\-to\-use feature because the I2C motor driver is designed to get you up and running in notime\. It features a LED for power and four LED's to indicate if and to which direction each motor is running\. Screw terminals facilitate motor and power connections, and the GROVE system plug and I2C interface enables you to daisy\-chain the driver with many other devices\.
 
+## Additional information
+
+**Code**: G14201
+

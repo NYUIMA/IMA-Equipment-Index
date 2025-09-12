@@ -40,3 +40,7 @@ It has 14 digital input/output pins \(of which 6 can be used as PWM outputs\), 8
 
 The DFRduino Pro Mini is intended for semi\-permanent installation in objects or exhibitions\. The board comes without pre\-mounted headers, allowing the use of various types of connectors or direct soldering of wires\. The pin layout is compatible with the Arduino Mini\.
 
+## Additional information
+
+**Code**: E44001
+

@@ -72,3 +72,7 @@ Reset: PIN11, active if it’s input low level\. It can be suspended in using\.
 
 Level: Civil
 
+## Additional information
+
+**Code**: G55001
+

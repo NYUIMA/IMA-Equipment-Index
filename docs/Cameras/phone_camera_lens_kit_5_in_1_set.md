@@ -44,3 +44,7 @@ description: "Brand: None, Model: None"
 
  \* ✅ GUARANTEED CUSTOMER SATISFACTION\. At AJF Sweden we believe in excellent customer service which means that if there should be ANY problem regarding the 5 in 1 lens kit that has been caused by us we will happily resolve that issue by either offering a discount or a completely free kit sent to you immediately\. We always leave a 30\-day money back guarantee and 90\-day replacement free of charge\.
 
+## Additional information
+
+**Code**: A1G001
+

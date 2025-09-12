@@ -1,6 +1,6 @@
 ---
 title: "Apple USB-C VGA Multiport Adapter"
-sidebar_position: 33
+sidebar_position: 32
 tags:
     - "Adapter"
 image: "/img/display/apple_usb-c_vga_multiport_adapter.png"
@@ -16,7 +16,7 @@ description: "Brand: Apple, Model: USB-C VGA Multiport Adapter"
 
 **Model**: USB-C VGA Multiport Adapter
 
-**Product page**: [https://www.apple.com/shop/product/MJ1L2AM/A/usb-c-vga-...](https://www.apple.com/shop/product/MJ1L2AM/A/usb-c-vga-multiport-adapter)
+**Product page**: [https://web.archive.org/web/20200505175827/https://www....](https://web.archive.org/web/20200505175827/https://www.apple.com/shop/product/MJ1L2AM/A/usb-c-vga-multiport-adapter)
 
 ## Description
 
@@ -29,4 +29,8 @@ The USB\-C VGA Multiport Adapter lets you connect your USB\-C or Thunderbolt 3 \
  
 
  Use the standard USB port to connect devices such as your flash drive or camera or a USB cable for syncing and charging your iPhone, iPad, or iPod\. You can also connect a charging cable to the USB\-C port to charge your Mac or iPad Pro\.
+
+## Additional information
+
+**Code**: D2Y00001
 

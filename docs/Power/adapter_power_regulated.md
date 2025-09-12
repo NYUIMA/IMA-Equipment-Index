@@ -24,3 +24,7 @@ INPUT: 100V\-240V 50/60Hz
 
  OUTPUT: DC\- 3~12V\-5A
 
+## Additional information
+
+**Code**: J2D001
+

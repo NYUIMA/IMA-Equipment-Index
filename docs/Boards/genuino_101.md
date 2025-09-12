@@ -82,3 +82,7 @@ Schematic\(https://www\.arduino\.cc/en/uploads/Main/Arduino101\-REV4Schematic\.p
 
 Arduino Forum\(https://forum\.arduino\.cc/index\.php?board=103\.0\)
 
+## Additional information
+
+**Code**: E75001
+

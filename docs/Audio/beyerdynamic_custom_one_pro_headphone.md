@@ -36,3 +36,7 @@ Frequency response \- 10 \- 24, 000 Hz and impedance \- 16 ohms\.
 
  High quality\.
 
+## Additional information
+
+**Code**: C5E001
+

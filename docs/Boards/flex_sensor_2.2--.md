@@ -34,3 +34,7 @@ Connector is 0\.1" spaced and bread board friendly\. Check datasheet for full sp
 
 Note: Please refrain from flexing or straining this sensor at the base\. The usable range of the sensor can be flexed without a problem, but care should be taken to minimize flexing outside of the usable range\. For best results, securely mount the base and bottom portion and only allow the actual flex sensor to flex\.
 
+## Additional information
+
+**Code**: G10101
+

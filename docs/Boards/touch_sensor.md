@@ -22,3 +22,7 @@ description: "Brand: Grove, Model: None"
 
 This is a simple touch sensor module\. You can use it to replace a traditional push button\. Using the TTP223\-B touch detector IC It measures the capacitance of a metallic pad\. It can detect the change in capacitance when a finger is near it\. This is the same technology used in the iPhone touch screen\. So you can place the metallic pad under a non\-metallic surface such as a plastic or glass sheet and it will still work as a button\. This may be useful for projects that need to be waterproof\. You can also make a secret button by placing it inconspicuously behind a smooth surface\. For instance you could place them under a nonmetallic card table and by casually pressing the right location on a tabletop surface you could mysteriously control your DIY project\.
 
+## Additional information
+
+**Code**: G28301
+

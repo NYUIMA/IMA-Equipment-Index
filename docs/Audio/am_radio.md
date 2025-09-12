@@ -24,3 +24,7 @@ description: "Brand: Indin, Model: R21"
 
 Frequency range: fm: 88\-108mhz, am: 530\-1600khz telescopic antenna, have standard earphones jack power: dc 3v aax2 batteries \(battery not included\) high\-performance am/fm radio receiver
 
+## Additional information
+
+**Code**: J3E001
+

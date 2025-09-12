@@ -30,3 +30,7 @@ The LiPo Rider Pro is extremely affordable and easy to use\. No programming is r
 
 In case solar power is not sufficient, the mini USB port allows you to charge your lithium battery through USB\. It can also be used to program your kit without detaching the LiPo Rider Pro board\.
 
+## Additional information
+
+**Code**: E10101
+

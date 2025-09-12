@@ -76,3 +76,7 @@ Model: 17HS2408S
 
  Blue: B\-
 
+## Additional information
+
+**Code**: J5H001
+

@@ -28,3 +28,7 @@ Add motion, direction and orientation sensing to your wearable FLORA project wit
 
  When we saw the new LSM9DS0 from ST micro we thought \- wow this could really make some wearables super smart\. Design your own activity or motion tracker with all the data\! The sensor has a digital \(I2C\) interface\. Attaching it to the FLORA is simple: line up the sensor so its adjacent to the SDA/SCL pins and sew conductive thread from the 3V, SDA, SCL and GND pins\. They line up perfectly so you will not have any crossed lines\. You can only connect one of these sensors to your FLORA, but you can connect other I2C sensors/outputs by using the set of SCL/SDA pins on the opposite side\.
 
+## Additional information
+
+**Code**: E74001
+

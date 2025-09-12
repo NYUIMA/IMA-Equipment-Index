@@ -26,3 +26,7 @@ The LilyPad ProtoSnap Plus Kit is an all\-in\-one e\-textile prototyping kit tha
 
 At the center of the ProtoSnap Plus is the LilyPad USB Plus microcontroller, pre\-wired to a LilyPad board including a LilyPad Light Sensor, LilyPad Buzzer, LilyPad Button Board, four pairs of colored LilyPad LEDs and a LilyPad Slide Switch\. Because these components are connected together on the ProtoSnap board, you can test out your project ideas before you sew\. The ProtoSnap Plus also includes expansion ports that let you sew your wearables together or use alligator cables to easily connect external sensors and components\. After testing out your coding ideas using the attached LilyPad pieces, you can break apart the prototyping board and sew them into your project\!
 
+## Additional information
+
+**Code**: E94001
+

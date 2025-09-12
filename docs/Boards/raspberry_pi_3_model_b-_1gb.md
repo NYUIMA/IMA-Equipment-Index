@@ -26,3 +26,7 @@ The final revision of our third\-generation single\-board computer
 
 1\.4GHz 64\-bit quad\-core processor, dual\-band wireless LAN, Bluetooth 4\.2/BLE, faster Ethernet, and Power\-over\-Ethernet support \(with separate PoE HAT\)
 
+## Additional information
+
+**Code**: E15201
+

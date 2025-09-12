@@ -48,3 +48,7 @@ These sensors are available to measure absolute, differential and gage pressures
 
 The ASDX Series sensors are intended for use with non\-corrosive, non\-ionic working fluids such as air and dry gases\. They are designed and manufactured according to standards in ISO 9001\.
 
+## Additional information
+
+**Code**: G51001
+

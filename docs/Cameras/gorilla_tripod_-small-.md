@@ -20,3 +20,7 @@ description: "Brand: Kamisafe, Model: None"
 
 Gorilla tripod is a lightweight, flexible tripod, which easily attaches your mirrorless camera or cellphone to any pole or tree so you always get the perfect angle wherever you are\.
 
+## Additional information
+
+**Code**: Q1C001
+

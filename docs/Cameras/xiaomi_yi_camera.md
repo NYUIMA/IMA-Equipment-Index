@@ -38,3 +38,7 @@ Support Micro SD Card\(up to 64GB, need to buy separately\) Recommend to use Gla
 
 Support Android Only
 
+## Additional information
+
+**Code**: B1D001
+

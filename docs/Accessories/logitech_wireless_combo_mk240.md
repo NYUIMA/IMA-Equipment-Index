@@ -24,3 +24,7 @@ description: "Brand: Logitech, Model: MK240"
 
 Colorful and compact\. Wireless and wow\. A keyboard and mouse set with tiny plug\-and\-play USB receiver offers comfort and quality in a space\-saving design\.
 
+## Additional information
+
+**Code**: D4F001
+

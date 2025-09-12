@@ -62,3 +62,7 @@ Schematics\(https://github\.com/Arduinolibrary/DFRobot\_Proto\_Shield/raw/master
 
 Wiki / tutorial\(https://www\.dfrobot\.com/wiki/index\.php/Prototyping\_Shield\_For\_Arduino\)
 
+## Additional information
+
+**Code**: E13201
+

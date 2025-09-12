@@ -28,3 +28,7 @@ Stepper motor driver Allegro’s A4988 DMOS Micro\-stepping Driver with adjustab
 
  The driver requires a logic supply voltage \(3 – 5\.5 V\) and a motor supply voltage \(8 – 35 \)V\. It can deliver up to approximately 1 A per phase without a heat sink or forced air flow \(it is rated for 2 A per coil with sufficient additional cooling\)\.
 
+## Additional information
+
+**Code**: E16501
+

@@ -22,3 +22,7 @@ description: "Brand: Microsoft, Model: None"
 
 The Kinect for Windows SDK enables developers to create applications that support gesture and voice recognition, using Kinect sensor technology on computers running Windows 7, Windows 8 developer preview \(desktop apps only\), and Windows Embedded\-based devices\.
 
+## Additional information
+
+**Code**: B1A001
+

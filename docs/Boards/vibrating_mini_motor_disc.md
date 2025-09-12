@@ -32,3 +32,7 @@ Two wires are used to control/power the vibe\. Simply provide power from a batte
 
 If you want to reduce the current draw/strength \(for example, to control it directly from an Arduino pin\) try putting a resistor \(100 to 1000 ohms\) in series\. For full power control, a small PN2222 transistor can control a motor easily, some experimentation may be required\!
 
+## Additional information
+
+**Code**: G29201
+

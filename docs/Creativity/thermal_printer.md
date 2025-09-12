@@ -46,3 +46,7 @@ CCC Certificate No\.: 2008010904299200
 
  Output method: USB cable
 
+## Additional information
+
+**Code**: F4E001
+

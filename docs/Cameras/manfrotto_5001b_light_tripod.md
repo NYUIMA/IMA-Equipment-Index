@@ -32,3 +32,7 @@ This intuitively designed camera stand comes in 5 sections and is complete with 
 
 Flexible and practical, the Nano Black Stand has a 100cm footprint\. It extends an impressive maximum height of 190cms and folds to a portable 49cms\. It also comes with standard and easily compatible attachments, including a 16mm male top stud, and a 9\.5mm or 6\.4mm thread\. The simple solution for photographers on\-the\-go\.
 
+## Additional information
+
+**Code**: Q2A00001
+

@@ -40,3 +40,7 @@ Sensor connection Note：Red Line    \-\- E\+
 
                                                 White Line  \-\- S\-
 
+## Additional information
+
+**Code**: G30201
+

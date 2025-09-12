@@ -22,3 +22,7 @@ description: "Brand: DFRobot, Model: None"
 
 This SHARP infrared distance sensor takes a continuous distance reading and returns a corresponding analog voltage with a range of 20cm \(8"\) to 150cm \(60"\)\.It can be usually applied as obstacle avoidance and path planning sensor\.
 
+## Additional information
+
+**Code**: G25301
+

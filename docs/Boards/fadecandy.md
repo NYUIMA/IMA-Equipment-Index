@@ -46,3 +46,7 @@ Fadecandy is designed to enable art that is subtle, interactive, and playful \- 
 
 It's also battle tested\! The firmware was originally developed to run the Ardent Mobile Cloud Platform\(http://scanlime\.org/2013/09/the\-ardent\-mobile\-cloud\-platform/\), a Burning Man project which used 2500 LEDs to project ever\-changing rolling cloud patterns onto the interior of a translucent plastic sculpture\. It used five Fadecandy boards, a single Raspberry Pi, and the effects were written in a mixture of C and Python\. The lighting on this project blew people away, and it made me realize just how much potential there is for creative lighting, but it takes significant technical drudgery to get beyond frenetic\-rainbow\-fade into territory where the lighting can really add to an art piece instead of distracting from it\.
 
+## Additional information
+
+**Code**: G93001
+

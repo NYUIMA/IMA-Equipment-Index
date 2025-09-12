@@ -20,3 +20,11 @@ description: "Brand: Zhongling, Model: 9601.0"
 
 **Documentation**: [https://www.teachengineering.org/content/csu_/activitie...](https://www.teachengineering.org/content/csu_/activities/csu_reverse/csu_reverse_activity1_studentexample_v2_tedl.pdf)
 
+## Description
+
+Portable, High Lumens, High Power, Rechargeable
+
+## Additional information
+
+**Code**: D6F001
+

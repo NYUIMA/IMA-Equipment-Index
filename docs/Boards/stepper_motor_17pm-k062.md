@@ -20,5 +20,7 @@ description: "Brand: None, Model: 17PM-K062"
 
 \(chinese alternative\) [https://item.taobao.com/item.htm?abbucket=9&id=55709346...](https://item.taobao.com/item.htm?abbucket=9&id=557093462863)
 
-**Documentation**: [https://www.eminebea.com/en/product/rotary/steppingmoto...](https://www.eminebea.com/en/product/rotary/steppingmotor/hybrid/standard/17pm-k.shtml)
+## Additional information
+
+**Code**: J5I001
 

@@ -16,3 +16,7 @@ description: "Brand: None, Model: XH-M660"
 
 **Product page**: [https://www.alibaba.com/product-detail/XH-M660-timer-sw...](https://www.alibaba.com/product-detail/XH-M660-timer-switch-socket-countdown_62130425354.html)
 
+## Additional information
+
+**Code**: J4C001
+

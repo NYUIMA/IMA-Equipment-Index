@@ -24,3 +24,7 @@ description: "Brand: Dell, Model: KB-216"
 
 The Custom Keyboard Cover from Protect™ Computer Products protects your Dell KB212\-B Keyboard from liquid spills, dust, chemicals, bacteria, and aides in cleaning as well as infection control\. The cover is manufactured from UV resistant polyurethane 10\.5 mil thin material\. The cover will remain securely in place during use and can be easily cleaned with common household cleaners or germicidal wipes\.
 
+## Additional information
+
+**Code**: D4D001
+

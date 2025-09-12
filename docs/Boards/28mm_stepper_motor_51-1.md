@@ -16,11 +16,15 @@ description: "Brand: HANPOSE, Model: 17HS2408S-PG51"
 
 **Model**: 17HS2408S-PG51
 
-**Product page**: [https://www.aliexpress.com/item/4000144047453.html](https://www.aliexpress.com/item/4000144047453.html)
+**Product page**: [https://www.amazon.com/17HS2408S-PG5-18-Extruder-Steppe...](https://www.amazon.com/17HS2408S-PG5-18-Extruder-Stepper-Optional-Planetary/dp/B0DYYB83ZD?th=1)
 
 **Documentation**: [https://hanpose.en.made-in-china.com/product/NCZEcyvuiw...](https://hanpose.en.made-in-china.com/product/NCZEcyvuiwhH/China-51-1-71-1-139-1-100-1-Reducer-Motor-2408-Stepping-Motor.html)
 
 ## Description
 
 Reduction ratio: 51:1
+
+## Additional information
+
+**Code**: J5D001
 

@@ -30,3 +30,7 @@ The only downside is they use the Dallas 1\-Wire protocol, which is somewhat com
 
 We toss in a 4\.7k resistor, which is required as a pullup from the DATA to VCC line when using the sensor\. We don't have a detailed tutorial up yet but you can get started by using the Dallas Temperature Control Arduino library which requires also the OneWire Library\.
 
+## Additional information
+
+**Code**: G29501
+

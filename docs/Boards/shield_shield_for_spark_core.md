@@ -30,3 +30,7 @@ The Spark Core is an Arduino\-compatible, Wi\-Fi enabled, cloud\-powered develop
 
 This shield is essentially an adapter that allows the user to connect Arduino compatible shields to the Spark Core\. There are two functions that this shield performs: pin mapping of the Spark Core to the Arduino pin layout and voltage translation of 3\.3V to/from 5V\.
 
+## Additional information
+
+**Code**: G25212
+

@@ -28,3 +28,7 @@ This camera light is formed by 150 LED lamp beads with 5500K color temperature a
 
 Also includes Professional Lighting Support Tripod
 
+## Additional information
+
+**Code**: D5B001
+

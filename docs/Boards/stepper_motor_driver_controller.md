@@ -96,3 +96,7 @@ DOCUMENTS
 
 WIKI \(TB6600 Stepper Motor Driver\)\(https://www\.dfrobot\.com/category\-35\.html\)
 
+## Additional information
+
+**Code**: G27301
+

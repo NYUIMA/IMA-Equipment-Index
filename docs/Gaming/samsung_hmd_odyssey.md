@@ -36,3 +36,7 @@ Premium built in AKG headphones won’t shake loose during gameplay\. With rich 
 
  Windows Mixed Reality requires a compatible Windows 10 PC and headset, plus the Windows 10 Fall Creators Update
 
+## Additional information
+
+**Code**: R1C001
+

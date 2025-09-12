@@ -14,3 +14,11 @@ description: "Brand: None, Model: None"
 
 **Product page**: [https://www.amazon.com/Mediabridge-Ethernet-Cable-Feet-...](https://www.amazon.com/Mediabridge-Ethernet-Cable-Feet-31-399-25X/dp/B001W28L2Y/ref=sr_1_8?keywords=ethernet+cable&qid=1639022816&sr=8-8)
 
+## Description
+
+Easily handles the most demanding home use such as Gaming, High\-Definition Video Streaming, Cloud Computing etc\.
+
+## Additional information
+
+**Code**: F3F00001
+

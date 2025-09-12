@@ -30,3 +30,7 @@ description: "Brand: Samsung, Model: MZ-77E2T0B"
 
 SAMSUNG Electronics 870 EVO 2TB 2\.5 Inch SATA III Internal SSD \(MZ\-77E2T0B/AM\)
 
+## Additional information
+
+**Code**: D1G001
+

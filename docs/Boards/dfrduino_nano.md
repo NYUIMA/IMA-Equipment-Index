@@ -30,3 +30,7 @@ The DFRduino Nano USB Microcontroller V3\.1 \(ATMega 328\) is a breadboard ready
 
 The nano's pin layout works well with the Mini or the Basic Stamp \(TX, RX, ATN, GND on one top, power and ground on the other\)\. The DFRobot DFRduino Nano USB Microcontroller V3\.1 \(ATMega 328\) can be powered via the mini\-B USB connection, 6\-20V unregulated external power supply \(pin 30\), or 5V regulated external power supply \(pin 27\)\. The power source is automatically selected to the highest voltage source\.
 
+## Additional information
+
+**Code**: E43001
+

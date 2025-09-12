@@ -24,7 +24,7 @@ pagination_next: null
 | [Wireless Mouse](./wireless_mouse) | ![wireless_mouse](/img/accessories/wireless_mouse.png) |
 | [iPad Pro Stand](./ipad_pro_stand) | ![ipad_pro_stand](/img/accessories/ipad_pro_stand.png) |
 | [Samsung 2TB SSD with Ugreen Enclosure](./samsung_2tb_ssd_with_ugreen_enclosure) | ![samsung_2tb_ssd_with_ugreen_enclosure](/img/accessories/samsung_2tb_ssd_with_ugreen_enclosure.png) |
-| [iMac](./imac) | ![imac](/img/accessories/imac.png) |
+| [iMac Pro](./imac_pro) | ![imac_pro](/img/accessories/imac_pro.png) |
 | [Studio Windows PC(White)](./studio_windows_pc-white-) | ![studio_windows_pc-white-](/img/accessories/studio_windows_pc-white-.png) |
 | [Mini Full 1080p HD Media Player Box](./mini_full_1080p_hd_media_player_box) | ![mini_full_1080p_hd_media_player_box](/img/accessories/mini_full_1080p_hd_media_player_box.png) |
 | [Dell Keyboard KB-216-t](./dell_keyboard_kb-216-t) | ![dell_keyboard_kb-216-t](/img/accessories/dell_keyboard_kb-216-t.png) |
@@ -42,3 +42,6 @@ pagination_next: null
 | [iBUFFALO turbopcex Compatible Card Reader/Writer](./ibuffalo_turbopcex_compatible_card_reader-writer) | ![ibuffalo_turbopcex_compatible_card_reader-writer](/img/accessories/ibuffalo_turbopcex_compatible_card_reader-writer.png) |
 | [Type-c SD Card Reader](./type-c_sd_card_reader) | ![type-c_sd_card_reader](/img/accessories/type-c_sd_card_reader.png) |
 | [Ethernet Cable](./ethernet_cable) | ![ethernet_cable](/img/accessories/ethernet_cable.png) |
+| [Studio Windows PC(Black)](./studio_windows_pc-black-) | ![studio_windows_pc-black-](/img/accessories/studio_windows_pc-black-.png) |
+| [Pisen Type-c Hub](./pisen_type-c_hub) | ![pisen_type-c_hub](/img/accessories/pisen_type-c_hub.png) |
+| [USB Video Capture Card](./usb_video_capture_card) | ![usb_video_capture_card](/img/accessories/usb_video_capture_card.png) |

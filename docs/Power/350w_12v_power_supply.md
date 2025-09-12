@@ -32,3 +32,7 @@ description: "Brand: Mean Well, Model: LRS-350-12"
 
  Forced air cooling by built\-in DC fan""
 
+## Additional information
+
+**Code**: J2I001
+

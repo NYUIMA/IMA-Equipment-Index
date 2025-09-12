@@ -1,6 +1,6 @@
 ---
 title: "iMac"
-sidebar_position: 54
+sidebar_position: 53
 tags:
     - "Screen"
 image: "/img/display/imac.png"
@@ -29,4 +29,8 @@ description: "Brand: Apple, Model: None"
 ## Description
 
 The iMac is a series of all\-in\-one computers from Apple Inc\., sold as part of the company's Mac family of computers\. First introduced in 1998, it has remained a primary part of Apple's consumer desktop offerings since and evolved through seven distinct forms\. The iMac natively runs the macOS operating system\.
+
+## Additional information
+
+**Code**: IMACP1
 

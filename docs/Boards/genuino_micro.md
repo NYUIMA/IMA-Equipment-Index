@@ -56,3 +56,7 @@ EEPROM	1 KB
 
 Clock Speed	16 MHz
 
+## Additional information
+
+**Code**: E71001
+

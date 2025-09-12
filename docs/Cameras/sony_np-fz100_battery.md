@@ -24,3 +24,7 @@ description: "Brand: Sony, Model: NP-FZ100"
 
 NP\-FZ100 rechargeable battery has reliable high stamina and high power capacity of 7\.2 V/16\.4 Wh \(2,280 mAh\)\. Compatible with InfoLITHIUM\.
 
+## Additional information
+
+**Code**: N3D001
+

@@ -20,3 +20,7 @@ description: "Brand: Cable Matters Long, Model: None"
 
 High performance USB male to male cable connects computers with USB 3\.0 type A port \(backwards compatible with USB 2\.0 type A port\) to USB peripherals such as USB Switch and KVM Switch\.
 
+## Additional information
+
+**Code**: J1G00001
+

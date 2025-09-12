@@ -50,3 +50,7 @@ Version patch
 
 v1\.3 \- Improve the design of antenna to support up to 50m BLE communication by two Bluno nano
 
+## Additional information
+
+**Code**: E33001
+
