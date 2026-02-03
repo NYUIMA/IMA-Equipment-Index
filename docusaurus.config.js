@@ -4,55 +4,54 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'IMA Equipment Index',
+  title: "IMA Equipment Index",
   // tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: "https://your-docusaurus-site.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   // organizationName: 'facebook', // Usually your GitHub org/user name.
   // projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath:'/',
-          sidebarPath: './sidebars.js', 
-          numberPrefixParser:false
+          routeBasePath: "/",
+          sidebarPath: "./sidebars.js",
+          numberPrefixParser: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog:false,
+        blog: false,
         // blog: {
-          
+
         //   showReadingTime: true,
         //   feedOptions: {
         //     type: ['rss', 'atom'],
@@ -68,7 +67,7 @@ const config = {
         //   onUntruncatedBlogPosts: 'warn',
         // },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -80,10 +79,10 @@ const config = {
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'IMA Equipment Index',
+        title: "IMA Equipment Index",
         logo: {
-          alt: 'IMA Studio',
-          src: 'img/favicon.ico',
+          alt: "IMA Studio",
+          src: "img/favicon.ico",
         },
         items: [
           // {
@@ -99,18 +98,17 @@ const config = {
           //   position: 'right',
           // },
           {
-            to: '/tags',
-            label: 'All Categories',
-            position:'left'
+            to: "/tags",
+            label: "All Categories",
+            position: "left",
           },
           {
-            to: '/search',
-          }
-
+            to: "/search",
+          },
         ],
       },
       footer: {
-        style: 'light',
+        style: "light",
         // links: [
         //   {
         //     title: 'Docs',
@@ -163,21 +161,21 @@ const config = {
     [
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       require.resolve("@easyops-cn/docusaurus-search-local"),
-      ({
+      {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
-        indexBlog:false,
+        indexBlog: false,
         hashed: true,
-        docsRouteBasePath:"/",
-        ignoreFiles: "index.md"
+        docsRouteBasePath: "/",
+        ignoreFiles: "index.md",
         // For Docs using Chinese, it is recomended to set:
         // language: ["en", "zh"],
 
         // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
         // forceIgnoreNoIndex: true,
-      })
-    ]
-]
+      },
+    ],
+  ],
 };
 
 export default config;
