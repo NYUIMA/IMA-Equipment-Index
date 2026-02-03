@@ -169,11 +169,14 @@ def image_downloader(url: str, filedir: str) -> None:
     except FileNotFoundError:
         response = requests.get(url)
         if response.status_code != 200:
-            raise Exception(
+            with open(filedir, "wb") as file:
+                file.write(b"")
+            print(
                 f"Error: {response.status_code} while fetching {url} to save as {filedir}"
             )
-        with open(filedir, "wb") as file:
-            file.write(response.content)
+        else:
+            with open(filedir, "wb") as file:
+                file.write(response.content)
 
 
 # Function to generate a header for a Markdown file
