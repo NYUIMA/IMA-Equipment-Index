@@ -81,3 +81,4 @@ pagination_next: null
 | [Ugreen USB Desk Microphone](./ugreen_usb_desk_microphone) | ![ugreen_usb_desk_microphone](/img/audio/ugreen_usb_desk_microphone.png) |
 | [USB External Sound Adapter](./usb_external_sound_adapter) | ![usb_external_sound_adapter](/img/audio/usb_external_sound_adapter.png) |
 | [Speaker Stand](./speaker_stand) | ![speaker_stand](/img/audio/speaker_stand.png) |
+| [SHURE ULXD4D Digital Wireless Microphone Kit](./shure_ulxd4d_digital_wireless_microphone_kit) | ![shure_ulxd4d_digital_wireless_microphone_kit](/img/audio/shure_ulxd4d_digital_wireless_microphone_kit.png) |
