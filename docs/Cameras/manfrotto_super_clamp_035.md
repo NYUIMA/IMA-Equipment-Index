@@ -4,7 +4,7 @@ sidebar_position: 67
 tags:
     - "Tripods"
 image: "/img/cameras/manfrotto_super_clamp_035.png"
-description: "Brand: Manfrotto, Model: 35.0"
+description: "Brand: Manfrotto, Model: 35"
 ---
 # Manfrotto Super Clamp 035
 
@@ -14,7 +14,7 @@ description: "Brand: Manfrotto, Model: 35.0"
 
 **Brand**: Manfrotto
 
-**Model**: 35.0
+**Model**: 35
 
 **Product page**: [https://www.manfrotto.com/hk-en/super-photo-clamp-witho...](https://www.manfrotto.com/hk-en/super-photo-clamp-without-stud-aluminium-035/)
 

@@ -4,7 +4,7 @@ sidebar_position: 15
 tags:
     - "Computer Accessories"
 image: "/img/accessories/wireless_mouse.png"
-description: "Brand: Microsoft, Model: 1383.0"
+description: "Brand: Microsoft, Model: 1383"
 ---
 # Wireless Mouse
 
@@ -14,7 +14,7 @@ description: "Brand: Microsoft, Model: 1383.0"
 
 **Brand**: Microsoft
 
-**Model**: 1383.0
+**Model**: 1383
 
 **Product page**: [https://www.amazon.com/dp/B0025ZH43O/ref=twister_B00472...](https://www.amazon.com/dp/B0025ZH43O/ref=twister_B00472MELK?_encoding=UTF8&psc=1)
 

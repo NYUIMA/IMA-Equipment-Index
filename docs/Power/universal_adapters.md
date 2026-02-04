@@ -4,7 +4,7 @@ sidebar_position: 31
 tags:
     - "Adapter"
 image: "/img/power/universal_adapters.png"
-description: "Brand: Verbatim, Model: 65686.0"
+description: "Brand: Verbatim, Model: 65686"
 ---
 # Universal Adapters
 
@@ -14,7 +14,7 @@ description: "Brand: Verbatim, Model: 65686.0"
 
 **Brand**: Verbatim
 
-**Model**: 65686.0
+**Model**: 65686
 
 **Product page**: [https://www.lyreco.com/webshop/ENHK/verbatim-65686-5-po...](https://www.lyreco.com/webshop/ENHK/verbatim-65686-5-ports-travel-adaptor-black-product-000000000011220733.html?context=more-result)
 

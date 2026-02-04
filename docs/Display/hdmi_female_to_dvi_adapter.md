@@ -4,7 +4,7 @@ sidebar_position: 34
 tags:
     - "Adapter"
 image: "/img/display/hdmi_female_to_dvi_adapter.png"
-description: "Brand: Importer, Model: 520.0"
+description: "Brand: Importer, Model: 520"
 ---
 # HDMI Female to DVI Adapter
 
@@ -14,7 +14,7 @@ description: "Brand: Importer, Model: 520.0"
 
 **Brand**: Importer
 
-**Model**: 520.0
+**Model**: 520
 
 **Product page**: [https://www.amazon.com/Importer520-Plated-Female-DVI-D-...](https://www.amazon.com/Importer520-Plated-Female-DVI-D-Adapter/dp/B0035B4LJM?ref_=fsclp_pl_dp_1)
 

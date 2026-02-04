@@ -4,7 +4,7 @@ sidebar_position: 66
 tags:
     - "Tripods"
 image: "/img/cameras/manfrotto_244_variable_friction_arm_with_super_clamp_035.png"
-description: "Brand: Manfrotto, Model: 244.0"
+description: "Brand: Manfrotto, Model: 244"
 ---
 # Manfrotto 244 Variable Friction Arm with Super Clamp 035
 
@@ -14,7 +14,7 @@ description: "Brand: Manfrotto, Model: 244.0"
 
 **Brand**: Manfrotto
 
-**Model**: 244.0
+**Model**: 244
 
 **Product page**: [https://www.manfrotto.com/hk-en/photo-variable-friction...](https://www.manfrotto.com/hk-en/photo-variable-friction-arm-with-bracket-244/)
 
