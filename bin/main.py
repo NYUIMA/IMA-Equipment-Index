@@ -4,6 +4,7 @@ from os import makedirs
 from shutil import rmtree
 import json
 import os
+import sys
 from parsers import (
     item_parser,
     sheet_parser,
@@ -57,35 +58,30 @@ for ws in wb:
         # Append item details to the documentation index file
         with open(f"docs/{ws.title}/index.md", "a") as file:
             file.write(items_list_parser(item))
-        try:
-            if item.safe_name not in links_map[ws.title]:
+        if item.safe_name not in links_map[ws.title]:
+            links_map[ws.title][item.safe_name] = item.imageRemoteURL
+
+        if item.imageRemoteURL:
+            if links_map[ws.title][item.safe_name] != item.imageRemoteURL:
                 links_map[ws.title][item.safe_name] = item.imageRemoteURL
-
-            if item.imageRemoteURL:
-                if links_map[ws.title][item.safe_name] != item.imageRemoteURL:
-                    links_map[ws.title][item.safe_name] = item.imageRemoteURL
-                    downloaded = image_downloader(
-                        item.imageRemoteURL,
-                        f"static/img/{ws.title.lower()}/{item.safe_name}.png",
-                    )
-                    if not downloaded:
-                        FAILED = True
-            else:
-                image_loader.get(f"C{item.idx + 1}").save(
-                    f"static/img/{ws.title.lower()}/{item.safe_name}.png"
+                downloaded = image_downloader(
+                    item.imageRemoteURL,
+                    f"static/img/{ws.title.lower()}/{item.safe_name}.png",
                 )
-
-            # Generate and save the item's detailed documentation
-            md = item_parser(item)
-            with open(f"docs/{ws.title}/{item.safe_name}.md", "w") as file:
-                file.write(md)
-
-        # Handle errors during processing
-        except Exception as e:
-            print(
-                f"Error: item No. {item.idx} in worksheet {item.category} has a problem:\n{e}"
+                if not downloaded:
+                    print(
+                        f"Error: item No. {item.idx} in worksheet {item.category} has the above problem.\n"
+                    )
+                    FAILED = True
+        else:
+            image_loader.get(f"C{item.idx + 1}").save(
+                f"static/img/{ws.title.lower()}/{item.safe_name}.png"
             )
-            FAILED = True
+
+        # Generate and save the item's detailed documentation
+        md = item_parser(item)
+        with open(f"docs/{ws.title}/{item.safe_name}.md", "w") as file:
+            file.write(md)
 
     print("Finished")
 
@@ -93,3 +89,4 @@ for ws in wb:
 with open("links_map.json", "w") as links_map_file:
     json.dump(links_map, links_map_file, indent=2)
 print("-" * 30 + "\nAll done!")
+sys.exit(1)
