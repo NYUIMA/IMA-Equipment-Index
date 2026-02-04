@@ -162,21 +162,19 @@ class Item:
 
 
 # Function to download an image from a URL and save it to a specified file path
-def image_downloader(url: str, filedir: str) -> None:
-    try:
-        open(filedir)
-        return
-    except FileNotFoundError:
-        response = requests.get(url)
-        if response.status_code != 200:
-            with open(filedir, "wb") as file:
-                file.write(b"")
-            print(
-                f"Error: {response.status_code} while fetching {url} to save as {filedir}"
-            )
-        else:
-            with open(filedir, "wb") as file:
-                file.write(response.content)
+def image_downloader(url: str, filedir: str) -> bool:
+    print("downloading " + filedir)
+    response = requests.get(url)
+    if response.status_code != 200:
+        with open(filedir, "wb") as file:
+            file.write(b"")
+        print(
+            f"Error: {response.status_code} while fetching {url} to save as {filedir}"
+        )
+        return False
+    with open(filedir, "wb") as file:
+        file.write(response.content)
+    return True
 
 
 # Function to generate a header for a Markdown file
