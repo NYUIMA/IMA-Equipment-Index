@@ -89,4 +89,4 @@ for ws in wb:
 with open("links_map.json", "w") as links_map_file:
     json.dump(links_map, links_map_file, indent=2)
 print("-" * 30 + "\nAll done!")
-sys.exit(1)
+sys.exit(FAILED)
