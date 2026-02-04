@@ -4,7 +4,7 @@ sidebar_position: 30
 tags:
     - "Batteries"
 image: "/img/power/ultrafire_3.7v.png"
-description: "Brand: UltraFire, Model: 18650"
+description: "Brand: UltraFire, Model: 18650.0"
 ---
 # UltraFire 3.7v
 
@@ -14,7 +14,7 @@ description: "Brand: UltraFire, Model: 18650"
 
 **Brand**: UltraFire
 
-**Model**: 18650
+**Model**: 18650.0
 
 **Product page**: [https://www.ultrafire.com/collections/rechargeable-batt...](https://www.ultrafire.com/collections/rechargeable-batteries/products/18650-3000mah-batteries)
 

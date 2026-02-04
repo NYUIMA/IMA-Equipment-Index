@@ -4,7 +4,7 @@ sidebar_position: 20
 tags:
     - "Lighting"
 image: "/img/cameras/flashlight.png"
-description: "Brand: Zhongling, Model: 9601"
+description: "Brand: Zhongling, Model: 9601.0"
 ---
 # Flashlight
 
@@ -14,7 +14,7 @@ description: "Brand: Zhongling, Model: 9601"
 
 **Brand**: Zhongling
 
-**Model**: 9601
+**Model**: 9601.0
 
 **Product page**: [https://www.amazon.com/IMALENT-Brightest-Flashlight-Wat...](https://www.amazon.com/IMALENT-Brightest-Flashlight-Waterproof-Powerfull/dp/B07RSRXDLX?th=1)
 

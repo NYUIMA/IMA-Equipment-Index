@@ -4,7 +4,7 @@ sidebar_position: 50
 tags:
     - "Tripods"
 image: "/img/cameras/yunteng_tripod_dolly_900.png"
-description: "Brand: YunTeng, Model: 900"
+description: "Brand: YunTeng, Model: 900.0"
 ---
 # YunTeng Tripod Dolly 900
 
@@ -14,7 +14,7 @@ description: "Brand: YunTeng, Model: 900"
 
 **Brand**: YunTeng
 
-**Model**: 900
+**Model**: 900.0
 
 **Product page**: [https://www.yingkee.hk/yunteng-tripod-dolly-900/](https://www.yingkee.hk/yunteng-tripod-dolly-900/)
 

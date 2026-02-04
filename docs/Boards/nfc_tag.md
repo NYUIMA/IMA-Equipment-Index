@@ -26,21 +26,21 @@ Grove \- NFC Tag is a highly integrated Near Field Communication Tag module,this
 
 SPECIFICATION
 
-• Working Voltage:5V or 3V3
+• \_x009f\_Working Voltage:5V or 3V3
 
-• Working Current\<1mA
+• \_x009f\_Working Current\<1mA
 
-• 2CM max effective range
+• \_x009f\_2CM max effective range
 
-• Serve for contactless communication at 13\.56MHz
+• \_x009f\_Serve for contactless communication at 13\.56MHz
 
-• ISO 15693 and ISO 18000\-3 mode 1 compatible
+• \_x009f\_ISO 15693 and ISO 18000\-3 mode 1 compatible
 
-• 64\-bit unique identifier \(UID\)
+• \_x009f\_64\-bit unique identifier \(UID\)
 
-• Read Block & Write \(32\-bit blocks\)
+• \_x009f\_Read Block & Write \(32\-bit blocks\)
 
-• Grove I2C Interface
+• \_x009f\_Grove I2C Interface
 
 ## Additional information
 
